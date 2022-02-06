@@ -2,6 +2,7 @@
 # Problem Name:  数组中出现次数超过一半的数字  LCOF, 数组中出现次数超过一半的数字
 # Problem Url:  https://leetcode-cn.com/problems/shu-zu-zhong-chu-xian-ci-shu-chao-guo-yi-ban-de-shu-zi-lcof/
 # Problem Level:  Easy
+# Language:  Python3
  
 class Solution:
     def majorityElement(self, nums: List[int]) -> int:

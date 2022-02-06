@@ -2,6 +2,7 @@
 # Problem Name:  Paint Fence, 栅栏涂色
 # Problem Url:  https://leetcode-cn.com/problems/paint-fence/
 # Problem Level:  Medium
+# Language:  Python3
  
 class Solution:
     def numWays(self, n: int, k: int) -> int:

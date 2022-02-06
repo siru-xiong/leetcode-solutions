@@ -2,6 +2,7 @@
 # Problem Name:  n个骰子的点数  LCOF, n个骰子的点数
 # Problem Url:  https://leetcode-cn.com/problems/nge-tou-zi-de-dian-shu-lcof/
 # Problem Level:  Medium
+# Language:  Python3
  
 class Solution:
     def comp(self,a,b):

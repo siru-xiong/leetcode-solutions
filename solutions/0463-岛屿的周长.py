@@ -2,6 +2,7 @@
 # Problem Name:  Island Perimeter, 岛屿的周长
 # Problem Url:  https://leetcode-cn.com/problems/island-perimeter/
 # Problem Level:  Easy
+# Language:  Python3
  
 class Solution:
     def islandPerimeter(self, grid: List[List[int]]) -> int:

@@ -2,6 +2,7 @@
 # Problem Name:  Flatten a Multilevel Doubly Linked List, 扁平化多级双向链表
 # Problem Url:  https://leetcode-cn.com/problems/flatten-a-multilevel-doubly-linked-list/
 # Problem Level:  Medium
+# Language:  Python3
  
 """
 # Definition for a Node.

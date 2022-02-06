@@ -2,6 +2,7 @@
 # Problem Name:  Perfect Number, 完美数
 # Problem Url:  https://leetcode-cn.com/problems/perfect-number/
 # Problem Level:  Easy
+# Language:  Python3
  
 class Solution:
     def checkPerfectNumber(self, num: int) -> bool:

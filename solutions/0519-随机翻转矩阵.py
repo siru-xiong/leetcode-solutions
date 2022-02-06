@@ -2,6 +2,7 @@
 # Problem Name:  Random Flip Matrix, 随机翻转矩阵
 # Problem Url:  https://leetcode-cn.com/problems/random-flip-matrix/
 # Problem Level:  Medium
+# Language:  Python3
  
 class Solution:
 

@@ -2,6 +2,7 @@
 # Problem Name:  Design a Stack With Increment Operation, 设计一个支持增量操作的栈
 # Problem Url:  https://leetcode-cn.com/problems/design-a-stack-with-increment-operation/
 # Problem Level:  Medium
+# Language:  Python3
  
 class CustomStack:
 

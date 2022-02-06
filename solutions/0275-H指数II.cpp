@@ -1,7 +1,8 @@
-# Problem Id:  275
-# Problem Name:  H-Index II, H 指数 II
-# Problem Url:  https://leetcode-cn.com/problems/h-index-ii/
-# Problem Level:  Medium
+// Problem Id:  275
+// Problem Name:  H-Index II, H 指数 II
+// Problem Url:  https://leetcode-cn.com/problems/h-index-ii/
+// Problem Level:  Medium
+// Language:  C++
  
 class Solution {
 public:

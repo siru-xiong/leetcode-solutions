@@ -2,6 +2,7 @@
 # Problem Name:  Subrectangle Queries, 子矩形查询
 # Problem Url:  https://leetcode-cn.com/problems/subrectangle-queries/
 # Problem Level:  Medium
+# Language:  Python3
  
 class SubrectangleQueries:
 

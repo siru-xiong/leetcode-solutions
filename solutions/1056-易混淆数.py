@@ -2,6 +2,7 @@
 # Problem Name:  Confusing Number, 易混淆数
 # Problem Url:  https://leetcode-cn.com/problems/confusing-number/
 # Problem Level:  Easy
+# Language:  Python3
  
 class Solution:
     def confusingNumber(self, n: int) -> bool:

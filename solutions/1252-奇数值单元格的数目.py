@@ -2,6 +2,7 @@
 # Problem Name:  Cells with Odd Values in a Matrix, 奇数值单元格的数目
 # Problem Url:  https://leetcode-cn.com/problems/cells-with-odd-values-in-a-matrix/
 # Problem Level:  Easy
+# Language:  Python3
  
 class Solution:
     def oddCells(self, n: int, m: int, indices: List[List[int]]) -> int:

@@ -1,7 +1,8 @@
-# Problem Id:  180
-# Problem Name:  Consecutive Numbers, 连续出现的数字
-# Problem Url:  https://leetcode-cn.com/problems/consecutive-numbers/
-# Problem Level:  Medium
+-- Problem Id:  180
+-- Problem Name:  Consecutive Numbers, 连续出现的数字
+-- Problem Url:  https://leetcode-cn.com/problems/consecutive-numbers/
+-- Problem Level:  Medium
+-- Language:  MySQL
  
 # Write your MySQL query statement below
 select DISTINCT(l1.Num) as ConsecutiveNums

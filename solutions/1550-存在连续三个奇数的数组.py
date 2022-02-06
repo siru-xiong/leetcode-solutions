@@ -2,6 +2,7 @@
 # Problem Name:  Three Consecutive Odds, 存在连续三个奇数的数组
 # Problem Url:  https://leetcode-cn.com/problems/three-consecutive-odds/
 # Problem Level:  Easy
+# Language:  Python3
  
 class Solution:
     def threeConsecutiveOdds(self, arr: List[int]) -> bool:

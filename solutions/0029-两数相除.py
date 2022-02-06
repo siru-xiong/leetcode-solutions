@@ -2,6 +2,7 @@
 # Problem Name:  Divide Two Integers, 两数相除
 # Problem Url:  https://leetcode-cn.com/problems/divide-two-integers/
 # Problem Level:  Medium
+# Language:  Python3
  
 class Solution:  
     def divide(self, dividend: int, divisor: int) -> int:

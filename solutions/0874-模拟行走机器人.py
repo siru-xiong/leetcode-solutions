@@ -2,6 +2,7 @@
 # Problem Name:  Walking Robot Simulation, 模拟行走机器人
 # Problem Url:  https://leetcode-cn.com/problems/walking-robot-simulation/
 # Problem Level:  Medium
+# Language:  Python3
  
 class Solution:
     def robotSim(self, commands: List[int], obstacles: List[List[int]]) -> int:

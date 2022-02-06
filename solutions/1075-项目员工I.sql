@@ -1,7 +1,8 @@
-# Problem Id:  1075
-# Problem Name:  Project Employees I, 项目员工 I
-# Problem Url:  https://leetcode-cn.com/problems/project-employees-i/
-# Problem Level:  Easy
+-- Problem Id:  1075
+-- Problem Name:  Project Employees I, 项目员工 I
+-- Problem Url:  https://leetcode-cn.com/problems/project-employees-i/
+-- Problem Level:  Easy
+-- Language:  MySQL
  
 # Write your MySQL query statement below
 select b.project_id, round(avg(a.experience_years),2) as average_years from

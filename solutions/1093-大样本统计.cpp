@@ -1,7 +1,8 @@
-# Problem Id:  1093
-# Problem Name:  Statistics from a Large Sample, 大样本统计
-# Problem Url:  https://leetcode-cn.com/problems/statistics-from-a-large-sample/
-# Problem Level:  Medium
+// Problem Id:  1093
+// Problem Name:  Statistics from a Large Sample, 大样本统计
+// Problem Url:  https://leetcode-cn.com/problems/statistics-from-a-large-sample/
+// Problem Level:  Medium
+// Language:  C++
  
 class Solution {
 public:

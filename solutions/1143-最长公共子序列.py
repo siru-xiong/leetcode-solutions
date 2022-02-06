@@ -2,6 +2,7 @@
 # Problem Name:  Longest Common Subsequence, 最长公共子序列
 # Problem Url:  https://leetcode-cn.com/problems/longest-common-subsequence/
 # Problem Level:  Medium
+# Language:  Python3
  
 class Solution:
     def longestCommonSubsequence(self, text1: str, text2: str) -> int:

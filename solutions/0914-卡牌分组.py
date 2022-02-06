@@ -2,6 +2,7 @@
 # Problem Name:  X of a Kind in a Deck of Cards, 卡牌分组
 # Problem Url:  https://leetcode-cn.com/problems/x-of-a-kind-in-a-deck-of-cards/
 # Problem Level:  Easy
+# Language:  Python3
  
 class Solution:
     def hasGroupsSizeX(self, deck: List[int]) -> bool:

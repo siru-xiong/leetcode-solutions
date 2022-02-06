@@ -1,7 +1,8 @@
-# Problem Id:  614
-# Problem Name:  Second Degree Follower, 二级关注者
-# Problem Url:  https://leetcode-cn.com/problems/second-degree-follower/
-# Problem Level:  Medium
+-- Problem Id:  614
+-- Problem Name:  Second Degree Follower, 二级关注者
+-- Problem Url:  https://leetcode-cn.com/problems/second-degree-follower/
+-- Problem Level:  Medium
+-- Language:  MySQL
  
 # Write your MySQL query statement below
 select s1.follower, count(distinct s2.follower) as num

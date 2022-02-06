@@ -2,6 +2,7 @@
 # Problem Name:  剪绳子 II LCOF, 剪绳子 II
 # Problem Url:  https://leetcode-cn.com/problems/jian-sheng-zi-ii-lcof/
 # Problem Level:  Medium
+# Language:  Python3
  
 class Solution:
     def cuttingRope(self, n: int) -> int:

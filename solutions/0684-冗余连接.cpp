@@ -1,7 +1,8 @@
-# Problem Id:  684
-# Problem Name:  Redundant Connection, 冗余连接
-# Problem Url:  https://leetcode-cn.com/problems/redundant-connection/
-# Problem Level:  Medium
+// Problem Id:  684
+// Problem Name:  Redundant Connection, 冗余连接
+// Problem Url:  https://leetcode-cn.com/problems/redundant-connection/
+// Problem Level:  Medium
+// Language:  C++
  
 class UnionFind{
 public:

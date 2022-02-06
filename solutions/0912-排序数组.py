@@ -2,6 +2,7 @@
 # Problem Name:  Sort an Array, 排序数组
 # Problem Url:  https://leetcode-cn.com/problems/sort-an-array/
 # Problem Level:  Medium
+# Language:  Python3
  
 class Solution:
     def sortArray(self, nums: List[int]) -> List[int]:

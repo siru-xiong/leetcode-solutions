@@ -2,6 +2,7 @@
 # Problem Name:  Crawler Log Folder, 文件夹操作日志搜集器
 # Problem Url:  https://leetcode-cn.com/problems/crawler-log-folder/
 # Problem Level:  Easy
+# Language:  Python3
  
 class Solution:
     def minOperations(self, logs: List[str]) -> int:

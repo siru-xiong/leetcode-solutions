@@ -1,7 +1,8 @@
-# Problem Id:  剑指 Offer II 059
-# Problem Name:  数据流的第 K 大数值, 数据流的第 K 大数值
-# Problem Url:  https://leetcode-cn.com/problems/jBjn9C/
-# Problem Level:  Easy
+// Problem Id:  剑指 Offer II 059
+// Problem Name:  数据流的第 K 大数值, 数据流的第 K 大数值
+// Problem Url:  https://leetcode-cn.com/problems/jBjn9C/
+// Problem Level:  Easy
+// Language:  C++
  
 class KthLargest {
 public:

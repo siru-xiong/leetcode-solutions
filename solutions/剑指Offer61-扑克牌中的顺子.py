@@ -2,6 +2,7 @@
 # Problem Name:  扑克牌中的顺子  LCOF, 扑克牌中的顺子
 # Problem Url:  https://leetcode-cn.com/problems/bu-ke-pai-zhong-de-shun-zi-lcof/
 # Problem Level:  Easy
+# Language:  Python3
  
 class Solution:
     def isStraight(self, nums: List[int]) -> bool:

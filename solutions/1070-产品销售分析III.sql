@@ -1,7 +1,8 @@
-# Problem Id:  1070
-# Problem Name:  Product Sales Analysis III, 产品销售分析 III
-# Problem Url:  https://leetcode-cn.com/problems/product-sales-analysis-iii/
-# Problem Level:  Medium
+-- Problem Id:  1070
+-- Problem Name:  Product Sales Analysis III, 产品销售分析 III
+-- Problem Url:  https://leetcode-cn.com/problems/product-sales-analysis-iii/
+-- Problem Level:  Medium
+-- Language:  MySQL
  
 # Write your MySQL query statement below
 select product_id, year as first_year, quantity, price

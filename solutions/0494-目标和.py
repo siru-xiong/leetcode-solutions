@@ -2,6 +2,7 @@
 # Problem Name:  Target Sum, 目标和
 # Problem Url:  https://leetcode-cn.com/problems/target-sum/
 # Problem Level:  Medium
+# Language:  Python3
  
 class Solution:
     def findTargetSumWays(self, nums: List[int], S: int) -> int:

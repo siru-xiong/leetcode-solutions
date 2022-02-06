@@ -2,6 +2,7 @@
 # Problem Name:  Binary Tree Pruning, 二叉树剪枝
 # Problem Url:  https://leetcode-cn.com/problems/binary-tree-pruning/
 # Problem Level:  Medium
+# Language:  Python3
  
 # Definition for a binary tree node.
 # class TreeNode:

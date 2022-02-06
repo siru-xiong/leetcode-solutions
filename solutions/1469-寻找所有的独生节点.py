@@ -2,6 +2,7 @@
 # Problem Name:  Find All The Lonely Nodes, 寻找所有的独生节点
 # Problem Url:  https://leetcode-cn.com/problems/find-all-the-lonely-nodes/
 # Problem Level:  Easy
+# Language:  Python3
  
 # Definition for a binary tree node.
 # class TreeNode:

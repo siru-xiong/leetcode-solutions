@@ -2,6 +2,7 @@
 # Problem Name:  Group the People Given the Group Size They Belong To, 用户分组
 # Problem Url:  https://leetcode-cn.com/problems/group-the-people-given-the-group-size-they-belong-to/
 # Problem Level:  Medium
+# Language:  Python3
  
 class Solution:
     def groupThePeople(self, groupSizes: List[int]) -> List[List[int]]:

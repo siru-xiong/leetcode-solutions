@@ -2,6 +2,7 @@
 # Problem Name:  Minimum Time Visiting All Points, 访问所有点的最小时间
 # Problem Url:  https://leetcode-cn.com/problems/minimum-time-visiting-all-points/
 # Problem Level:  Easy
+# Language:  Python3
  
 class Solution:
     def minTimeToVisitAllPoints(self, points: List[List[int]]) -> int:

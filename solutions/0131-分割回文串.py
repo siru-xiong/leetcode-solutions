@@ -2,6 +2,7 @@
 # Problem Name:  Palindrome Partitioning, 分割回文串
 # Problem Url:  https://leetcode-cn.com/problems/palindrome-partitioning/
 # Problem Level:  Medium
+# Language:  Python3
  
 class Solution:
     def t(self, s:str):

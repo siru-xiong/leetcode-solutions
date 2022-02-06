@@ -1,7 +1,8 @@
-# Problem Id:  618
-# Problem Name:  Students Report By Geography, 学生地理信息报告
-# Problem Url:  https://leetcode-cn.com/problems/students-report-by-geography/
-# Problem Level:  Hard
+-- Problem Id:  618
+-- Problem Name:  Students Report By Geography, 学生地理信息报告
+-- Problem Url:  https://leetcode-cn.com/problems/students-report-by-geography/
+-- Problem Level:  Hard
+-- Language:  MySQL
  
 # Write your MySQL query statement below
 select t1.name as America, t2.name as Asia, t3.name as Europe from 

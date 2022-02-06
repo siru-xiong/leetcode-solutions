@@ -2,6 +2,7 @@
 # Problem Name:  Latest Time by Replacing Hidden Digits, 替换隐藏数字得到的最晚时间
 # Problem Url:  https://leetcode-cn.com/problems/latest-time-by-replacing-hidden-digits/
 # Problem Level:  Easy
+# Language:  Python3
  
 class Solution:
     def maximumTime(self, time: str) -> str:

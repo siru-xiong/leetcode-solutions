@@ -2,6 +2,7 @@
 # Problem Name:  Convert Binary Number in a Linked List to Integer, 二进制链表转整数
 # Problem Url:  https://leetcode-cn.com/problems/convert-binary-number-in-a-linked-list-to-integer/
 # Problem Level:  Easy
+# Language:  Python3
  
 # Definition for singly-linked list.
 # class ListNode:

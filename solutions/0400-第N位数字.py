@@ -2,6 +2,7 @@
 # Problem Name:  Nth Digit, 第 N 位数字
 # Problem Url:  https://leetcode-cn.com/problems/nth-digit/
 # Problem Level:  Medium
+# Language:  Python3
  
 class Solution:
     def findNthDigit(self, n: int) -> int:

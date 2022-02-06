@@ -2,6 +2,7 @@
 # Problem Name:  Ugly Number II, 丑数 II
 # Problem Url:  https://leetcode-cn.com/problems/ugly-number-ii/
 # Problem Level:  Medium
+# Language:  Python3
  
 class Solution:
     def nthUglyNumber(self, n: int) -> int:

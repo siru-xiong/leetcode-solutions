@@ -2,6 +2,7 @@
 # Problem Name:  Min Cost Climbing Stairs, 使用最小花费爬楼梯
 # Problem Url:  https://leetcode-cn.com/problems/min-cost-climbing-stairs/
 # Problem Level:  Easy
+# Language:  Python3
  
 class Solution:
     def minCostClimbingStairs(self, cost: List[int]) -> int:

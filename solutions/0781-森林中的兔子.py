@@ -2,6 +2,7 @@
 # Problem Name:  Rabbits in Forest, 森林中的兔子
 # Problem Url:  https://leetcode-cn.com/problems/rabbits-in-forest/
 # Problem Level:  Medium
+# Language:  Python3
  
 class Solution:
     def numRabbits(self, answers: List[int]) -> int:

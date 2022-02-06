@@ -2,6 +2,7 @@
 # Problem Name:  Check if One String Swap Can Make Strings Equal, 仅执行一次字符串交换能否使两个字符串相等
 # Problem Url:  https://leetcode-cn.com/problems/check-if-one-string-swap-can-make-strings-equal/
 # Problem Level:  Easy
+# Language:  Python3
  
 class Solution:
     def areAlmostEqual(self, s1: str, s2: str) -> bool:

@@ -2,6 +2,7 @@
 # Problem Name:  House Robber, 打家劫舍
 # Problem Url:  https://leetcode-cn.com/problems/house-robber/
 # Problem Level:  Medium
+# Language:  Python3
  
 class Solution:
     def rob(self, nums: List[int]) -> int:

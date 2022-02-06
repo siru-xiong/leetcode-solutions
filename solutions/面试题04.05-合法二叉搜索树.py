@@ -2,6 +2,7 @@
 # Problem Name:  Legal Binary Search Tree LCCI, 合法二叉搜索树
 # Problem Url:  https://leetcode-cn.com/problems/legal-binary-search-tree-lcci/
 # Problem Level:  Medium
+# Language:  Python3
  
 # Definition for a binary tree node.
 # class TreeNode:

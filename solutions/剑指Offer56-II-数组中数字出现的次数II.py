@@ -2,6 +2,7 @@
 # Problem Name:  数组中数字出现的次数 II LCOF, 数组中数字出现的次数 II
 # Problem Url:  https://leetcode-cn.com/problems/shu-zu-zhong-shu-zi-chu-xian-de-ci-shu-ii-lcof/
 # Problem Level:  Medium
+# Language:  Python3
  
 class Solution:
     def bina(self,number):

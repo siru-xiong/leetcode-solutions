@@ -2,6 +2,7 @@
 # Problem Name:  Remove 9, 移除 9
 # Problem Url:  https://leetcode-cn.com/problems/remove-9/
 # Problem Level:  Hard
+# Language:  Python3
  
 class Solution:
     def newInteger(self, n: int) -> int:

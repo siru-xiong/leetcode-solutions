@@ -2,6 +2,7 @@
 # Problem Name:  Assign Cookies, 分发饼干
 # Problem Url:  https://leetcode-cn.com/problems/assign-cookies/
 # Problem Level:  Easy
+# Language:  Python3
  
 class Solution:
     def findContentChildren(self, g: List[int], s: List[int]) -> int:

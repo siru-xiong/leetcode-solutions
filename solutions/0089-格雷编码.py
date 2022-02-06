@@ -2,6 +2,7 @@
 # Problem Name:  Gray Code, 格雷编码
 # Problem Url:  https://leetcode-cn.com/problems/gray-code/
 # Problem Level:  Medium
+# Language:  Python3
  
 class Solution:
     def grayCode(self, n: int) -> List[int]:

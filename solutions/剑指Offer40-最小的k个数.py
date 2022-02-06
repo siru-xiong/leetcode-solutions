@@ -2,6 +2,7 @@
 # Problem Name:  最小的k个数  LCOF, 最小的k个数
 # Problem Url:  https://leetcode-cn.com/problems/zui-xiao-de-kge-shu-lcof/
 # Problem Level:  Easy
+# Language:  Python3
  
 class Solution:
     def getLeastNumbers(self, arr: List[int], k: int) -> List[int]:

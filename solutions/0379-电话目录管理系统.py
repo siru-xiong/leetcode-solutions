@@ -2,6 +2,7 @@
 # Problem Name:  Design Phone Directory, 电话目录管理系统
 # Problem Url:  https://leetcode-cn.com/problems/design-phone-directory/
 # Problem Level:  Medium
+# Language:  Python3
  
 class PhoneDirectory:
 

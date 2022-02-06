@@ -2,6 +2,7 @@
 # Problem Name:  Missing Ranges, 缺失的区间
 # Problem Url:  https://leetcode-cn.com/problems/missing-ranges/
 # Problem Level:  Easy
+# Language:  Python3
  
 class Solution:
     def findMissingRanges(self, nums: List[int], lower: int, upper: int) -> List[str]:

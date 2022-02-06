@@ -2,6 +2,7 @@
 # Problem Name:  Find Median from Data Stream, 数据流的中位数
 # Problem Url:  https://leetcode-cn.com/problems/find-median-from-data-stream/
 # Problem Level:  Hard
+# Language:  Python3
  
 class MedianFinder:
 

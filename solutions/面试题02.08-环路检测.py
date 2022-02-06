@@ -2,6 +2,7 @@
 # Problem Name:  Linked List Cycle LCCI, 环路检测
 # Problem Url:  https://leetcode-cn.com/problems/linked-list-cycle-lcci/
 # Problem Level:  Medium
+# Language:  Python3
  
 # Definition for singly-linked list.
 # class ListNode:

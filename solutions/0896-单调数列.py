@@ -2,6 +2,7 @@
 # Problem Name:  Monotonic Array, 单调数列
 # Problem Url:  https://leetcode-cn.com/problems/monotonic-array/
 # Problem Level:  Easy
+# Language:  Python3
  
 class Solution:
     def isMonotonic(self, A: List[int]) -> bool:

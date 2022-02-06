@@ -2,6 +2,7 @@
 # Problem Name:  Contiguous Array, 连续数组
 # Problem Url:  https://leetcode-cn.com/problems/contiguous-array/
 # Problem Level:  Medium
+# Language:  Python3
  
 class Solution:
     def findMaxLength(self, nums: List[int]) -> int:

@@ -2,6 +2,7 @@
 # Problem Name:  Reverse Vowels of a String, 反转字符串中的元音字母
 # Problem Url:  https://leetcode-cn.com/problems/reverse-vowels-of-a-string/
 # Problem Level:  Easy
+# Language:  Python3
  
 class Solution:
     def reverseVowels(self, s: str) -> str:

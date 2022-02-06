@@ -2,6 +2,7 @@
 # Problem Name:  Convex Polygon, 凸多边形
 # Problem Url:  https://leetcode-cn.com/problems/convex-polygon/
 # Problem Level:  Medium
+# Language:  Python3
  
 class Solution:
     def isConvex(self, points: List[List[int]]) -> bool:

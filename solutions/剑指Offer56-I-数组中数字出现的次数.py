@@ -2,6 +2,7 @@
 # Problem Name:  数组中数字出现的次数 LCOF, 数组中数字出现的次数
 # Problem Url:  https://leetcode-cn.com/problems/shu-zu-zhong-shu-zi-chu-xian-de-ci-shu-lcof/
 # Problem Level:  Medium
+# Language:  Python3
  
 class Solution:
     def singleNumbers(self, nums: List[int]) -> List[int]:

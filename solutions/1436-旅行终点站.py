@@ -2,6 +2,7 @@
 # Problem Name:  Destination City, 旅行终点站
 # Problem Url:  https://leetcode-cn.com/problems/destination-city/
 # Problem Level:  Easy
+# Language:  Python3
  
 class Solution:
     def destCity(self, paths: List[List[str]]) -> str:

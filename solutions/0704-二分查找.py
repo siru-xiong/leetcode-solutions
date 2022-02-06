@@ -2,6 +2,7 @@
 # Problem Name:  Binary Search, 二分查找
 # Problem Url:  https://leetcode-cn.com/problems/binary-search/
 # Problem Level:  Easy
+# Language:  Python3
  
 class Solution:
     def search(self, nums: List[int], target: int) -> int:

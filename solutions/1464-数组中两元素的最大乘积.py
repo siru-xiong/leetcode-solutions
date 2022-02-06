@@ -2,6 +2,7 @@
 # Problem Name:  Maximum Product of Two Elements in an Array, 数组中两元素的最大乘积
 # Problem Url:  https://leetcode-cn.com/problems/maximum-product-of-two-elements-in-an-array/
 # Problem Level:  Easy
+# Language:  Python3
  
 class Solution:
     def maxProduct(self, nums: List[int]) -> int:

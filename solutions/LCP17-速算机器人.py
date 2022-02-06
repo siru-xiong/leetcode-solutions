@@ -2,6 +2,7 @@
 # Problem Name:  速算机器人, 速算机器人
 # Problem Url:  https://leetcode-cn.com/problems/nGK0Fy/
 # Problem Level:  Easy
+# Language:  Python3
  
 class Solution:
     def calculate(self, s: str) -> int:

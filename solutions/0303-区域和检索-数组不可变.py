@@ -2,6 +2,7 @@
 # Problem Name:  Range Sum Query - Immutable, 区域和检索 - 数组不可变
 # Problem Url:  https://leetcode-cn.com/problems/range-sum-query-immutable/
 # Problem Level:  Easy
+# Language:  Python3
  
 class NumArray:
 

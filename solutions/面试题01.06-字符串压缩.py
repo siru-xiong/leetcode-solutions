@@ -2,6 +2,7 @@
 # Problem Name:  Compress String LCCI, 字符串压缩
 # Problem Url:  https://leetcode-cn.com/problems/compress-string-lcci/
 # Problem Level:  Easy
+# Language:  Python3
  
 class Solution:
     def compressString(self, S: str) -> str:

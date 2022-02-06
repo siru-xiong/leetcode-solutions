@@ -2,6 +2,7 @@
 # Problem Name:  Remove Outermost Parentheses, 删除最外层的括号
 # Problem Url:  https://leetcode-cn.com/problems/remove-outermost-parentheses/
 # Problem Level:  Easy
+# Language:  Python3
  
 class Solution:
     def removeOuterParentheses(self, S: str) -> str:

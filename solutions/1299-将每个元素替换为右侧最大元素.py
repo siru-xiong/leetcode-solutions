@@ -2,6 +2,7 @@
 # Problem Name:  Replace Elements with Greatest Element on Right Side, 将每个元素替换为右侧最大元素
 # Problem Url:  https://leetcode-cn.com/problems/replace-elements-with-greatest-element-on-right-side/
 # Problem Level:  Easy
+# Language:  Python3
  
 class Solution:
     def replaceElements(self, arr: List[int]) -> List[int]:

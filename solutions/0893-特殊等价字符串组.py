@@ -2,6 +2,7 @@
 # Problem Name:  Groups of Special-Equivalent Strings, 特殊等价字符串组
 # Problem Url:  https://leetcode-cn.com/problems/groups-of-special-equivalent-strings/
 # Problem Level:  Medium
+# Language:  Python3
  
 class Solution:
     def t(self, x):

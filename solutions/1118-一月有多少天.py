@@ -2,6 +2,7 @@
 # Problem Name:  Number of Days in a Month, 一月有多少天
 # Problem Url:  https://leetcode-cn.com/problems/number-of-days-in-a-month/
 # Problem Level:  Easy
+# Language:  Python3
  
 class Solution:
     def numberOfDays(self, year: int, month: int) -> int:

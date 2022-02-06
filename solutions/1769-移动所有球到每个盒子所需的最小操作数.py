@@ -2,6 +2,7 @@
 # Problem Name:  Minimum Number of Operations to Move All Balls to Each Box, 移动所有球到每个盒子所需的最小操作数
 # Problem Url:  https://leetcode-cn.com/problems/minimum-number-of-operations-to-move-all-balls-to-each-box/
 # Problem Level:  Medium
+# Language:  Python3
  
 class Solution:
     def minOperations(self, boxes: str) -> List[int]:

@@ -1,7 +1,8 @@
-# Problem Id:  178
-# Problem Name:  Rank Scores, 分数排名
-# Problem Url:  https://leetcode-cn.com/problems/rank-scores/
-# Problem Level:  Medium
+-- Problem Id:  178
+-- Problem Name:  Rank Scores, 分数排名
+-- Problem Url:  https://leetcode-cn.com/problems/rank-scores/
+-- Problem Level:  Medium
+-- Language:  MySQL
  
 # Write your MySQL query statement below
 select s1.Score , count(distinct s2.Score) AS 'Rank' from

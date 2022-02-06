@@ -2,6 +2,7 @@
 # Problem Name:  Can Make Arithmetic Progression From Sequence, 判断能否形成等差数列
 # Problem Url:  https://leetcode-cn.com/problems/can-make-arithmetic-progression-from-sequence/
 # Problem Level:  Easy
+# Language:  Python3
  
 class Solution:
     def canMakeArithmeticProgression(self, arr: List[int]) -> bool:

@@ -2,6 +2,7 @@
 # Problem Name:  Sum of Square Numbers, 平方数之和
 # Problem Url:  https://leetcode-cn.com/problems/sum-of-square-numbers/
 # Problem Level:  Medium
+# Language:  Python3
  
 class Solution:
     def judgeSquareSum(self, c: int) -> bool:

@@ -2,6 +2,7 @@
 # Problem Name:  Maximum Product Subarray, 乘积最大子数组
 # Problem Url:  https://leetcode-cn.com/problems/maximum-product-subarray/
 # Problem Level:  Medium
+# Language:  Python3
  
 class Solution:
     def maxProduct(self, nums: List[int]) -> int:

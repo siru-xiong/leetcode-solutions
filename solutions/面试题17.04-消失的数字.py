@@ -2,6 +2,7 @@
 # Problem Name:  Missing Number LCCI, 消失的数字
 # Problem Url:  https://leetcode-cn.com/problems/missing-number-lcci/
 # Problem Level:  Easy
+# Language:  Python3
  
 class Solution:
     def missingNumber(self, nums: List[int]) -> int:

@@ -2,6 +2,7 @@
 # Problem Name:  Smallest K LCCI, 最小K个数
 # Problem Url:  https://leetcode-cn.com/problems/smallest-k-lcci/
 # Problem Level:  Medium
+# Language:  Python3
  
 class Solution:
     def merge(self,left,right):

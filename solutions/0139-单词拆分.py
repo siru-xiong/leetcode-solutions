@@ -2,6 +2,7 @@
 # Problem Name:  Word Break, 单词拆分
 # Problem Url:  https://leetcode-cn.com/problems/word-break/
 # Problem Level:  Medium
+# Language:  Python3
  
 class Solution:
     def wordBreak(self, s: str, wordDict: List[str]) -> bool:

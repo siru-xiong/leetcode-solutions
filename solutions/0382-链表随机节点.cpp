@@ -1,7 +1,8 @@
-# Problem Id:  382
-# Problem Name:  Linked List Random Node, 链表随机节点
-# Problem Url:  https://leetcode-cn.com/problems/linked-list-random-node/
-# Problem Level:  Medium
+// Problem Id:  382
+// Problem Name:  Linked List Random Node, 链表随机节点
+// Problem Url:  https://leetcode-cn.com/problems/linked-list-random-node/
+// Problem Level:  Medium
+// Language:  C++
  
 /**
  * Definition for singly-linked list.

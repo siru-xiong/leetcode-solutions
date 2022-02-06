@@ -2,6 +2,7 @@
 # Problem Name:  Array Transformation, 数组变换
 # Problem Url:  https://leetcode-cn.com/problems/array-transformation/
 # Problem Level:  Easy
+# Language:  Python3
  
 class Solution:
     def transformArray(self, arr: List[int]) -> List[int]:

@@ -2,6 +2,7 @@
 # Problem Name:  Distribute Candies to People, 分糖果 II
 # Problem Url:  https://leetcode-cn.com/problems/distribute-candies-to-people/
 # Problem Level:  Easy
+# Language:  Python3
  
 class Solution:
     def distributeCandies(self, candies: int, num_people: int) -> List[int]:

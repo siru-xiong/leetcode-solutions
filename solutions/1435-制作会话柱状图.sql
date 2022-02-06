@@ -1,7 +1,8 @@
-# Problem Id:  1435
-# Problem Name:  Create a Session Bar Chart, 制作会话柱状图
-# Problem Url:  https://leetcode-cn.com/problems/create-a-session-bar-chart/
-# Problem Level:  Easy
+-- Problem Id:  1435
+-- Problem Name:  Create a Session Bar Chart, 制作会话柱状图
+-- Problem Url:  https://leetcode-cn.com/problems/create-a-session-bar-chart/
+-- Problem Level:  Easy
+-- Language:  MySQL
  
 # Write your MySQL query statement below
 select a.bin, case when b.total is null then 0 else b.total end as total from

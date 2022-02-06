@@ -2,6 +2,7 @@
 # Problem Name:  Unique Morse Code Words, 唯一摩尔斯密码词
 # Problem Url:  https://leetcode-cn.com/problems/unique-morse-code-words/
 # Problem Level:  Easy
+# Language:  Python3
  
 class Solution:
     def uniqueMorseRepresentations(self, words: List[str]) -> int:

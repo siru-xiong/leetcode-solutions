@@ -2,6 +2,7 @@
 # Problem Name:  Reverse Bits, 颠倒二进制位
 # Problem Url:  https://leetcode-cn.com/problems/reverse-bits/
 # Problem Level:  Easy
+# Language:  Python3
  
 class Solution:
     def reverseBits(self, n: int) -> int:

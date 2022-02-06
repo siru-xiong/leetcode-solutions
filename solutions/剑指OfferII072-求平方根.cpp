@@ -1,7 +1,8 @@
-# Problem Id:  剑指 Offer II 072
-# Problem Name:  求平方根, 求平方根
-# Problem Url:  https://leetcode-cn.com/problems/jJ0w9p/
-# Problem Level:  Easy
+// Problem Id:  剑指 Offer II 072
+// Problem Name:  求平方根, 求平方根
+// Problem Url:  https://leetcode-cn.com/problems/jJ0w9p/
+// Problem Level:  Easy
+// Language:  C++
  
 class Solution {
 public:

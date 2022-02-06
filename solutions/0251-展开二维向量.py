@@ -2,6 +2,7 @@
 # Problem Name:  Flatten 2D Vector, 展开二维向量
 # Problem Url:  https://leetcode-cn.com/problems/flatten-2d-vector/
 # Problem Level:  Medium
+# Language:  Python3
  
 class Vector2D:
 

@@ -1,7 +1,8 @@
-# Problem Id:  579
-# Problem Name:  Find Cumulative Salary of an Employee, 查询员工的累计薪水
-# Problem Url:  https://leetcode-cn.com/problems/find-cumulative-salary-of-an-employee/
-# Problem Level:  Hard
+-- Problem Id:  579
+-- Problem Name:  Find Cumulative Salary of an Employee, 查询员工的累计薪水
+-- Problem Url:  https://leetcode-cn.com/problems/find-cumulative-salary-of-an-employee/
+-- Problem Level:  Hard
+-- Language:  MySQL
  
 # Write your MySQL query statement below
 select r.id, r.month, r.s1+r.s2+r.s3 as salary from

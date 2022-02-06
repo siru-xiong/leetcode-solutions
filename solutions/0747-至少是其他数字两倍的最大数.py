@@ -2,6 +2,7 @@
 # Problem Name:  Largest Number At Least Twice of Others, 至少是其他数字两倍的最大数
 # Problem Url:  https://leetcode-cn.com/problems/largest-number-at-least-twice-of-others/
 # Problem Level:  Easy
+# Language:  Python3
  
 class Solution:
     def dominantIndex(self, nums: List[int]) -> int:

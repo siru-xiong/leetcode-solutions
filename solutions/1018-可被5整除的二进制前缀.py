@@ -2,6 +2,7 @@
 # Problem Name:  Binary Prefix Divisible By 5, 可被 5 整除的二进制前缀
 # Problem Url:  https://leetcode-cn.com/problems/binary-prefix-divisible-by-5/
 # Problem Level:  Easy
+# Language:  Python3
  
 class Solution:
     def prefixesDivBy5(self, A: List[int]) -> List[bool]:

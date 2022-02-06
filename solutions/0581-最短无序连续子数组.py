@@ -2,6 +2,7 @@
 # Problem Name:  Shortest Unsorted Continuous Subarray, 最短无序连续子数组
 # Problem Url:  https://leetcode-cn.com/problems/shortest-unsorted-continuous-subarray/
 # Problem Level:  Medium
+# Language:  Python3
  
 class Solution:
     def findUnsortedSubarray(self, nums: List[int]) -> int:

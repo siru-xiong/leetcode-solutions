@@ -2,6 +2,7 @@
 # Problem Name:  Sign of the Product of an Array, 数组元素积的符号
 # Problem Url:  https://leetcode-cn.com/problems/sign-of-the-product-of-an-array/
 # Problem Level:  Easy
+# Language:  Python3
  
 class Solution:
     def arraySign(self, nums: List[int]) -> int:

@@ -2,6 +2,7 @@
 # Problem Name:  Count of Matches in Tournament, 比赛中的配对次数
 # Problem Url:  https://leetcode-cn.com/problems/count-of-matches-in-tournament/
 # Problem Level:  Easy
+# Language:  Python3
  
 class Solution:
     def numberOfMatches(self, n: int) -> int:

@@ -2,6 +2,7 @@
 # Problem Name:  Remove Duplicates from Sorted List II, 删除排序链表中的重复元素 II
 # Problem Url:  https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list-ii/
 # Problem Level:  Medium
+# Language:  Python3
  
 # Definition for singly-linked list.
 # class ListNode:

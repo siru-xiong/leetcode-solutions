@@ -2,6 +2,7 @@
 # Problem Name:  Excel Sheet Column Number, Excel 表列序号
 # Problem Url:  https://leetcode-cn.com/problems/excel-sheet-column-number/
 # Problem Level:  Easy
+# Language:  Python3
  
 class Solution:
     def titleToNumber(self, s: str) -> int:

@@ -2,6 +2,7 @@
 # Problem Name:  Arranging Coins, 排列硬币
 # Problem Url:  https://leetcode-cn.com/problems/arranging-coins/
 # Problem Level:  Easy
+# Language:  Python3
  
 class Solution:
     def arrangeCoins(self, n: int) -> int:

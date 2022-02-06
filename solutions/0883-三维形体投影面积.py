@@ -2,6 +2,7 @@
 # Problem Name:  Projection Area of 3D Shapes, 三维形体投影面积
 # Problem Url:  https://leetcode-cn.com/problems/projection-area-of-3d-shapes/
 # Problem Level:  Easy
+# Language:  Python3
  
 class Solution:
     def projectionArea(self, grid: List[List[int]]) -> int:

@@ -2,6 +2,7 @@
 # Problem Name:  Relative Sort Array, 数组的相对排序
 # Problem Url:  https://leetcode-cn.com/problems/relative-sort-array/
 # Problem Level:  Easy
+# Language:  Python3
  
 class Solution:
     def relativeSortArray(self, arr1: List[int], arr2: List[int]) -> List[int]:

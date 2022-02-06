@@ -2,6 +2,7 @@
 # Problem Name:  Find Positive Integer Solution for a Given Equation, 找出给定方程的正整数解
 # Problem Url:  https://leetcode-cn.com/problems/find-positive-integer-solution-for-a-given-equation/
 # Problem Level:  Medium
+# Language:  Python3
  
 """
    This is the custom function interface.

@@ -2,6 +2,7 @@
 # Problem Name:  Longest Substring with At Most Two Distinct Characters, 至多包含两个不同字符的最长子串
 # Problem Url:  https://leetcode-cn.com/problems/longest-substring-with-at-most-two-distinct-characters/
 # Problem Level:  Medium
+# Language:  Python3
  
 class Solution:
     def lengthOfLongestSubstringTwoDistinct(self, s: str) -> int:

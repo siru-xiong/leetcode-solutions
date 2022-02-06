@@ -2,6 +2,7 @@
 # Problem Name:  Find All Anagrams in a String, 找到字符串中所有字母异位词
 # Problem Url:  https://leetcode-cn.com/problems/find-all-anagrams-in-a-string/
 # Problem Level:  Medium
+# Language:  Python3
  
 class Solution:
     def findAnagrams(self, s: str, p: str) -> List[int]:

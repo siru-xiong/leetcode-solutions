@@ -2,6 +2,7 @@
 # Problem Name:  Count and Say, 外观数列
 # Problem Url:  https://leetcode-cn.com/problems/count-and-say/
 # Problem Level:  Medium
+# Language:  Python3
  
 class Solution:
     def countAndSay(self, n: int) -> str:

@@ -2,6 +2,7 @@
 # Problem Name:  Is Unique LCCI, 判定字符是否唯一
 # Problem Url:  https://leetcode-cn.com/problems/is-unique-lcci/
 # Problem Level:  Easy
+# Language:  Python3
  
 class Solution:
     def isUnique(self, astr: str) -> bool:

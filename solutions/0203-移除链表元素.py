@@ -2,6 +2,7 @@
 # Problem Name:  Remove Linked List Elements, 移除链表元素
 # Problem Url:  https://leetcode-cn.com/problems/remove-linked-list-elements/
 # Problem Level:  Easy
+# Language:  Python3
  
 # Definition for singly-linked list.
 # class ListNode:

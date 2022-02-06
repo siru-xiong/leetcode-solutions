@@ -2,6 +2,7 @@
 # Problem Name:  Maximum Gap, 最大间距
 # Problem Url:  https://leetcode-cn.com/problems/maximum-gap/
 # Problem Level:  Hard
+# Language:  Python3
  
 class Solution:
     def maximumGap(self, nums: List[int]) -> int:

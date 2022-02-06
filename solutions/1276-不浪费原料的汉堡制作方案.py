@@ -2,6 +2,7 @@
 # Problem Name:  Number of Burgers with No Waste of Ingredients, 不浪费原料的汉堡制作方案
 # Problem Url:  https://leetcode-cn.com/problems/number-of-burgers-with-no-waste-of-ingredients/
 # Problem Level:  Medium
+# Language:  Python3
  
 class Solution:
     def numOfBurgers(self, tomatoSlices: int, cheeseSlices: int) -> List[int]:

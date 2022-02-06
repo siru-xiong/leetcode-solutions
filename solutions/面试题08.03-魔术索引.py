@@ -2,6 +2,7 @@
 # Problem Name:  Magic Index LCCI, 魔术索引
 # Problem Url:  https://leetcode-cn.com/problems/magic-index-lcci/
 # Problem Level:  Easy
+# Language:  Python3
  
 class Solution:
     def findMagicIndex(self, nums: List[int]) -> int:

@@ -2,6 +2,7 @@
 # Problem Name:  Convert Integer to the Sum of Two No-Zero Integers, 将整数转换为两个无零整数的和
 # Problem Url:  https://leetcode-cn.com/problems/convert-integer-to-the-sum-of-two-no-zero-integers/
 # Problem Level:  Easy
+# Language:  Python3
  
 class Solution:
     def getNoZeroIntegers(self, n: int) -> List[int]:

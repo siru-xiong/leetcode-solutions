@@ -2,6 +2,7 @@
 # Problem Name:  Binary Gap, 二进制间距
 # Problem Url:  https://leetcode-cn.com/problems/binary-gap/
 # Problem Level:  Easy
+# Language:  Python3
  
 class Solution:
     def binaryGap(self, n: int) -> int:

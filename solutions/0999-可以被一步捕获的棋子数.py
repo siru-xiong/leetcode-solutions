@@ -2,6 +2,7 @@
 # Problem Name:  Available Captures for Rook, 可以被一步捕获的棋子数
 # Problem Url:  https://leetcode-cn.com/problems/available-captures-for-rook/
 # Problem Level:  Easy
+# Language:  Python3
  
 class Solution:
     def numRookCaptures(self, board: List[List[str]]) -> int:

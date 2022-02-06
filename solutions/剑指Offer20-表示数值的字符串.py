@@ -2,6 +2,7 @@
 # Problem Name:  表示数值的字符串 LCOF, 表示数值的字符串
 # Problem Url:  https://leetcode-cn.com/problems/biao-shi-shu-zhi-de-zi-fu-chuan-lcof/
 # Problem Level:  Medium
+# Language:  Python3
  
 class Solution:
     def block(self, s:str) -> bool:

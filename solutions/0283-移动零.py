@@ -2,6 +2,7 @@
 # Problem Name:  Move Zeroes, 移动零
 # Problem Url:  https://leetcode-cn.com/problems/move-zeroes/
 # Problem Level:  Easy
+# Language:  Python3
  
 class Solution:
     def moveZeroes(self, nums: List[int]) -> None:

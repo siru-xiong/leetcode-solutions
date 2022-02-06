@@ -2,6 +2,7 @@
 # Problem Name:  Rotate Image, 旋转图像
 # Problem Url:  https://leetcode-cn.com/problems/rotate-image/
 # Problem Level:  Medium
+# Language:  Python3
  
 class Solution:
     def rotate(self, matrix: List[List[int]]) -> None:

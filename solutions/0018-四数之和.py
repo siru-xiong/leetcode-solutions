@@ -2,6 +2,7 @@
 # Problem Name:  4Sum, 四数之和
 # Problem Url:  https://leetcode-cn.com/problems/4sum/
 # Problem Level:  Medium
+# Language:  Python3
  
 class Solution:
     def twosum(self, nums: List[int], target:int) -> List[List[int]]:

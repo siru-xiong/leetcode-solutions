@@ -2,6 +2,7 @@
 # Problem Name:  Word Search, 单词搜索
 # Problem Url:  https://leetcode-cn.com/problems/word-search/
 # Problem Level:  Medium
+# Language:  Python3
  
 class Solution:
     def exist(self, board: List[List[str]], word: str) -> bool:

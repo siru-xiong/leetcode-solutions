@@ -2,6 +2,7 @@
 # Problem Name:  Maximum 69 Number, 6 和 9 组成的最大数字
 # Problem Url:  https://leetcode-cn.com/problems/maximum-69-number/
 # Problem Level:  Easy
+# Language:  Python3
  
 class Solution:
     def maximum69Number (self, num: int) -> int:

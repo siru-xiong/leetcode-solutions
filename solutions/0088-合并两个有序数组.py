@@ -2,6 +2,7 @@
 # Problem Name:  Merge Sorted Array, 合并两个有序数组
 # Problem Url:  https://leetcode-cn.com/problems/merge-sorted-array/
 # Problem Level:  Easy
+# Language:  Python3
  
 class Solution:
     def merge(self, nums1: List[int], m: int, nums2: List[int], n: int) -> None:

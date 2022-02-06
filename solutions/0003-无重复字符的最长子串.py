@@ -2,6 +2,7 @@
 # Problem Name:  Longest Substring Without Repeating Characters, 无重复字符的最长子串
 # Problem Url:  https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/
 # Problem Level:  Medium
+# Language:  Python3
  
 class Solution:
     def lengthOfLongestSubstring(self, s: str) -> int:

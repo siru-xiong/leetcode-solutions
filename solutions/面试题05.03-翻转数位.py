@@ -2,6 +2,7 @@
 # Problem Name:  Reverse Bits LCCI, 翻转数位
 # Problem Url:  https://leetcode-cn.com/problems/reverse-bits-lcci/
 # Problem Level:  Easy
+# Language:  Python3
  
 class Solution:
     def reverseBits(self, num: int) -> int:

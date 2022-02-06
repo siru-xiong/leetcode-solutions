@@ -2,6 +2,7 @@
 # Problem Name:  Palindromic Substrings, 回文子串
 # Problem Url:  https://leetcode-cn.com/problems/palindromic-substrings/
 # Problem Level:  Medium
+# Language:  Python3
  
 class Solution:
     def countSubstrings(self, s: str) -> int:

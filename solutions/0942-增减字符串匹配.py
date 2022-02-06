@@ -2,6 +2,7 @@
 # Problem Name:  DI String Match, 增减字符串匹配
 # Problem Url:  https://leetcode-cn.com/problems/di-string-match/
 # Problem Level:  Easy
+# Language:  Python3
  
 class Solution:
     def diStringMatch(self, S: str) -> List[int]:

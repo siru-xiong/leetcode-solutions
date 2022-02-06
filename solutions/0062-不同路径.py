@@ -2,6 +2,7 @@
 # Problem Name:  Unique Paths, 不同路径
 # Problem Url:  https://leetcode-cn.com/problems/unique-paths/
 # Problem Level:  Medium
+# Language:  Python3
  
 class Solution:
     def uniquePaths(self, m: int, n: int) -> int:

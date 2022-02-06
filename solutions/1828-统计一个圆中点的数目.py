@@ -2,6 +2,7 @@
 # Problem Name:  Queries on Number of Points Inside a Circle, 统计一个圆中点的数目
 # Problem Url:  https://leetcode-cn.com/problems/queries-on-number-of-points-inside-a-circle/
 # Problem Level:  Medium
+# Language:  Python3
  
 class Solution:
     def countPoints(self, points: List[List[int]], queries: List[List[int]]) -> List[int]:

@@ -1,7 +1,8 @@
-# Problem Id:  627
-# Problem Name:  Swap Salary, 变更性别
-# Problem Url:  https://leetcode-cn.com/problems/swap-salary/
-# Problem Level:  Easy
+-- Problem Id:  627
+-- Problem Name:  Swap Salary, 变更性别
+-- Problem Url:  https://leetcode-cn.com/problems/swap-salary/
+-- Problem Level:  Easy
+-- Language:  MySQL
  
 # Write your MySQL query statement below
 UPDATE salary 

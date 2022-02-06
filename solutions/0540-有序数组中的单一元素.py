@@ -2,6 +2,7 @@
 # Problem Name:  Single Element in a Sorted Array, 有序数组中的单一元素
 # Problem Url:  https://leetcode-cn.com/problems/single-element-in-a-sorted-array/
 # Problem Level:  Medium
+# Language:  Python3
  
 class Solution:
     def singleNonDuplicate(self, nums: List[int]) -> int:

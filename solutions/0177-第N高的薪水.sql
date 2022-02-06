@@ -1,7 +1,8 @@
-# Problem Id:  177
-# Problem Name:  Nth Highest Salary, 第N高的薪水
-# Problem Url:  https://leetcode-cn.com/problems/nth-highest-salary/
-# Problem Level:  Medium
+-- Problem Id:  177
+-- Problem Name:  Nth Highest Salary, 第N高的薪水
+-- Problem Url:  https://leetcode-cn.com/problems/nth-highest-salary/
+-- Problem Level:  Medium
+-- Language:  MySQL
  
 CREATE FUNCTION getNthHighestSalary(N INT) RETURNS INT
 BEGIN

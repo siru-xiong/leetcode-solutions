@@ -2,6 +2,7 @@
 # Problem Name:  Course Schedule II, 课程表 II
 # Problem Url:  https://leetcode-cn.com/problems/course-schedule-ii/
 # Problem Level:  Medium
+# Language:  Python3
  
 class Solution:
     def findOrder(self, numCourses: int, prerequisites: List[List[int]]) -> List[int]:

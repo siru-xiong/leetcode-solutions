@@ -2,6 +2,7 @@
 # Problem Name:  Valid Triangle Number, 有效三角形的个数
 # Problem Url:  https://leetcode-cn.com/problems/valid-triangle-number/
 # Problem Level:  Medium
+# Language:  Python3
  
 class Solution:
     def triangleNumber(self, nums: List[int]) -> int:

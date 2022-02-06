@@ -2,6 +2,7 @@
 # Problem Name:  Keyboard Row, 键盘行
 # Problem Url:  https://leetcode-cn.com/problems/keyboard-row/
 # Problem Level:  Easy
+# Language:  Python3
  
 class Solution:
     def findWords(self, words: List[str]) -> List[str]:

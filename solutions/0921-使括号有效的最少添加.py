@@ -2,6 +2,7 @@
 # Problem Name:  Minimum Add to Make Parentheses Valid, 使括号有效的最少添加
 # Problem Url:  https://leetcode-cn.com/problems/minimum-add-to-make-parentheses-valid/
 # Problem Level:  Medium
+# Language:  Python3
  
 class Solution:
     def minAddToMakeValid(self, S: str) -> int:

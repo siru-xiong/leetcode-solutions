@@ -2,6 +2,7 @@
 # Problem Name:  Diameter of Binary Tree, 二叉树的直径
 # Problem Url:  https://leetcode-cn.com/problems/diameter-of-binary-tree/
 # Problem Level:  Easy
+# Language:  Python3
  
 # Definition for a binary tree node.
 # class TreeNode:

@@ -2,6 +2,7 @@
 # Problem Name:  Pascal's Triangle, 杨辉三角
 # Problem Url:  https://leetcode-cn.com/problems/pascals-triangle/
 # Problem Level:  Easy
+# Language:  Python3
  
 class Solution:
     def temp_sum(self, row: List[int]) -> List[int]:

@@ -2,6 +2,7 @@
 # Problem Name:  Build an Array With Stack Operations, 用栈操作构建数组
 # Problem Url:  https://leetcode-cn.com/problems/build-an-array-with-stack-operations/
 # Problem Level:  Easy
+# Language:  Python3
  
 class Solution:
     def buildArray(self, target: List[int], n: int) -> List[str]:

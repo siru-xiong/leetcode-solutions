@@ -2,6 +2,7 @@
 # Problem Name:  Design Hit Counter, 敲击计数器
 # Problem Url:  https://leetcode-cn.com/problems/design-hit-counter/
 # Problem Level:  Medium
+# Language:  Python3
  
 class HitCounter:
 

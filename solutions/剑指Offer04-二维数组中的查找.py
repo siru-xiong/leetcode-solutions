@@ -2,6 +2,7 @@
 # Problem Name:  二维数组中的查找 LCOF, 二维数组中的查找
 # Problem Url:  https://leetcode-cn.com/problems/er-wei-shu-zu-zhong-de-cha-zhao-lcof/
 # Problem Level:  Medium
+# Language:  Python3
  
 class Solution:
     def findNumberIn2DArray(self, matrix: List[List[int]], target: int) -> bool:

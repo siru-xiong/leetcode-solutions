@@ -2,6 +2,7 @@
 # Problem Name:  1-bit and 2-bit Characters, 1比特与2比特字符
 # Problem Url:  https://leetcode-cn.com/problems/1-bit-and-2-bit-characters/
 # Problem Level:  Easy
+# Language:  Python3
  
 class Solution:
     def isOneBitCharacter(self, bits: List[int]) -> bool:

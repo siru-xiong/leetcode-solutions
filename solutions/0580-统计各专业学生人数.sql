@@ -1,7 +1,8 @@
-# Problem Id:  580
-# Problem Name:  Count Student Number in Departments, 统计各专业学生人数
-# Problem Url:  https://leetcode-cn.com/problems/count-student-number-in-departments/
-# Problem Level:  Medium
+-- Problem Id:  580
+-- Problem Name:  Count Student Number in Departments, 统计各专业学生人数
+-- Problem Url:  https://leetcode-cn.com/problems/count-student-number-in-departments/
+-- Problem Level:  Medium
+-- Language:  MySQL
  
 # Write your MySQL query statement below
 

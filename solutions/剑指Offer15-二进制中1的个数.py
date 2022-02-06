@@ -2,6 +2,7 @@
 # Problem Name:  二进制中1的个数 LCOF, 二进制中1的个数
 # Problem Url:  https://leetcode-cn.com/problems/er-jin-zhi-zhong-1de-ge-shu-lcof/
 # Problem Level:  Easy
+# Language:  Python3
  
 class Solution:
     def hammingWeight(self, n: int) -> int:

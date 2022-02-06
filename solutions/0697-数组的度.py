@@ -2,6 +2,7 @@
 # Problem Name:  Degree of an Array, 数组的度
 # Problem Url:  https://leetcode-cn.com/problems/degree-of-an-array/
 # Problem Level:  Easy
+# Language:  Python3
  
 class Solution:
     def findShortestSubArray(self, nums: List[int]) -> int:

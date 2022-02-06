@@ -2,6 +2,7 @@
 # Problem Name:  Check Balance LCCI, 检查平衡性
 # Problem Url:  https://leetcode-cn.com/problems/check-balance-lcci/
 # Problem Level:  Easy
+# Language:  Python3
  
 # Definition for a binary tree node.
 # class TreeNode:

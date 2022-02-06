@@ -2,6 +2,7 @@
 # Problem Name:  Find Minimum in Rotated Sorted Array, 寻找旋转排序数组中的最小值
 # Problem Url:  https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array/
 # Problem Level:  Medium
+# Language:  Python3
  
 class Solution:
     def findMin(self, nums: List[int]) -> int:

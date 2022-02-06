@@ -2,6 +2,7 @@
 # Problem Name:  Edit Distance, 编辑距离
 # Problem Url:  https://leetcode-cn.com/problems/edit-distance/
 # Problem Level:  Hard
+# Language:  Python3
  
 class Solution:
     def minDistance(self, word1: str, word2: str) -> int:

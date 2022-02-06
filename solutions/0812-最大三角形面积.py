@@ -2,6 +2,7 @@
 # Problem Name:  Largest Triangle Area, 最大三角形面积
 # Problem Url:  https://leetcode-cn.com/problems/largest-triangle-area/
 # Problem Level:  Easy
+# Language:  Python3
  
 class Solution:
     def area(p, q, r):

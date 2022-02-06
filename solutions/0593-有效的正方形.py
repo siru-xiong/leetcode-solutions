@@ -2,6 +2,7 @@
 # Problem Name:  Valid Square, 有效的正方形
 # Problem Url:  https://leetcode-cn.com/problems/valid-square/
 # Problem Level:  Medium
+# Language:  Python3
  
 class Solution:
     def validSquare(self, p1: List[int], p2: List[int], p3: List[int], p4: List[int]) -> bool:

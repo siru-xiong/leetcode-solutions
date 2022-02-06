@@ -2,6 +2,7 @@
 # Problem Name:  Max Stack, 最大栈
 # Problem Url:  https://leetcode-cn.com/problems/max-stack/
 # Problem Level:  Easy
+# Language:  Python3
  
 class MaxStack(list):
     def __init__(self):

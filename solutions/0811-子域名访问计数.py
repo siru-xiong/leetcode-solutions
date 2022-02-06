@@ -2,6 +2,7 @@
 # Problem Name:  Subdomain Visit Count, 子域名访问计数
 # Problem Url:  https://leetcode-cn.com/problems/subdomain-visit-count/
 # Problem Level:  Medium
+# Language:  Python3
  
 class Solution:
     def subdomainVisits(self, cpdomains: List[str]) -> List[str]:

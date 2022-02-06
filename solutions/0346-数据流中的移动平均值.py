@@ -2,6 +2,7 @@
 # Problem Name:  Moving Average from Data Stream, 数据流中的移动平均值
 # Problem Url:  https://leetcode-cn.com/problems/moving-average-from-data-stream/
 # Problem Level:  Easy
+# Language:  Python3
  
 class MovingAverage:
 

@@ -2,6 +2,7 @@
 # Problem Name:  Third Maximum Number, 第三大的数
 # Problem Url:  https://leetcode-cn.com/problems/third-maximum-number/
 # Problem Level:  Easy
+# Language:  Python3
  
 class Solution:
     def thirdMax(self, nums: List[int]) -> int:

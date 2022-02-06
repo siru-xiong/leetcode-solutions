@@ -2,6 +2,7 @@
 # Problem Name:  Maximum Number of Coins You Can Get, 你可以获得的最大硬币数目
 # Problem Url:  https://leetcode-cn.com/problems/maximum-number-of-coins-you-can-get/
 # Problem Level:  Medium
+# Language:  Python3
  
 class Solution:
     def maxCoins(self, piles: List[int]) -> int:

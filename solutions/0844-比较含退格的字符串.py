@@ -2,6 +2,7 @@
 # Problem Name:  Backspace String Compare, 比较含退格的字符串
 # Problem Url:  https://leetcode-cn.com/problems/backspace-string-compare/
 # Problem Level:  Easy
+# Language:  Python3
  
 class Solution:
     def backspaceCompare(self, S: str, T: str) -> bool:

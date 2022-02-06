@@ -2,6 +2,7 @@
 # Problem Name:  Count Primes, 计数质数
 # Problem Url:  https://leetcode-cn.com/problems/count-primes/
 # Problem Level:  Medium
+# Language:  Python3
  
 class Solution:
     def countPrimes(self, n: int) -> int:

@@ -1,7 +1,8 @@
-# Problem Id:  1076
-# Problem Name:  Project Employees II, 项目员工II
-# Problem Url:  https://leetcode-cn.com/problems/project-employees-ii/
-# Problem Level:  Easy
+-- Problem Id:  1076
+-- Problem Name:  Project Employees II, 项目员工II
+-- Problem Url:  https://leetcode-cn.com/problems/project-employees-ii/
+-- Problem Level:  Easy
+-- Language:  MySQL
  
 # Write your MySQL query statement below
 select project_id

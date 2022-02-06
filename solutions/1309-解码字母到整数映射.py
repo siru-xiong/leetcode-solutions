@@ -2,6 +2,7 @@
 # Problem Name:  Decrypt String from Alphabet to Integer Mapping, 解码字母到整数映射
 # Problem Url:  https://leetcode-cn.com/problems/decrypt-string-from-alphabet-to-integer-mapping/
 # Problem Level:  Easy
+# Language:  Python3
  
 class Solution:
     def freqAlphabets(self, s: str) -> str:

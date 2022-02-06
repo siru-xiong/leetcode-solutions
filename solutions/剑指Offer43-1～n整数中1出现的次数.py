@@ -2,6 +2,7 @@
 # Problem Name:  1～n整数中1出现的次数  LCOF, 1～n 整数中 1 出现的次数
 # Problem Url:  https://leetcode-cn.com/problems/1nzheng-shu-zhong-1chu-xian-de-ci-shu-lcof/
 # Problem Level:  Hard
+# Language:  Python3
  
 class Solution:
     def countDigitOne(self, n: int) -> int:

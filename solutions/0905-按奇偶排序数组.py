@@ -2,6 +2,7 @@
 # Problem Name:  Sort Array By Parity, 按奇偶排序数组
 # Problem Url:  https://leetcode-cn.com/problems/sort-array-by-parity/
 # Problem Level:  Easy
+# Language:  Python3
  
 class Solution:
     def sortArrayByParity(self, A: List[int]) -> List[int]:

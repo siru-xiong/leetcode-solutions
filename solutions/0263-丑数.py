@@ -2,6 +2,7 @@
 # Problem Name:  Ugly Number, 丑数
 # Problem Url:  https://leetcode-cn.com/problems/ugly-number/
 # Problem Level:  Easy
+# Language:  Python3
  
 class Solution:
     def isUgly(self, num: int) -> bool:

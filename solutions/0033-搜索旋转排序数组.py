@@ -2,6 +2,7 @@
 # Problem Name:  Search in Rotated Sorted Array, 搜索旋转排序数组
 # Problem Url:  https://leetcode-cn.com/problems/search-in-rotated-sorted-array/
 # Problem Level:  Medium
+# Language:  Python3
  
 class Solution:
     def search(self, nums: List[int], target: int) -> int:

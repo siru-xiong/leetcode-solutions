@@ -2,6 +2,7 @@
 # Problem Name:  Queue Reconstruction by Height, 根据身高重建队列
 # Problem Url:  https://leetcode-cn.com/problems/queue-reconstruction-by-height/
 # Problem Level:  Medium
+# Language:  Python3
  
 class Solution:
     def reconstructQueue(self, people: List[List[int]]) -> List[List[int]]:

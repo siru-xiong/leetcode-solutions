@@ -1,7 +1,8 @@
-# Problem Id:  571
-# Problem Name:  Find Median Given Frequency of Numbers, 给定数字的频率查询中位数
-# Problem Url:  https://leetcode-cn.com/problems/find-median-given-frequency-of-numbers/
-# Problem Level:  Hard
+-- Problem Id:  571
+-- Problem Name:  Find Median Given Frequency of Numbers, 给定数字的频率查询中位数
+-- Problem Url:  https://leetcode-cn.com/problems/find-median-given-frequency-of-numbers/
+-- Problem Level:  Hard
+-- Language:  MySQL
  
 # Write your MySQL query statement below
 select round(avg(t.number),4) as median

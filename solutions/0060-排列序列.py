@@ -2,6 +2,7 @@
 # Problem Name:  Permutation Sequence, 排列序列
 # Problem Url:  https://leetcode-cn.com/problems/permutation-sequence/
 # Problem Level:  Hard
+# Language:  Python3
  
 class Solution:
 

@@ -2,6 +2,7 @@
 # Problem Name:  Number of Islands, 岛屿数量
 # Problem Url:  https://leetcode-cn.com/problems/number-of-islands/
 # Problem Level:  Medium
+# Language:  Python3
  
 class Solution:
     def numIslands(self, grid: List[List[str]]) -> int:

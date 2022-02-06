@@ -2,6 +2,7 @@
 # Problem Name:  滑动窗口的最大值 LCOF, 滑动窗口的最大值
 # Problem Url:  https://leetcode-cn.com/problems/hua-dong-chuang-kou-de-zui-da-zhi-lcof/
 # Problem Level:  Hard
+# Language:  Python3
  
 class Solution:
     def maxSlidingWindow(self, nums: List[int], k: int) -> List[int]:

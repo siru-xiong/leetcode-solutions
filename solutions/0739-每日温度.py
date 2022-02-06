@@ -2,6 +2,7 @@
 # Problem Name:  Daily Temperatures, 每日温度
 # Problem Url:  https://leetcode-cn.com/problems/daily-temperatures/
 # Problem Level:  Medium
+# Language:  Python3
  
 class Solution:
     def dailyTemperatures(self, T: List[int]) -> List[int]:

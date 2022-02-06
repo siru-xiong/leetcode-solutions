@@ -2,6 +2,7 @@
 # Problem Name:  Maximize Sum Of Array After K Negations, K 次取反后最大化的数组和
 # Problem Url:  https://leetcode-cn.com/problems/maximize-sum-of-array-after-k-negations/
 # Problem Level:  Easy
+# Language:  Python3
  
 class Solution:
     def largestSumAfterKNegations(self, A: List[int], K: int) -> int:

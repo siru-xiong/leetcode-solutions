@@ -2,6 +2,7 @@
 # Problem Name:  Positions of Large Groups, 较大分组的位置
 # Problem Url:  https://leetcode-cn.com/problems/positions-of-large-groups/
 # Problem Level:  Easy
+# Language:  Python3
  
 class Solution:
     def largeGroupPositions(self, s: str) -> List[List[int]]:

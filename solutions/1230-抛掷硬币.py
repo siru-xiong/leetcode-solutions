@@ -2,6 +2,7 @@
 # Problem Name:  Toss Strange Coins, 抛掷硬币
 # Problem Url:  https://leetcode-cn.com/problems/toss-strange-coins/
 # Problem Level:  Medium
+# Language:  Python3
  
 class Solution:
     def probabilityOfHeads(self, prob: List[float], target: int) -> float:

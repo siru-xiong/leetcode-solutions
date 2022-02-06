@@ -2,6 +2,7 @@
 # Problem Name:  Delete Node in a BST, 删除二叉搜索树中的节点
 # Problem Url:  https://leetcode-cn.com/problems/delete-node-in-a-bst/
 # Problem Level:  Medium
+# Language:  Python3
  
 # Definition for a binary tree node.
 # class TreeNode:

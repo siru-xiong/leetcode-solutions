@@ -2,6 +2,7 @@
 # Problem Name:  Decode String, 字符串解码
 # Problem Url:  https://leetcode-cn.com/problems/decode-string/
 # Problem Level:  Medium
+# Language:  Python3
  
 class Solution:
     def decodeString(self, s: str) -> str:

@@ -2,6 +2,7 @@
 # Problem Name:  Count Good Triplets, 统计好三元组
 # Problem Url:  https://leetcode-cn.com/problems/count-good-triplets/
 # Problem Level:  Easy
+# Language:  Python3
  
 class Solution:
     def countGoodTriplets(self, arr: List[int], a: int, b: int, c: int) -> int:

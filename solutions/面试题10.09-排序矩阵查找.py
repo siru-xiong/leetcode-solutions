@@ -2,6 +2,7 @@
 # Problem Name:  Sorted Matrix Search LCCI, 排序矩阵查找
 # Problem Url:  https://leetcode-cn.com/problems/sorted-matrix-search-lcci/
 # Problem Level:  Medium
+# Language:  Python3
  
 class Solution:
     def searchMatrix(self, matrix: List[List[int]], target: int) -> bool:

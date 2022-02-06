@@ -2,6 +2,7 @@
 # Problem Name:  Remove Duplicate Letters, 去除重复字母
 # Problem Url:  https://leetcode-cn.com/problems/remove-duplicate-letters/
 # Problem Level:  Medium
+# Language:  Python3
  
 class Solution:
     def removeDuplicateLetters(self, s: str) -> str:

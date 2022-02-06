@@ -2,6 +2,7 @@
 # Problem Name:  Longest Common Prefix, 最长公共前缀
 # Problem Url:  https://leetcode-cn.com/problems/longest-common-prefix/
 # Problem Level:  Easy
+# Language:  Python3
  
 class Solution:
     def longestCommonPrefix(self, strs: List[str]) -> str:

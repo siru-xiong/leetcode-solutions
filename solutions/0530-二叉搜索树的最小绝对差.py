@@ -2,6 +2,7 @@
 # Problem Name:  Minimum Absolute Difference in BST, 二叉搜索树的最小绝对差
 # Problem Url:  https://leetcode-cn.com/problems/minimum-absolute-difference-in-bst/
 # Problem Level:  Easy
+# Language:  Python3
  
 # Definition for a binary tree node.
 # class TreeNode:

@@ -1,7 +1,8 @@
-# Problem Id:  569
-# Problem Name:  Median Employee Salary, 员工薪水中位数
-# Problem Url:  https://leetcode-cn.com/problems/median-employee-salary/
-# Problem Level:  Hard
+-- Problem Id:  569
+-- Problem Name:  Median Employee Salary, 员工薪水中位数
+-- Problem Url:  https://leetcode-cn.com/problems/median-employee-salary/
+-- Problem Level:  Hard
+-- Language:  MySQL
  
 # Write your MySQL query statement below
 select Id, Company, Salary from 

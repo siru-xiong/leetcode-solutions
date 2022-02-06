@@ -2,6 +2,7 @@
 # Problem Name:  把数组排成最小的数 LCOF, 把数组排成最小的数
 # Problem Url:  https://leetcode-cn.com/problems/ba-shu-zu-pai-cheng-zui-xiao-de-shu-lcof/
 # Problem Level:  Medium
+# Language:  Python3
  
 class Solution:
     def comp(self,x,y):

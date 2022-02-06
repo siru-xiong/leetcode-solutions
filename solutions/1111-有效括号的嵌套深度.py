@@ -2,6 +2,7 @@
 # Problem Name:  Maximum Nesting Depth of Two Valid Parentheses Strings, 有效括号的嵌套深度
 # Problem Url:  https://leetcode-cn.com/problems/maximum-nesting-depth-of-two-valid-parentheses-strings/
 # Problem Level:  Medium
+# Language:  Python3
  
 class Solution:
     def maxDepthAfterSplit(self, seq: str) -> List[int]:

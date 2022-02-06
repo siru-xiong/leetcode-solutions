@@ -2,6 +2,7 @@
 # Problem Name:  Remove Element, 移除元素
 # Problem Url:  https://leetcode-cn.com/problems/remove-element/
 # Problem Level:  Easy
+# Language:  Python3
  
 class Solution:
     def removeElement(self, nums: List[int], val: int) -> int:

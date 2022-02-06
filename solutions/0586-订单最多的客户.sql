@@ -1,7 +1,8 @@
-# Problem Id:  586
-# Problem Name:  Customer Placing the Largest Number of Orders, 订单最多的客户
-# Problem Url:  https://leetcode-cn.com/problems/customer-placing-the-largest-number-of-orders/
-# Problem Level:  Easy
+-- Problem Id:  586
+-- Problem Name:  Customer Placing the Largest Number of Orders, 订单最多的客户
+-- Problem Url:  https://leetcode-cn.com/problems/customer-placing-the-largest-number-of-orders/
+-- Problem Level:  Easy
+-- Language:  MySQL
  
 # Write your MySQL query statement below
 select customer_number

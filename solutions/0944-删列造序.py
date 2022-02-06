@@ -2,6 +2,7 @@
 # Problem Name:  Delete Columns to Make Sorted, 删列造序
 # Problem Url:  https://leetcode-cn.com/problems/delete-columns-to-make-sorted/
 # Problem Level:  Easy
+# Language:  Python3
  
 class Solution:
     def minDeletionSize(self, strs: List[str]) -> int:

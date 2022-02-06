@@ -2,6 +2,7 @@
 # Problem Name:  Letter Tile Possibilities, 活字印刷
 # Problem Url:  https://leetcode-cn.com/problems/letter-tile-possibilities/
 # Problem Level:  Medium
+# Language:  Python3
  
 class Solution:
     def cp(self,ct) -> int:

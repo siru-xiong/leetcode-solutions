@@ -2,6 +2,7 @@
 # Problem Name:  Minimum Distance Between BST Nodes, 二叉搜索树节点最小距离
 # Problem Url:  https://leetcode-cn.com/problems/minimum-distance-between-bst-nodes/
 # Problem Level:  Easy
+# Language:  Python3
  
 # Definition for a binary tree node.
 # class TreeNode:

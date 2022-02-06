@@ -2,6 +2,7 @@
 # Problem Name:  Minimum Index Sum of Two Lists, 两个列表的最小索引总和
 # Problem Url:  https://leetcode-cn.com/problems/minimum-index-sum-of-two-lists/
 # Problem Level:  Easy
+# Language:  Python3
  
 class Solution:
     def findRestaurant(self, list1: List[str], list2: List[str]) -> List[str]:

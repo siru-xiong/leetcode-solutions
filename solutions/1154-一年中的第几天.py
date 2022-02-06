@@ -2,6 +2,7 @@
 # Problem Name:  Day of the Year, 一年中的第几天
 # Problem Url:  https://leetcode-cn.com/problems/day-of-the-year/
 # Problem Level:  Easy
+# Language:  Python3
  
 class Solution:
     def dayOfYear(self, date: str) -> int:

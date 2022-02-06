@@ -2,6 +2,7 @@
 # Problem Name:  Single Number II, 只出现一次的数字 II
 # Problem Url:  https://leetcode-cn.com/problems/single-number-ii/
 # Problem Level:  Medium
+# Language:  Python3
  
 class Solution:
     def singleNumber(self, nums: List[int]) -> int:

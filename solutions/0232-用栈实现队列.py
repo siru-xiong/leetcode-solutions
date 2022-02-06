@@ -2,6 +2,7 @@
 # Problem Name:  Implement Queue using Stacks, 用栈实现队列
 # Problem Url:  https://leetcode-cn.com/problems/implement-queue-using-stacks/
 # Problem Level:  Easy
+# Language:  Python3
  
 class MyQueue:
 

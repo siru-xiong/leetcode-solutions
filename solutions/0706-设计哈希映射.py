@@ -2,6 +2,7 @@
 # Problem Name:  Design HashMap, 设计哈希映射
 # Problem Url:  https://leetcode-cn.com/problems/design-hashmap/
 # Problem Level:  Easy
+# Language:  Python3
  
 class MyHashMap:
 

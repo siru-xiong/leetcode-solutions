@@ -2,6 +2,7 @@
 # Problem Name:  String Rotation LCCI, 字符串轮转
 # Problem Url:  https://leetcode-cn.com/problems/string-rotation-lcci/
 # Problem Level:  Easy
+# Language:  Python3
  
 class Solution:
     def isFlipedString(self, s1: str, s2: str) -> bool:

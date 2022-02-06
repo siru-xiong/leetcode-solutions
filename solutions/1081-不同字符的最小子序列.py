@@ -2,6 +2,7 @@
 # Problem Name:  Smallest Subsequence of Distinct Characters, 不同字符的最小子序列
 # Problem Url:  https://leetcode-cn.com/problems/smallest-subsequence-of-distinct-characters/
 # Problem Level:  Medium
+# Language:  Python3
  
 class Solution:
     def smallestSubsequence(self, s: str) -> str:

@@ -2,6 +2,7 @@
 # Problem Name:  Max Consecutive Ones, 最大连续 1 的个数
 # Problem Url:  https://leetcode-cn.com/problems/max-consecutive-ones/
 # Problem Level:  Easy
+# Language:  Python3
  
 class Solution:
     def findMaxConsecutiveOnes(self, nums: List[int]) -> int:

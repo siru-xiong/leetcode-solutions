@@ -2,6 +2,7 @@
 # Problem Name:  Prime Arrangements, 质数排列
 # Problem Url:  https://leetcode-cn.com/problems/prime-arrangements/
 # Problem Level:  Easy
+# Language:  Python3
  
 class Solution:
     def numPrimeArrangements(self, n: int) -> int:

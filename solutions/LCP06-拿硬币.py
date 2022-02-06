@@ -2,6 +2,7 @@
 # Problem Name:  拿硬币, 拿硬币
 # Problem Url:  https://leetcode-cn.com/problems/na-ying-bi/
 # Problem Level:  Easy
+# Language:  Python3
  
 class Solution:
     def minCount(self, coins: List[int]) -> int:

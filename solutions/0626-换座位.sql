@@ -1,7 +1,8 @@
-# Problem Id:  626
-# Problem Name:  Exchange Seats, 换座位
-# Problem Url:  https://leetcode-cn.com/problems/exchange-seats/
-# Problem Level:  Medium
+-- Problem Id:  626
+-- Problem Name:  Exchange Seats, 换座位
+-- Problem Url:  https://leetcode-cn.com/problems/exchange-seats/
+-- Problem Level:  Medium
+-- Language:  MySQL
  
 # Write your MySQL query statement below
 select s1.id , s2.student

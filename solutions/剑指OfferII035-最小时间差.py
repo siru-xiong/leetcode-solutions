@@ -2,6 +2,7 @@
 # Problem Name:  最小时间差, 最小时间差
 # Problem Url:  https://leetcode-cn.com/problems/569nqc/
 # Problem Level:  Medium
+# Language:  Python3
  
 class Solution:
     def findMinDifference(self, timePoints: List[str]) -> int:

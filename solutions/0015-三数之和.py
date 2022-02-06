@@ -2,6 +2,7 @@
 # Problem Name:  3Sum, 三数之和
 # Problem Url:  https://leetcode-cn.com/problems/3sum/
 # Problem Level:  Medium
+# Language:  Python3
  
 class Solution:
     def threeSum(self, nums: List[int]) -> List[List[int]]:

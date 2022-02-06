@@ -2,6 +2,7 @@
 # Problem Name:  2 Keys Keyboard, 只有两个键的键盘
 # Problem Url:  https://leetcode-cn.com/problems/2-keys-keyboard/
 # Problem Level:  Medium
+# Language:  Python3
  
 class Solution:
     def minSteps(self, n: int) -> int:

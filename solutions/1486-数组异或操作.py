@@ -2,6 +2,7 @@
 # Problem Name:  XOR Operation in an Array, 数组异或操作
 # Problem Url:  https://leetcode-cn.com/problems/xor-operation-in-an-array/
 # Problem Level:  Easy
+# Language:  Python3
  
 class Solution:
     def xorOperation(self, n: int, start: int) -> int:

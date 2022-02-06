@@ -2,6 +2,7 @@
 # Problem Name:  Minimum Size Subarray Sum, 长度最小的子数组
 # Problem Url:  https://leetcode-cn.com/problems/minimum-size-subarray-sum/
 # Problem Level:  Medium
+# Language:  Python3
  
 class Solution:
     def minSubArrayLen(self, target: int, nums: List[int]) -> int:

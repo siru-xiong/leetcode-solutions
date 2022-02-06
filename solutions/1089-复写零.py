@@ -2,6 +2,7 @@
 # Problem Name:  Duplicate Zeros, 复写零
 # Problem Url:  https://leetcode-cn.com/problems/duplicate-zeros/
 # Problem Level:  Easy
+# Language:  Python3
  
 class Solution:
     def duplicateZeros(self, arr: List[int]) -> None:

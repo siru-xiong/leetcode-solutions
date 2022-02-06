@@ -2,6 +2,7 @@
 # Problem Name:  N-th Tribonacci Number, 第 N 个泰波那契数
 # Problem Url:  https://leetcode-cn.com/problems/n-th-tribonacci-number/
 # Problem Level:  Easy
+# Language:  Python3
  
 class Solution:
     def tribonacci(self, n: int) -> int:

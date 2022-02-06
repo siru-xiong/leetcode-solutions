@@ -2,6 +2,7 @@
 # Problem Name:  Complex Number Multiplication, 复数乘法
 # Problem Url:  https://leetcode-cn.com/problems/complex-number-multiplication/
 # Problem Level:  Medium
+# Language:  Python3
  
 class Solution:
     def complexNumberMultiply(self, a: str, b: str) -> str:

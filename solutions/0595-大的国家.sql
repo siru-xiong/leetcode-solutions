@@ -1,7 +1,8 @@
-# Problem Id:  595
-# Problem Name:  Big Countries, 大的国家
-# Problem Url:  https://leetcode-cn.com/problems/big-countries/
-# Problem Level:  Easy
+-- Problem Id:  595
+-- Problem Name:  Big Countries, 大的国家
+-- Problem Url:  https://leetcode-cn.com/problems/big-countries/
+-- Problem Level:  Easy
+-- Language:  MySQL
  
 # Write your MySQL query statement below
 select name, population ,area

@@ -2,6 +2,7 @@
 # Problem Name:  Majority Element, 多数元素
 # Problem Url:  https://leetcode-cn.com/problems/majority-element/
 # Problem Level:  Easy
+# Language:  Python3
  
 class Solution:
     def majorityElement(self, nums: List[int]) -> int:

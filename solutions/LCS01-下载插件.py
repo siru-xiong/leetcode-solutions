@@ -2,6 +2,7 @@
 # Problem Name:  下载插件, 下载插件
 # Problem Url:  https://leetcode-cn.com/problems/Ju9Xwi/
 # Problem Level:  Easy
+# Language:  Python3
  
 class Solution:
     def leastMinutes(self, n: int) -> int:

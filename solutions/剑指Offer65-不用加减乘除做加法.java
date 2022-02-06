@@ -1,7 +1,8 @@
-# Problem Id:  剑指 Offer 65
-# Problem Name:  不用加减乘除做加法 LCOF, 不用加减乘除做加法
-# Problem Url:  https://leetcode-cn.com/problems/bu-yong-jia-jian-cheng-chu-zuo-jia-fa-lcof/
-# Problem Level:  Easy
+// Problem Id:  剑指 Offer 65
+// Problem Name:  不用加减乘除做加法 LCOF, 不用加减乘除做加法
+// Problem Url:  https://leetcode-cn.com/problems/bu-yong-jia-jian-cheng-chu-zuo-jia-fa-lcof/
+// Problem Level:  Easy
+// Language:  Java
  
 class Solution {
     public int add(int a, int b) {

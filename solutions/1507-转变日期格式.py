@@ -2,6 +2,7 @@
 # Problem Name:  Reformat Date, 转变日期格式
 # Problem Url:  https://leetcode-cn.com/problems/reformat-date/
 # Problem Level:  Easy
+# Language:  Python3
  
 class Solution:
     def reformatDate(self, date: str) -> str:

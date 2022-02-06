@@ -1,7 +1,8 @@
-# Problem Id:  550
-# Problem Name:  Game Play Analysis IV, 游戏玩法分析 IV
-# Problem Url:  https://leetcode-cn.com/problems/game-play-analysis-iv/
-# Problem Level:  Medium
+-- Problem Id:  550
+-- Problem Name:  Game Play Analysis IV, 游戏玩法分析 IV
+-- Problem Url:  https://leetcode-cn.com/problems/game-play-analysis-iv/
+-- Problem Level:  Medium
+-- Language:  MySQL
  
 # Write your MySQL query statement below
 SELECT

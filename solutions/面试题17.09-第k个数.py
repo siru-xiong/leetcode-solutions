@@ -2,6 +2,7 @@
 # Problem Name:  Get Kth Magic Number LCCI, 第 k 个数
 # Problem Url:  https://leetcode-cn.com/problems/get-kth-magic-number-lcci/
 # Problem Level:  Medium
+# Language:  Python3
  
 class Solution:
     def getKthMagicNumber(self, k: int) -> int:

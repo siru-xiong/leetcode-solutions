@@ -2,6 +2,7 @@
 # Problem Name:  Increasing Decreasing String, 上升下降字符串
 # Problem Url:  https://leetcode-cn.com/problems/increasing-decreasing-string/
 # Problem Level:  Easy
+# Language:  Python3
  
 class Solution:
     def sortString(self, s: str) -> str:

@@ -2,6 +2,7 @@
 # Problem Name:  Check if All the Integers in a Range Are Covered, 检查是否区域内所有整数都被覆盖
 # Problem Url:  https://leetcode-cn.com/problems/check-if-all-the-integers-in-a-range-are-covered/
 # Problem Level:  Easy
+# Language:  Python3
  
 class Solution:
     def isCovered(self, ranges: List[List[int]], left: int, right: int) -> bool:

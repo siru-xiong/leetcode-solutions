@@ -2,6 +2,7 @@
 # Problem Name:  Implement Queue using Stacks LCCI, 化栈为队
 # Problem Url:  https://leetcode-cn.com/problems/implement-queue-using-stacks-lcci/
 # Problem Level:  Easy
+# Language:  Python3
  
 class MyQueue:
 

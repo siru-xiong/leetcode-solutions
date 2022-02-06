@@ -2,6 +2,7 @@
 # Problem Name:  Decode Ways, 解码方法
 # Problem Url:  https://leetcode-cn.com/problems/decode-ways/
 # Problem Level:  Medium
+# Language:  Python3
  
 class Solution:
     def __init__(self):

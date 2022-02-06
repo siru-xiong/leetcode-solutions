@@ -1,7 +1,8 @@
-# Problem Id:  615
-# Problem Name:  Average Salary: Departments VS Company, 平均工资：部门与公司比较
-# Problem Url:  https://leetcode-cn.com/problems/average-salary-departments-vs-company/
-# Problem Level:  Hard
+-- Problem Id:  615
+-- Problem Name:  Average Salary: Departments VS Company, 平均工资：部门与公司比较
+-- Problem Url:  https://leetcode-cn.com/problems/average-salary-departments-vs-company/
+-- Problem Level:  Hard
+-- Language:  MySQL
  
 # Write your MySQL query statement below
 select t2.pay_month, t2.department_id, case when t2.amount > t.aa then 'higher' when t2.amount = t.aa then 'same' else 'lower' end as comparison from 

@@ -2,6 +2,7 @@
 # Problem Name:  Number of Digit One, 数字 1 的个数
 # Problem Url:  https://leetcode-cn.com/problems/number-of-digit-one/
 # Problem Level:  Hard
+# Language:  Python3
  
 class Solution:
     def countDigitOne(self, n: int) -> int:

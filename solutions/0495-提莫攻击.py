@@ -2,6 +2,7 @@
 # Problem Name:  Teemo Attacking, 提莫攻击
 # Problem Url:  https://leetcode-cn.com/problems/teemo-attacking/
 # Problem Level:  Easy
+# Language:  Python3
  
 class Solution:
     def findPoisonedDuration(self, timeSeries: List[int], duration: int) -> int:

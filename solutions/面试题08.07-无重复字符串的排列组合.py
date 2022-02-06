@@ -2,6 +2,7 @@
 # Problem Name:  Permutation I LCCI, 无重复字符串的排列组合
 # Problem Url:  https://leetcode-cn.com/problems/permutation-i-lcci/
 # Problem Level:  Medium
+# Language:  Python3
  
 class Solution:
     def permutation(self, s: str) -> List[str]:

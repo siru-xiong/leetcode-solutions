@@ -2,6 +2,7 @@
 # Problem Name:  第一个只出现一次的字符  LCOF, 第一个只出现一次的字符
 # Problem Url:  https://leetcode-cn.com/problems/di-yi-ge-zhi-chu-xian-yi-ci-de-zi-fu-lcof/
 # Problem Level:  Easy
+# Language:  Python3
  
 class Solution:
     def firstUniqChar(self, s: str) -> str:

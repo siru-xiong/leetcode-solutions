@@ -2,6 +2,7 @@
 # Problem Name:  Minimum Path Sum, 最小路径和
 # Problem Url:  https://leetcode-cn.com/problems/minimum-path-sum/
 # Problem Level:  Medium
+# Language:  Python3
  
 class Solution:
     def minPathSum(self, grid: List[List[int]]) -> int:

@@ -2,6 +2,7 @@
 # Problem Name:  Number of Equivalent Domino Pairs, 等价多米诺骨牌对的数量
 # Problem Url:  https://leetcode-cn.com/problems/number-of-equivalent-domino-pairs/
 # Problem Level:  Easy
+# Language:  Python3
  
 class Solution:
     def numEquivDominoPairs(self, dominoes: List[List[int]]) -> int:

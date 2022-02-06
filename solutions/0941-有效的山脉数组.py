@@ -2,6 +2,7 @@
 # Problem Name:  Valid Mountain Array, 有效的山脉数组
 # Problem Url:  https://leetcode-cn.com/problems/valid-mountain-array/
 # Problem Level:  Easy
+# Language:  Python3
  
 class Solution:
     def validMountainArray(self, arr: List[int]) -> bool:

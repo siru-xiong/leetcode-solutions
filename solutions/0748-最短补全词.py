@@ -2,6 +2,7 @@
 # Problem Name:  Shortest Completing Word, 最短补全词
 # Problem Url:  https://leetcode-cn.com/problems/shortest-completing-word/
 # Problem Level:  Easy
+# Language:  Python3
  
 class Solution:
     def shortestCompletingWord(self, licensePlate: str, words: List[str]) -> str:

@@ -2,6 +2,7 @@
 # Problem Name:  H-Index II, H 指数 II
 # Problem Url:  https://leetcode-cn.com/problems/h-index-ii/
 # Problem Level:  Medium
+# Language:  Python3
  
 class Solution:
     def hIndex(self, citations: List[int]) -> int:

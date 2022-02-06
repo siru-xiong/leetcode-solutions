@@ -2,6 +2,7 @@
 # Problem Name:  丑数 LCOF, 丑数
 # Problem Url:  https://leetcode-cn.com/problems/chou-shu-lcof/
 # Problem Level:  Medium
+# Language:  Python3
  
 class Solution:
     def nthUglyNumber(self, n: int) -> int:

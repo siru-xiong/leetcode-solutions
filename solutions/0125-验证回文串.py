@@ -2,6 +2,7 @@
 # Problem Name:  Valid Palindrome, 验证回文串
 # Problem Url:  https://leetcode-cn.com/problems/valid-palindrome/
 # Problem Level:  Easy
+# Language:  Python3
  
 class Solution:
     def isPalindrome(self, s: str) -> bool:

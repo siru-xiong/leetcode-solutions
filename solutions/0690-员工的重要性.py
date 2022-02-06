@@ -2,6 +2,7 @@
 # Problem Name:  Employee Importance, 员工的重要性
 # Problem Url:  https://leetcode-cn.com/problems/employee-importance/
 # Problem Level:  Medium
+# Language:  Python3
  
 """
 # Definition for Employee.

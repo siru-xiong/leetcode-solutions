@@ -2,6 +2,7 @@
 # Problem Name:  Number of Steps to Reduce a Number to Zero, 将数字变成 0 的操作次数
 # Problem Url:  https://leetcode-cn.com/problems/number-of-steps-to-reduce-a-number-to-zero/
 # Problem Level:  Easy
+# Language:  Python3
  
 class Solution:
     def numberOfSteps (self, num: int) -> int:

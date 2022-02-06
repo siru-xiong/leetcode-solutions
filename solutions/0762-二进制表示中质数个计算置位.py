@@ -2,6 +2,7 @@
 # Problem Name:  Prime Number of Set Bits in Binary Representation, 二进制表示中质数个计算置位
 # Problem Url:  https://leetcode-cn.com/problems/prime-number-of-set-bits-in-binary-representation/
 # Problem Level:  Easy
+# Language:  Python3
  
 class Solution:
     def countPrimeSetBits(self, L: int, R: int) -> int:

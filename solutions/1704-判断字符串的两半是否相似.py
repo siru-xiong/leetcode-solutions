@@ -2,6 +2,7 @@
 # Problem Name:  Determine if String Halves Are Alike, 判断字符串的两半是否相似
 # Problem Url:  https://leetcode-cn.com/problems/determine-if-string-halves-are-alike/
 # Problem Level:  Easy
+# Language:  Python3
  
 class Solution:
     def halvesAreAlike(self, s: str) -> bool:

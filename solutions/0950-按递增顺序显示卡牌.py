@@ -2,6 +2,7 @@
 # Problem Name:  Reveal Cards In Increasing Order, 按递增顺序显示卡牌
 # Problem Url:  https://leetcode-cn.com/problems/reveal-cards-in-increasing-order/
 # Problem Level:  Medium
+# Language:  Python3
  
 class Solution:
     def deckRevealedIncreasing(self, deck: List[int]) -> List[int]:

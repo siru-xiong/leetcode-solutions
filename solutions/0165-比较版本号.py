@@ -2,6 +2,7 @@
 # Problem Name:  Compare Version Numbers, 比较版本号
 # Problem Url:  https://leetcode-cn.com/problems/compare-version-numbers/
 # Problem Level:  Medium
+# Language:  Python3
  
 class Solution:
     def compareVersion(self, version1: str, version2: str) -> int:

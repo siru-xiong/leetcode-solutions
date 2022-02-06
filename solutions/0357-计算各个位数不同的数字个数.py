@@ -2,6 +2,7 @@
 # Problem Name:  Count Numbers with Unique Digits, 计算各个位数不同的数字个数
 # Problem Url:  https://leetcode-cn.com/problems/count-numbers-with-unique-digits/
 # Problem Level:  Medium
+# Language:  Python3
  
 class Solution:
     def countNumbersWithUniqueDigits(self, n: int) -> int:

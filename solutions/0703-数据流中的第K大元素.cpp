@@ -1,7 +1,8 @@
-# Problem Id:  703
-# Problem Name:  Kth Largest Element in a Stream, 数据流中的第 K 大元素
-# Problem Url:  https://leetcode-cn.com/problems/kth-largest-element-in-a-stream/
-# Problem Level:  Easy
+// Problem Id:  703
+// Problem Name:  Kth Largest Element in a Stream, 数据流中的第 K 大元素
+// Problem Url:  https://leetcode-cn.com/problems/kth-largest-element-in-a-stream/
+// Problem Level:  Easy
+// Language:  C++
  
 class KthLargest {
 public:

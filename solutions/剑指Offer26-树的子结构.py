@@ -2,6 +2,7 @@
 # Problem Name:  树的子结构  LCOF, 树的子结构
 # Problem Url:  https://leetcode-cn.com/problems/shu-de-zi-jie-gou-lcof/
 # Problem Level:  Medium
+# Language:  Python3
  
 # Definition for a binary tree node.
 # class TreeNode:

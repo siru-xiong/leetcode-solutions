@@ -2,6 +2,7 @@
 # Problem Name:  Check Array Formation Through Concatenation, 能否连接形成数组
 # Problem Url:  https://leetcode-cn.com/problems/check-array-formation-through-concatenation/
 # Problem Level:  Easy
+# Language:  Python3
  
 class Solution:
     def canFormArray(self, arr: List[int], pieces: List[List[int]]) -> bool:

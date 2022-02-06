@@ -2,6 +2,7 @@
 # Problem Name:  和为s的连续正数序列 LCOF, 和为s的连续正数序列
 # Problem Url:  https://leetcode-cn.com/problems/he-wei-sde-lian-xu-zheng-shu-xu-lie-lcof/
 # Problem Level:  Easy
+# Language:  Python3
  
 class Solution:
     def findContinuousSequence(self, target: int) -> List[List[int]]:

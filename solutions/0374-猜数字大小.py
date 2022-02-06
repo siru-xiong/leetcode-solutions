@@ -2,6 +2,7 @@
 # Problem Name:  Guess Number Higher or Lower, 猜数字大小
 # Problem Url:  https://leetcode-cn.com/problems/guess-number-higher-or-lower/
 # Problem Level:  Easy
+# Language:  Python3
  
 # The guess API is already defined for you.
 # @param num, your guess

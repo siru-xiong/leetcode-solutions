@@ -2,6 +2,7 @@
 # Problem Name:  Largest Number, 最大数
 # Problem Url:  https://leetcode-cn.com/problems/largest-number/
 # Problem Level:  Medium
+# Language:  Python3
  
 class Solution:
     def compare(self,x,y):

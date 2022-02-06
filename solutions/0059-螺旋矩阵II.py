@@ -2,6 +2,7 @@
 # Problem Name:  Spiral Matrix II, 螺旋矩阵 II
 # Problem Url:  https://leetcode-cn.com/problems/spiral-matrix-ii/
 # Problem Level:  Medium
+# Language:  Python3
  
 class Solution:
     def generateMatrix(self, n: int) -> List[List[int]]:

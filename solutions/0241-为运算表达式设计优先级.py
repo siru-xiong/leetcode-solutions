@@ -2,6 +2,7 @@
 # Problem Name:  Different Ways to Add Parentheses, 为运算表达式设计优先级
 # Problem Url:  https://leetcode-cn.com/problems/different-ways-to-add-parentheses/
 # Problem Level:  Medium
+# Language:  Python3
  
 class Solution:
     def diffWaysToCompute(self, input: str) -> List[int]:

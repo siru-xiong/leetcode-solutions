@@ -2,6 +2,7 @@
 # Problem Name:  Powerful Integers, 强整数
 # Problem Url:  https://leetcode-cn.com/problems/powerful-integers/
 # Problem Level:  Medium
+# Language:  Python3
  
 class Solution:
     def powerfulIntegers(self, x: int, y: int, bound: int) -> List[int]:

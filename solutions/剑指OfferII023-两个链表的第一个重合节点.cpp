@@ -1,7 +1,8 @@
-# Problem Id:  剑指 Offer II 023
-# Problem Name:  两个链表的第一个重合节点, 两个链表的第一个重合节点
-# Problem Url:  https://leetcode-cn.com/problems/3u1WK4/
-# Problem Level:  Easy
+// Problem Id:  剑指 Offer II 023
+// Problem Name:  两个链表的第一个重合节点, 两个链表的第一个重合节点
+// Problem Url:  https://leetcode-cn.com/problems/3u1WK4/
+// Problem Level:  Easy
+// Language:  C++
  
 /**
  * Definition for singly-linked list.

@@ -2,6 +2,7 @@
 # Problem Name:  Repeated Substring Pattern, 重复的子字符串
 # Problem Url:  https://leetcode-cn.com/problems/repeated-substring-pattern/
 # Problem Level:  Easy
+# Language:  Python3
  
 class Solution:
     def repeatedSubstringPattern(self, s: str) -> bool:

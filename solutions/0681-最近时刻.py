@@ -2,6 +2,7 @@
 # Problem Name:  Next Closest Time, 最近时刻
 # Problem Url:  https://leetcode-cn.com/problems/next-closest-time/
 # Problem Level:  Medium
+# Language:  Python3
  
 class Solution:
     def next(self,t1,t2):

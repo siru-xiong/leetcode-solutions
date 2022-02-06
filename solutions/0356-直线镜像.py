@@ -2,6 +2,7 @@
 # Problem Name:  Line Reflection, 直线镜像
 # Problem Url:  https://leetcode-cn.com/problems/line-reflection/
 # Problem Level:  Medium
+# Language:  Python3
  
 class Solution:
     def isReflected(self, points: List[List[int]]) -> bool:

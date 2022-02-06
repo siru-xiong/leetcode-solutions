@@ -2,6 +2,7 @@
 # Problem Name:  Delete Node in a Linked List, 删除链表中的节点
 # Problem Url:  https://leetcode-cn.com/problems/delete-node-in-a-linked-list/
 # Problem Level:  Easy
+# Language:  Python3
  
 # Definition for singly-linked list.
 # class ListNode:

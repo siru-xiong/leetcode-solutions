@@ -2,6 +2,7 @@
 # Problem Name:  Bitwise AND of Numbers Range, 数字范围按位与
 # Problem Url:  https://leetcode-cn.com/problems/bitwise-and-of-numbers-range/
 # Problem Level:  Medium
+# Language:  Python3
  
 class Solution:
     def rangeBitwiseAnd(self, left: int, right: int) -> int:

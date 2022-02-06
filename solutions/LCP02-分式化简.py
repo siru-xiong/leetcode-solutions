@@ -2,6 +2,7 @@
 # Problem Name:  Deep Dark Fraction, 分式化简
 # Problem Url:  https://leetcode-cn.com/problems/deep-dark-fraction/
 # Problem Level:  Easy
+# Language:  Python3
  
 class Solution:
     def fraction(self, cont: List[int]) -> List[int]:

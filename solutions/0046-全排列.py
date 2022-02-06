@@ -2,6 +2,7 @@
 # Problem Name:  Permutations, 全排列
 # Problem Url:  https://leetcode-cn.com/problems/permutations/
 # Problem Level:  Medium
+# Language:  Python3
  
 class Solution:
     def permute(self, nums: List[int]) -> List[List[int]]:

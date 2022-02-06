@@ -1,7 +1,8 @@
-# Problem Id:  1484
-# Problem Name:  Group Sold Products By The Date, 按日期分组销售产品
-# Problem Url:  https://leetcode-cn.com/problems/group-sold-products-by-the-date/
-# Problem Level:  Easy
+-- Problem Id:  1484
+-- Problem Name:  Group Sold Products By The Date, 按日期分组销售产品
+-- Problem Url:  https://leetcode-cn.com/problems/group-sold-products-by-the-date/
+-- Problem Level:  Easy
+-- Language:  MySQL
  
 # Write your MySQL query statement below
 select 

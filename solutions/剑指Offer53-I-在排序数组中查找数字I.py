@@ -2,6 +2,7 @@
 # Problem Name:  在排序数组中查找数字  LCOF, 在排序数组中查找数字 I
 # Problem Url:  https://leetcode-cn.com/problems/zai-pai-xu-shu-zu-zhong-cha-zhao-shu-zi-lcof/
 # Problem Level:  Easy
+# Language:  Python3
  
 class Solution:
     def search(self, nums: List[int], target: int) -> int:

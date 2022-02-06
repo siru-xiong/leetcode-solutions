@@ -2,6 +2,7 @@
 # Problem Name:  Find the Duplicate Number, 寻找重复数
 # Problem Url:  https://leetcode-cn.com/problems/find-the-duplicate-number/
 # Problem Level:  Medium
+# Language:  Python3
  
 class Solution:
     def findDuplicate(self, nums: List[int]) -> int:

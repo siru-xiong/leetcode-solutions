@@ -2,6 +2,7 @@
 # Problem Name:  3Sum Closest, 最接近的三数之和
 # Problem Url:  https://leetcode-cn.com/problems/3sum-closest/
 # Problem Level:  Medium
+# Language:  Python3
  
 class Solution:
     def tc(self, nums: List[int], target: int):

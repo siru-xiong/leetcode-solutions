@@ -2,6 +2,7 @@
 # Problem Name:  K-diff Pairs in an Array, 数组中的 k-diff 数对
 # Problem Url:  https://leetcode-cn.com/problems/k-diff-pairs-in-an-array/
 # Problem Level:  Medium
+# Language:  Python3
  
 class Solution:
     def findPairs(self, nums: List[int], k: int) -> int:

@@ -2,6 +2,7 @@
 # Problem Name:  Coin LCCI, 硬币
 # Problem Url:  https://leetcode-cn.com/problems/coin-lcci/
 # Problem Level:  Medium
+# Language:  Python3
  
 class Solution:
     def waysToChange(self, n: int) -> int:

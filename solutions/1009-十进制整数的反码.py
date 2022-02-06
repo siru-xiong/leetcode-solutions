@@ -2,6 +2,7 @@
 # Problem Name:  Complement of Base 10 Integer, 十进制整数的反码
 # Problem Url:  https://leetcode-cn.com/problems/complement-of-base-10-integer/
 # Problem Level:  Easy
+# Language:  Python3
  
 class Solution:
     def bitwiseComplement(self, N: int) -> int:

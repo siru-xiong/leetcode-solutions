@@ -2,6 +2,7 @@
 # Problem Name:  Find Smallest Letter Greater Than Target, 寻找比目标字母大的最小字母
 # Problem Url:  https://leetcode-cn.com/problems/find-smallest-letter-greater-than-target/
 # Problem Level:  Easy
+# Language:  Python3
  
 class Solution:
     def nextGreatestLetter(self, letters: List[str], target: str) -> str:

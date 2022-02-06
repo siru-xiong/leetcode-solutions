@@ -2,6 +2,7 @@
 # Problem Name:  Merge Intervals, 合并区间
 # Problem Url:  https://leetcode-cn.com/problems/merge-intervals/
 # Problem Level:  Medium
+# Language:  Python3
  
 class Solution:
     def merge(self, intervals: List[List[int]]) -> List[List[int]]:

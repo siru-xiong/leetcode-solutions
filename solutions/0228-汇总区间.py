@@ -2,6 +2,7 @@
 # Problem Name:  Summary Ranges, 汇总区间
 # Problem Url:  https://leetcode-cn.com/problems/summary-ranges/
 # Problem Level:  Easy
+# Language:  Python3
  
 class Solution:
     def summaryRanges(self, nums: List[int]) -> List[str]:

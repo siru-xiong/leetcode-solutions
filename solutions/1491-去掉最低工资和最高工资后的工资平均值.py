@@ -2,6 +2,7 @@
 # Problem Name:  Average Salary Excluding the Minimum and Maximum Salary, 去掉最低工资和最高工资后的工资平均值
 # Problem Url:  https://leetcode-cn.com/problems/average-salary-excluding-the-minimum-and-maximum-salary/
 # Problem Level:  Easy
+# Language:  Python3
  
 class Solution:
     def average(self, salary: List[int]) -> float:

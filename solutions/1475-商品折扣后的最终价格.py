@@ -2,6 +2,7 @@
 # Problem Name:  Final Prices With a Special Discount in a Shop, 商品折扣后的最终价格
 # Problem Url:  https://leetcode-cn.com/problems/final-prices-with-a-special-discount-in-a-shop/
 # Problem Level:  Easy
+# Language:  Python3
  
 class Solution:
     def finalPrices(self, prices: List[int]) -> List[int]:

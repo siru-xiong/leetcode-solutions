@@ -2,6 +2,7 @@
 # Problem Name:  Remove Nth Node From End of List, 删除链表的倒数第 N 个结点
 # Problem Url:  https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/
 # Problem Level:  Medium
+# Language:  Python3
  
 # Definition for singly-linked list.
 # class ListNode:

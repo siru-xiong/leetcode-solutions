@@ -2,6 +2,7 @@
 # Problem Name:  Add Binary, 二进制求和
 # Problem Url:  https://leetcode-cn.com/problems/add-binary/
 # Problem Level:  Easy
+# Language:  Python3
  
 class Solution:
     def addBinary(self, a: str, b: str) -> str:

@@ -2,6 +2,7 @@
 # Problem Name:  Jewels and Stones, 宝石与石头
 # Problem Url:  https://leetcode-cn.com/problems/jewels-and-stones/
 # Problem Level:  Easy
+# Language:  Python3
  
 class Solution:
     def numJewelsInStones(self, jewels: str, stones: str) -> int:

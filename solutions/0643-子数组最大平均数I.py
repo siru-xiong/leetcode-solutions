@@ -2,6 +2,7 @@
 # Problem Name:  Maximum Average Subarray I, 子数组最大平均数 I
 # Problem Url:  https://leetcode-cn.com/problems/maximum-average-subarray-i/
 # Problem Level:  Easy
+# Language:  Python3
  
 class Solution:
     def findMaxAverage(self, nums: List[int], k: int) -> float:

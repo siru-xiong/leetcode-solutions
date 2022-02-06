@@ -2,6 +2,7 @@
 # Problem Name:  Baseball Game, 棒球比赛
 # Problem Url:  https://leetcode-cn.com/problems/baseball-game/
 # Problem Level:  Easy
+# Language:  Python3
  
 class Solution:
     def calPoints(self, ops: List[str]) -> int:

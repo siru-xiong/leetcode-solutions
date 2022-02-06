@@ -2,6 +2,7 @@
 # Problem Name:  Maximum Distance Between a Pair of Values, 下标对中的最大距离
 # Problem Url:  https://leetcode-cn.com/problems/maximum-distance-between-a-pair-of-values/
 # Problem Level:  Medium
+# Language:  Python3
  
 class Solution:
     def maxDistance(self, nums1: List[int], nums2: List[int]) -> int:

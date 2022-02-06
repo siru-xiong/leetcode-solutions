@@ -2,6 +2,7 @@
 # Problem Name:  Combination Sum, 组合总和
 # Problem Url:  https://leetcode-cn.com/problems/combination-sum/
 # Problem Level:  Medium
+# Language:  Python3
  
 class Solution:
     def combinationSum(self, candidates: List[int], target: int) -> List[List[int]]:

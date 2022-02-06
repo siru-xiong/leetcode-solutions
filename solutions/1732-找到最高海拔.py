@@ -2,6 +2,7 @@
 # Problem Name:  Find the Highest Altitude, 找到最高海拔
 # Problem Url:  https://leetcode-cn.com/problems/find-the-highest-altitude/
 # Problem Level:  Easy
+# Language:  Python3
  
 class Solution:
     def largestAltitude(self, gain: List[int]) -> int:

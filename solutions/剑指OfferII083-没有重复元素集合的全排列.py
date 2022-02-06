@@ -2,6 +2,7 @@
 # Problem Name:  没有重复元素集合的全排列, 没有重复元素集合的全排列
 # Problem Url:  https://leetcode-cn.com/problems/VvJkup/
 # Problem Level:  Medium
+# Language:  Python3
  
 class Solution:
     def permute(self, nums: List[int]) -> List[List[int]]:

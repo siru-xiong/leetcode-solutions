@@ -2,6 +2,7 @@
 # Problem Name:  Remove All Adjacent Duplicates In String, 删除字符串中的所有相邻重复项
 # Problem Url:  https://leetcode-cn.com/problems/remove-all-adjacent-duplicates-in-string/
 # Problem Level:  Easy
+# Language:  Python3
  
 class Solution:
     def removeDuplicates(self, S: str) -> str:

@@ -2,6 +2,7 @@
 # Problem Name:  Paint House, 粉刷房子
 # Problem Url:  https://leetcode-cn.com/problems/paint-house/
 # Problem Level:  Medium
+# Language:  Python3
  
 class Solution:
     def minCost(self, costs: List[List[int]]) -> int:

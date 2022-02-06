@@ -2,6 +2,7 @@
 # Problem Name:  Peeking Iterator, 顶端迭代器
 # Problem Url:  https://leetcode-cn.com/problems/peeking-iterator/
 # Problem Level:  Medium
+# Language:  Python3
  
 # Below is the interface for Iterator, which is already defined for you.
 #

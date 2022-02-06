@@ -2,6 +2,7 @@
 # Problem Name:  Implement strStr(), 实现 strStr()
 # Problem Url:  https://leetcode-cn.com/problems/implement-strstr/
 # Problem Level:  Easy
+# Language:  Python3
  
 class Solution:
     def strStr(self, haystack: str, needle: str) -> int:

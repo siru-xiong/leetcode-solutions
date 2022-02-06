@@ -2,6 +2,7 @@
 # Problem Name:  Min Stack, 最小栈
 # Problem Url:  https://leetcode-cn.com/problems/min-stack/
 # Problem Level:  Easy
+# Language:  Python3
  
 class MinStack:
 

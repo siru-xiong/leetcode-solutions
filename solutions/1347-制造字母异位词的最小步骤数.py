@@ -2,6 +2,7 @@
 # Problem Name:  Minimum Number of Steps to Make Two Strings Anagram, 制造字母异位词的最小步骤数
 # Problem Url:  https://leetcode-cn.com/problems/minimum-number-of-steps-to-make-two-strings-anagram/
 # Problem Level:  Medium
+# Language:  Python3
  
 class Solution:
     def minSteps(self, s: str, t: str) -> int:

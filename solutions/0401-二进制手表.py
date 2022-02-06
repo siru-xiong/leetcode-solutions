@@ -2,6 +2,7 @@
 # Problem Name:  Binary Watch, 二进制手表
 # Problem Url:  https://leetcode-cn.com/problems/binary-watch/
 # Problem Level:  Easy
+# Language:  Python3
  
 class Solution:
     def light(self,num,vlist):

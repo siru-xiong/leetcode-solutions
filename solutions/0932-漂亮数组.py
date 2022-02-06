@@ -2,6 +2,7 @@
 # Problem Name:  Beautiful Array, 漂亮数组
 # Problem Url:  https://leetcode-cn.com/problems/beautiful-array/
 # Problem Level:  Medium
+# Language:  Python3
  
 class Solution:
     def beautifulArray(self, n: int) -> List[int]:

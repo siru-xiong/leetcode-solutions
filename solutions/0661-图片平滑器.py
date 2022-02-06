@@ -2,6 +2,7 @@
 # Problem Name:  Image Smoother, 图片平滑器
 # Problem Url:  https://leetcode-cn.com/problems/image-smoother/
 # Problem Level:  Easy
+# Language:  Python3
  
 class Solution:
     def imageSmoother(self, M: List[List[int]]) -> List[List[int]]:

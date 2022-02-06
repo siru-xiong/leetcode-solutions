@@ -2,6 +2,7 @@
 # Problem Name:  山峰数组的顶部, 山峰数组的顶部
 # Problem Url:  https://leetcode-cn.com/problems/B1IidL/
 # Problem Level:  Easy
+# Language:  Python3
  
 class Solution:
     def peakIndexInMountainArray(self, arr: List[int]) -> int:

@@ -2,6 +2,7 @@
 # Problem Name:  Build Array from Permutation, 基于排列构建数组
 # Problem Url:  https://leetcode-cn.com/problems/build-array-from-permutation/
 # Problem Level:  Easy
+# Language:  Python3
  
 class Solution:
     def buildArray(self, nums: List[int]) -> List[int]:

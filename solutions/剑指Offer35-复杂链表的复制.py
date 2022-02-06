@@ -2,6 +2,7 @@
 # Problem Name:  复杂链表的复制  LCOF, 复杂链表的复制
 # Problem Url:  https://leetcode-cn.com/problems/fu-za-lian-biao-de-fu-zhi-lcof/
 # Problem Level:  Medium
+# Language:  Python3
  
 """
 # Definition for a Node.

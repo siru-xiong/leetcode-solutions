@@ -2,6 +2,7 @@
 # Problem Name:  Design HashSet, 设计哈希集合
 # Problem Url:  https://leetcode-cn.com/problems/design-hashset/
 # Problem Level:  Easy
+# Language:  Python3
  
 class MyHashSet:
 

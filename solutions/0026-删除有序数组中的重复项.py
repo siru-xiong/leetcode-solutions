@@ -2,6 +2,7 @@
 # Problem Name:  Remove Duplicates from Sorted Array, 删除有序数组中的重复项
 # Problem Url:  https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/
 # Problem Level:  Easy
+# Language:  Python3
  
 class Solution:
     def removeDuplicates(self, nums: List[int]) -> int:

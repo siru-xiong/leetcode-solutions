@@ -2,6 +2,7 @@
 # Problem Name:  Maximum Ice Cream Bars, 雪糕的最大数量
 # Problem Url:  https://leetcode-cn.com/problems/maximum-ice-cream-bars/
 # Problem Level:  Medium
+# Language:  Python3
  
 class Solution:
     def maxIceCream(self, costs: List[int], coins: int) -> int:

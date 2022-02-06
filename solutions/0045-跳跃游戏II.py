@@ -2,6 +2,7 @@
 # Problem Name:  Jump Game II, 跳跃游戏 II
 # Problem Url:  https://leetcode-cn.com/problems/jump-game-ii/
 # Problem Level:  Medium
+# Language:  Python3
  
 class Solution:
     def jump(self, nums: List[int]) -> int:

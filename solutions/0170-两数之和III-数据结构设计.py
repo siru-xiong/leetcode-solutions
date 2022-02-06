@@ -2,6 +2,7 @@
 # Problem Name:  Two Sum III - Data structure design, 两数之和 III - 数据结构设计
 # Problem Url:  https://leetcode-cn.com/problems/two-sum-iii-data-structure-design/
 # Problem Level:  Easy
+# Language:  Python3
  
 class TwoSum:
 

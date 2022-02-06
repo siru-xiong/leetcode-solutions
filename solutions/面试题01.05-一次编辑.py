@@ -2,6 +2,7 @@
 # Problem Name:  One Away LCCI, 一次编辑
 # Problem Url:  https://leetcode-cn.com/problems/one-away-lcci/
 # Problem Level:  Medium
+# Language:  Python3
  
 class Solution:
     def oneEditAway(self, first: str, second: str) -> bool:

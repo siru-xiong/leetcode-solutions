@@ -2,6 +2,7 @@
 # Problem Name:  合并两个排序的链表  LCOF, 合并两个排序的链表
 # Problem Url:  https://leetcode-cn.com/problems/he-bing-liang-ge-pai-xu-de-lian-biao-lcof/
 # Problem Level:  Easy
+# Language:  Python3
  
 # Definition for singly-linked list.
 # class ListNode:

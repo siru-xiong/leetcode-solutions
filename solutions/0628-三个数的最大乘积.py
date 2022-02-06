@@ -2,6 +2,7 @@
 # Problem Name:  Maximum Product of Three Numbers, 三个数的最大乘积
 # Problem Url:  https://leetcode-cn.com/problems/maximum-product-of-three-numbers/
 # Problem Level:  Easy
+# Language:  Python3
  
 class Solution:
     def maximumProduct(self, nums: List[int]) -> int:

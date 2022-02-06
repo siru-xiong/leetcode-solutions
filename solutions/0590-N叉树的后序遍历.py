@@ -2,6 +2,7 @@
 # Problem Name:  N-ary Tree Postorder Traversal, N 叉树的后序遍历
 # Problem Url:  https://leetcode-cn.com/problems/n-ary-tree-postorder-traversal/
 # Problem Level:  Easy
+# Language:  Python3
  
 """
 # Definition for a Node.

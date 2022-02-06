@@ -2,6 +2,7 @@
 # Problem Name:  Random Pick with Blacklist, 黑名单中的随机数
 # Problem Url:  https://leetcode-cn.com/problems/random-pick-with-blacklist/
 # Problem Level:  Hard
+# Language:  Python3
  
 class Solution:
 

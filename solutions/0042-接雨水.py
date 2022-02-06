@@ -2,6 +2,7 @@
 # Problem Name:  Trapping Rain Water, 接雨水
 # Problem Url:  https://leetcode-cn.com/problems/trapping-rain-water/
 # Problem Level:  Hard
+# Language:  Python3
  
 class Solution:
     def trap(self, height: List[int]) -> int:

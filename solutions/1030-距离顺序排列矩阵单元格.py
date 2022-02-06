@@ -2,6 +2,7 @@
 # Problem Name:  Matrix Cells in Distance Order, 距离顺序排列矩阵单元格
 # Problem Url:  https://leetcode-cn.com/problems/matrix-cells-in-distance-order/
 # Problem Level:  Easy
+# Language:  Python3
  
 class Solution:
     def allCellsDistOrder(self, R: int, C: int, r0: int, c0: int) -> List[List[int]]:

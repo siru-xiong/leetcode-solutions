@@ -2,6 +2,7 @@
 # Problem Name:  Palindrome Linked List LCCI, 回文链表
 # Problem Url:  https://leetcode-cn.com/problems/palindrome-linked-list-lcci/
 # Problem Level:  Easy
+# Language:  Python3
  
 # Definition for singly-linked list.
 # class ListNode:
