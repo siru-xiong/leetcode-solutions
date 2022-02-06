@@ -29,6 +29,6 @@
 
 对于同一题目的每种语言，将只爬取最近的提交。对每一次提交，将使用`序号-中文名称.后缀`的格式命名。
 
-文件的抬头包括题目序号，题目中英文名称，题目链接和题目难度。
+文件的抬头包括题目序号，题目中英文名称，题目链接，题目难度和提交语言。
 
 样例结果见[本仓库](https://github.com/siru-xiong/leetcode-solutions)下的[solutions](https://github.com/siru-xiong/leetcode-solutions/tree/main/solutions)文件夹。
