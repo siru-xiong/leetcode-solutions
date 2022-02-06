@@ -1,7 +1,8 @@
-# Problem Id:  剑指 Offer 60
-# Problem Name:  n个骰子的点数  LCOF, n个骰子的点数
-# Problem Url:  https://leetcode-cn.com/problems/nge-tou-zi-de-dian-shu-lcof/
-# Problem Level:  Medium
+// Problem Id:  剑指 Offer 60
+// Problem Name:  n个骰子的点数  LCOF, n个骰子的点数
+// Problem Url:  https://leetcode-cn.com/problems/nge-tou-zi-de-dian-shu-lcof/
+// Problem Level:  Medium
+// Language:  C++
  
 class Solution {
 public:

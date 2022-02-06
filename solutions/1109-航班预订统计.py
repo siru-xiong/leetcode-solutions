@@ -2,6 +2,7 @@
 # Problem Name:  Corporate Flight Bookings, 航班预订统计
 # Problem Url:  https://leetcode-cn.com/problems/corporate-flight-bookings/
 # Problem Level:  Medium
+# Language:  Python3
  
 class Solution:
     def corpFlightBookings(self, bookings: List[List[int]], n: int) -> List[int]:

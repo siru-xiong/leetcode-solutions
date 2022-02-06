@@ -2,6 +2,7 @@
 # Problem Name:  两个链表的第一个公共节点  LCOF, 两个链表的第一个公共节点
 # Problem Url:  https://leetcode-cn.com/problems/liang-ge-lian-biao-de-di-yi-ge-gong-gong-jie-dian-lcof/
 # Problem Level:  Easy
+# Language:  Python3
  
 # Definition for singly-linked list.
 # class ListNode:

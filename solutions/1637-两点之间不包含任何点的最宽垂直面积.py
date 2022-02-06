@@ -2,6 +2,7 @@
 # Problem Name:  Widest Vertical Area Between Two Points Containing No Points, 两点之间不包含任何点的最宽垂直面积
 # Problem Url:  https://leetcode-cn.com/problems/widest-vertical-area-between-two-points-containing-no-points/
 # Problem Level:  Medium
+# Language:  Python3
  
 class Solution:
     def maxWidthOfVerticalArea(self, points: List[List[int]]) -> int:

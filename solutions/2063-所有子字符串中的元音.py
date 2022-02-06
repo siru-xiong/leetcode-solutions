@@ -2,6 +2,7 @@
 # Problem Name:  Vowels of All Substrings, 所有子字符串中的元音
 # Problem Url:  https://leetcode-cn.com/problems/vowels-of-all-substrings/
 # Problem Level:  Medium
+# Language:  Python3
  
 class Solution:
     def countVowels(self, word: str) -> int:

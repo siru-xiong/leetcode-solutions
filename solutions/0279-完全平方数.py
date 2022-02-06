@@ -2,6 +2,7 @@
 # Problem Name:  Perfect Squares, 完全平方数
 # Problem Url:  https://leetcode-cn.com/problems/perfect-squares/
 # Problem Level:  Medium
+# Language:  Python3
  
 class Solution:
     def numSquares(self, n: int) -> int:

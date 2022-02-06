@@ -2,6 +2,7 @@
 # Problem Name:  Longest Consecutive Sequence, 最长连续序列
 # Problem Url:  https://leetcode-cn.com/problems/longest-consecutive-sequence/
 # Problem Level:  Medium
+# Language:  Python3
  
 class Solution:
     def longestConsecutive(self, nums: List[int]) -> int:

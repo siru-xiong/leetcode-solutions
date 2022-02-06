@@ -2,6 +2,7 @@
 # Problem Name:  Count the Number of Consistent Strings, 统计一致字符串的数目
 # Problem Url:  https://leetcode-cn.com/problems/count-the-number-of-consistent-strings/
 # Problem Level:  Easy
+# Language:  Python3
  
 class Solution:
     def countConsistentStrings(self, allowed: str, words: List[str]) -> int:

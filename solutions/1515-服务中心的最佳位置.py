@@ -2,6 +2,7 @@
 # Problem Name:  Best Position for a Service Centre, 服务中心的最佳位置
 # Problem Url:  https://leetcode-cn.com/problems/best-position-for-a-service-centre/
 # Problem Level:  Hard
+# Language:  Python3
  
 import scipy.optimize
 class Solution:

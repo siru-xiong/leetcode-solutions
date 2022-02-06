@@ -2,6 +2,7 @@
 # Problem Name:  Squares of a Sorted Array, 有序数组的平方
 # Problem Url:  https://leetcode-cn.com/problems/squares-of-a-sorted-array/
 # Problem Level:  Easy
+# Language:  Python3
  
 class Solution:
     def sortedSquares(self, nums: List[int]) -> List[int]:

@@ -2,6 +2,7 @@
 # Problem Name:  求1+2+…+n LCOF, 求1+2+…+n
 # Problem Url:  https://leetcode-cn.com/problems/qiu-12n-lcof/
 # Problem Level:  Medium
+# Language:  Python3
  
 class Solution:
 

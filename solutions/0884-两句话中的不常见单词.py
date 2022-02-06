@@ -2,6 +2,7 @@
 # Problem Name:  Uncommon Words from Two Sentences, 两句话中的不常见单词
 # Problem Url:  https://leetcode-cn.com/problems/uncommon-words-from-two-sentences/
 # Problem Level:  Easy
+# Language:  Python3
  
 class Solution:
     def uncommonFromSentences(self, A: str, B: str) -> List[str]:

@@ -2,6 +2,7 @@
 # Problem Name:  Set Mismatch, 错误的集合
 # Problem Url:  https://leetcode-cn.com/problems/set-mismatch/
 # Problem Level:  Easy
+# Language:  Python3
  
 class Solution:
     def findErrorNums(self, nums: List[int]) -> List[int]:

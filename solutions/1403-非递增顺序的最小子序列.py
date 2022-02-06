@@ -2,6 +2,7 @@
 # Problem Name:  Minimum Subsequence in Non-Increasing Order, 非递增顺序的最小子序列
 # Problem Url:  https://leetcode-cn.com/problems/minimum-subsequence-in-non-increasing-order/
 # Problem Level:  Easy
+# Language:  Python3
  
 class Solution:
     def minSubsequence(self, nums: List[int]) -> List[int]:

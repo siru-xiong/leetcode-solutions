@@ -2,6 +2,7 @@
 # Problem Name:  Min Stack LCCI, 栈的最小值
 # Problem Url:  https://leetcode-cn.com/problems/min-stack-lcci/
 # Problem Level:  Easy
+# Language:  Python3
  
 class MinStack:
 

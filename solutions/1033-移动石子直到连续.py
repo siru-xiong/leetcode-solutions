@@ -2,6 +2,7 @@
 # Problem Name:  Moving Stones Until Consecutive, 移动石子直到连续
 # Problem Url:  https://leetcode-cn.com/problems/moving-stones-until-consecutive/
 # Problem Level:  Medium
+# Language:  Python3
  
 class Solution:
     def numMovesStones(self, a: int, b: int, c: int) -> List[int]:

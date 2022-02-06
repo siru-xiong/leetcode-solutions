@@ -2,6 +2,7 @@
 # Problem Name:  Subsets, 子集
 # Problem Url:  https://leetcode-cn.com/problems/subsets/
 # Problem Level:  Medium
+# Language:  Python3
  
 class Solution:
     def subsets(self, nums: List[int]) -> List[List[int]]:

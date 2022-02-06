@@ -2,6 +2,7 @@
 # Problem Name:  Next Greater Element I, 下一个更大元素 I
 # Problem Url:  https://leetcode-cn.com/problems/next-greater-element-i/
 # Problem Level:  Easy
+# Language:  Python3
  
 class Solution:
     def nextGreaterElement(self, nums1: List[int], nums2: List[int]) -> List[int]:

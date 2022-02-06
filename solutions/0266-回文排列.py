@@ -2,6 +2,7 @@
 # Problem Name:  Palindrome Permutation, 回文排列
 # Problem Url:  https://leetcode-cn.com/problems/palindrome-permutation/
 # Problem Level:  Easy
+# Language:  Python3
  
 class Solution:
     def canPermutePalindrome(self, s: str) -> bool:

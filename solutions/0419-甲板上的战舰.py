@@ -2,6 +2,7 @@
 # Problem Name:  Battleships in a Board, 甲板上的战舰
 # Problem Url:  https://leetcode-cn.com/problems/battleships-in-a-board/
 # Problem Level:  Medium
+# Language:  Python3
  
 class Solution:
     def countBattleships(self, board: List[List[str]]) -> int:

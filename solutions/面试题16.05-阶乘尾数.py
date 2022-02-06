@@ -2,6 +2,7 @@
 # Problem Name:  Factorial Zeros LCCI, 阶乘尾数
 # Problem Url:  https://leetcode-cn.com/problems/factorial-zeros-lcci/
 # Problem Level:  Easy
+# Language:  Python3
  
 class Solution:
     def trailingZeroes(self, n: int) -> int:

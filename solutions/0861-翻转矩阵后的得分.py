@@ -2,6 +2,7 @@
 # Problem Name:  Score After Flipping Matrix, 翻转矩阵后的得分
 # Problem Url:  https://leetcode-cn.com/problems/score-after-flipping-matrix/
 # Problem Level:  Medium
+# Language:  Python3
  
 class Solution:
     def matrixScore(self, A: List[List[int]]) -> int:

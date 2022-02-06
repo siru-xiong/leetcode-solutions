@@ -2,6 +2,7 @@
 # Problem Name:  Sum Lists LCCI, 链表求和
 # Problem Url:  https://leetcode-cn.com/problems/sum-lists-lcci/
 # Problem Level:  Medium
+# Language:  Python3
  
 # Definition for singly-linked list.
 # class ListNode:

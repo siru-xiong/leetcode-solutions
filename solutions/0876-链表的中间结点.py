@@ -2,6 +2,7 @@
 # Problem Name:  Middle of the Linked List, 链表的中间结点
 # Problem Url:  https://leetcode-cn.com/problems/middle-of-the-linked-list/
 # Problem Level:  Easy
+# Language:  Python3
  
 # Definition for singly-linked list.
 # class ListNode:

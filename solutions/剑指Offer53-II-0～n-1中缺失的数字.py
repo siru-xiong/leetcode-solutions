@@ -2,6 +2,7 @@
 # Problem Name:  缺失的数字  LCOF, 0～n-1中缺失的数字
 # Problem Url:  https://leetcode-cn.com/problems/que-shi-de-shu-zi-lcof/
 # Problem Level:  Easy
+# Language:  Python3
  
 class Solution:
     def missingNumber(self, nums: List[int]) -> int:

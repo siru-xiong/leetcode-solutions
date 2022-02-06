@@ -2,6 +2,7 @@
 # Problem Name:  Contains Duplicate II, 存在重复元素 II
 # Problem Url:  https://leetcode-cn.com/problems/contains-duplicate-ii/
 # Problem Level:  Easy
+# Language:  Python3
  
 class Solution:
     def containsNearbyDuplicate(self, nums: List[int], k: int) -> bool:

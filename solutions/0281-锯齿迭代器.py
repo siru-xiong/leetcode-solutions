@@ -2,6 +2,7 @@
 # Problem Name:  Zigzag Iterator, 锯齿迭代器
 # Problem Url:  https://leetcode-cn.com/problems/zigzag-iterator/
 # Problem Level:  Medium
+# Language:  Python3
  
 class ZigzagIterator:
     def __init__(self, v1: List[int], v2: List[int]):

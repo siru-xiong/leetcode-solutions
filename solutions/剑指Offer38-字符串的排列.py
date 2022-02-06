@@ -2,6 +2,7 @@
 # Problem Name:  字符串的排列  LCOF, 字符串的排列
 # Problem Url:  https://leetcode-cn.com/problems/zi-fu-chuan-de-pai-lie-lcof/
 # Problem Level:  Medium
+# Language:  Python3
  
 class Solution:
     def permutation(self, s: str) -> List[str]:

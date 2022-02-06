@@ -2,6 +2,7 @@
 # Problem Name:  Maximum Number of Words Found in Sentences, 句子中的最多单词数
 # Problem Url:  https://leetcode-cn.com/problems/maximum-number-of-words-found-in-sentences/
 # Problem Level:  Easy
+# Language:  Python3
  
 class Solution:
     def mostWordsFound(self, sentences: List[str]) -> int:

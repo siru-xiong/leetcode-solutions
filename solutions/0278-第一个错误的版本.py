@@ -2,6 +2,7 @@
 # Problem Name:  First Bad Version, 第一个错误的版本
 # Problem Url:  https://leetcode-cn.com/problems/first-bad-version/
 # Problem Level:  Easy
+# Language:  Python3
  
 # The isBadVersion API is already defined for you.
 # @param version, an integer

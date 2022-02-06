@@ -2,6 +2,7 @@
 # Problem Name:  Maximum Number of Balls in a Box, 盒子中小球的最大数量
 # Problem Url:  https://leetcode-cn.com/problems/maximum-number-of-balls-in-a-box/
 # Problem Level:  Easy
+# Language:  Python3
  
 class Solution:
     def countBalls(self, lowLimit: int, highLimit: int) -> int:

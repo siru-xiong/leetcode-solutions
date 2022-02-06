@@ -2,6 +2,7 @@
 # Problem Name:  数值的整数次方 LCOF, 数值的整数次方
 # Problem Url:  https://leetcode-cn.com/problems/shu-zhi-de-zheng-shu-ci-fang-lcof/
 # Problem Level:  Medium
+# Language:  Python3
  
 class Solution:
     def Pow(self, x: float, n: int) -> float:

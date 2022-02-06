@@ -2,6 +2,7 @@
 # Problem Name:  Count Sorted Vowel Strings, 统计字典序元音字符串的数目
 # Problem Url:  https://leetcode-cn.com/problems/count-sorted-vowel-strings/
 # Problem Level:  Medium
+# Language:  Python3
  
 class Solution:
     def countVowelStrings(self, n: int) -> int:

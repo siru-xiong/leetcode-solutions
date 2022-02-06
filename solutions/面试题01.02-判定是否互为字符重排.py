@@ -2,6 +2,7 @@
 # Problem Name:  Check Permutation LCCI, 判定是否互为字符重排
 # Problem Url:  https://leetcode-cn.com/problems/check-permutation-lcci/
 # Problem Level:  Easy
+# Language:  Python3
  
 class Solution:
     def CheckPermutation(self, s1: str, s2: str) -> bool:

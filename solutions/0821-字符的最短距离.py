@@ -2,6 +2,7 @@
 # Problem Name:  Shortest Distance to a Character, 字符的最短距离
 # Problem Url:  https://leetcode-cn.com/problems/shortest-distance-to-a-character/
 # Problem Level:  Easy
+# Language:  Python3
  
 class Solution:
     def shortestToChar(self, s: str, c: str) -> List[int]:

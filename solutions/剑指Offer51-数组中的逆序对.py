@@ -2,6 +2,7 @@
 # Problem Name:  数组中的逆序对  LCOF, 数组中的逆序对
 # Problem Url:  https://leetcode-cn.com/problems/shu-zu-zhong-de-ni-xu-dui-lcof/
 # Problem Level:  Hard
+# Language:  Python3
  
 class Solution:
     def rev(self, nums: List[int]) -> int:

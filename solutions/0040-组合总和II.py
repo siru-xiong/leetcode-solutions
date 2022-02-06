@@ -2,6 +2,7 @@
 # Problem Name:  Combination Sum II, 组合总和 II
 # Problem Url:  https://leetcode-cn.com/problems/combination-sum-ii/
 # Problem Level:  Medium
+# Language:  Python3
  
 class Solution:
     def cs(self, nl, tg):

@@ -2,6 +2,7 @@
 # Problem Name:  Pow(x, n), Pow(x, n)
 # Problem Url:  https://leetcode-cn.com/problems/powx-n/
 # Problem Level:  Medium
+# Language:  Python3
  
 class Solution:
     def Pow(self, x: float, n: int) -> float:

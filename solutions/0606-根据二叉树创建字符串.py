@@ -2,6 +2,7 @@
 # Problem Name:  Construct String from Binary Tree, 根据二叉树创建字符串
 # Problem Url:  https://leetcode-cn.com/problems/construct-string-from-binary-tree/
 # Problem Level:  Easy
+# Language:  Python3
  
 # Definition for a binary tree node.
 # class TreeNode:

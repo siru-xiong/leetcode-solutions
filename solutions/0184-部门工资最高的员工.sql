@@ -1,7 +1,8 @@
-# Problem Id:  184
-# Problem Name:  Department Highest Salary, 部门工资最高的员工
-# Problem Url:  https://leetcode-cn.com/problems/department-highest-salary/
-# Problem Level:  Medium
+-- Problem Id:  184
+-- Problem Name:  Department Highest Salary, 部门工资最高的员工
+-- Problem Url:  https://leetcode-cn.com/problems/department-highest-salary/
+-- Problem Level:  Medium
+-- Language:  MySQL
  
 # Write your MySQL query statement below
 select d.Name as Department, e.Name as Employee , e.Salary

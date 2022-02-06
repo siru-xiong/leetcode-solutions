@@ -2,6 +2,7 @@
 # Problem Name:  Longest Substring with At Least K Repeating Characters, 至少有 K 个重复字符的最长子串
 # Problem Url:  https://leetcode-cn.com/problems/longest-substring-with-at-least-k-repeating-characters/
 # Problem Level:  Medium
+# Language:  Python3
  
 class Solution(object):
     def longestSubstring(self, s, k):

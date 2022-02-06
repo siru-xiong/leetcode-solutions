@@ -2,6 +2,7 @@
 # Problem Name:  Sort Array by Increasing Frequency, 按照频率将数组升序排序
 # Problem Url:  https://leetcode-cn.com/problems/sort-array-by-increasing-frequency/
 # Problem Level:  Easy
+# Language:  Python3
  
 class Solution:
     def frequencySort(self, nums: List[int]) -> List[int]:

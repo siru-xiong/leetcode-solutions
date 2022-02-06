@@ -2,6 +2,7 @@
 # Problem Name:  Sort the Matrix Diagonally, 将矩阵按对角线排序
 # Problem Url:  https://leetcode-cn.com/problems/sort-the-matrix-diagonally/
 # Problem Level:  Medium
+# Language:  Python3
  
 class Solution:
     def diagonalSort(self, mat: List[List[int]]) -> List[List[int]]:

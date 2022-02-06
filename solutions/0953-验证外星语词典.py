@@ -2,6 +2,7 @@
 # Problem Name:  Verifying an Alien Dictionary, 验证外星语词典
 # Problem Url:  https://leetcode-cn.com/problems/verifying-an-alien-dictionary/
 # Problem Level:  Easy
+# Language:  Python3
  
 class Solution:
     def isAlienSorted(self, words: List[str], order: str) -> bool:

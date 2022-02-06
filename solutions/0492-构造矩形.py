@@ -2,6 +2,7 @@
 # Problem Name:  Construct the Rectangle, 构造矩形
 # Problem Url:  https://leetcode-cn.com/problems/construct-the-rectangle/
 # Problem Level:  Easy
+# Language:  Python3
  
 class Solution:
     def constructRectangle(self, area: int) -> List[int]:

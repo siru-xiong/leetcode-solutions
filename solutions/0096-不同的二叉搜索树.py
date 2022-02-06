@@ -2,6 +2,7 @@
 # Problem Name:  Unique Binary Search Trees, 不同的二叉搜索树
 # Problem Url:  https://leetcode-cn.com/problems/unique-binary-search-trees/
 # Problem Level:  Medium
+# Language:  Python3
  
 class Solution:
     def numTrees(self, n: int) -> int:

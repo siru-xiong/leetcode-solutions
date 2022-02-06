@@ -2,6 +2,7 @@
 # Problem Name:  打印从1到最大的n位数 LCOF, 打印从1到最大的n位数
 # Problem Url:  https://leetcode-cn.com/problems/da-yin-cong-1dao-zui-da-de-nwei-shu-lcof/
 # Problem Level:  Easy
+# Language:  Python3
  
 class Solution:
     def printNumbers(self, n: int) -> List[int]:

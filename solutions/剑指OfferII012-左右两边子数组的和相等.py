@@ -2,6 +2,7 @@
 # Problem Name:  左右两边子数组的和相等, 左右两边子数组的和相等
 # Problem Url:  https://leetcode-cn.com/problems/tvdfij/
 # Problem Level:  Easy
+# Language:  Python3
  
 class Solution:
     def pivotIndex(self, nums: List[int]) -> int:

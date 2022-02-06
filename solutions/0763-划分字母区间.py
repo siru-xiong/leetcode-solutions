@@ -2,6 +2,7 @@
 # Problem Name:  Partition Labels, 划分字母区间
 # Problem Url:  https://leetcode-cn.com/problems/partition-labels/
 # Problem Level:  Medium
+# Language:  Python3
  
 class Solution:
     def partitionLabels(self, S: str) -> List[int]:

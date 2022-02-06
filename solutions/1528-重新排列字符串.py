@@ -2,6 +2,7 @@
 # Problem Name:  Shuffle String, 重新排列字符串
 # Problem Url:  https://leetcode-cn.com/problems/shuffle-string/
 # Problem Level:  Easy
+# Language:  Python3
  
 class Solution:
     def restoreString(self, s: str, indices: List[int]) -> str:

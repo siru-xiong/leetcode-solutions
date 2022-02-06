@@ -2,6 +2,7 @@
 # Problem Name:  Number of Segments in a String, 字符串中的单词数
 # Problem Url:  https://leetcode-cn.com/problems/number-of-segments-in-a-string/
 # Problem Level:  Easy
+# Language:  Python3
  
 class Solution:
     def countSegments(self, s: str) -> int:

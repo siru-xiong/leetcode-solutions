@@ -2,6 +2,7 @@
 # Problem Name:  栈的压入、弹出序列 LCOF, 栈的压入、弹出序列
 # Problem Url:  https://leetcode-cn.com/problems/zhan-de-ya-ru-dan-chu-xu-lie-lcof/
 # Problem Level:  Medium
+# Language:  Python3
  
 class Solution:
     def validateStackSequences(self, pushed: List[int], popped: List[int]) -> bool:

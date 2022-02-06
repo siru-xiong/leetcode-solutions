@@ -2,6 +2,7 @@
 # Problem Name:  Mirror Reflection, 镜面反射
 # Problem Url:  https://leetcode-cn.com/problems/mirror-reflection/
 # Problem Level:  Medium
+# Language:  Python3
  
 class Solution:
     def mirrorReflection(self, p: int, q: int) -> int:

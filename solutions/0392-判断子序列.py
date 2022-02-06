@@ -2,6 +2,7 @@
 # Problem Name:  Is Subsequence, 判断子序列
 # Problem Url:  https://leetcode-cn.com/problems/is-subsequence/
 # Problem Level:  Easy
+# Language:  Python3
  
 class Solution:
     def isSubsequence(self, s: str, t: str) -> bool:

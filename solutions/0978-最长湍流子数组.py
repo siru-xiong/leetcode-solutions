@@ -2,6 +2,7 @@
 # Problem Name:  Longest Turbulent Subarray, 最长湍流子数组
 # Problem Url:  https://leetcode-cn.com/problems/longest-turbulent-subarray/
 # Problem Level:  Medium
+# Language:  Python3
  
 class Solution:
     def maxTurbulenceSize(self, arr: List[int]) -> int:

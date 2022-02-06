@@ -2,6 +2,7 @@
 # Problem Name:  Longest Palindrome, 最长回文串
 # Problem Url:  https://leetcode-cn.com/problems/longest-palindrome/
 # Problem Level:  Easy
+# Language:  Python3
  
 class Solution:
     def longestPalindrome(self, s: str) -> int:

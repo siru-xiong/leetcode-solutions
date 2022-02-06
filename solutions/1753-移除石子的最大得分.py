@@ -2,6 +2,7 @@
 # Problem Name:  Maximum Score From Removing Stones, 移除石子的最大得分
 # Problem Url:  https://leetcode-cn.com/problems/maximum-score-from-removing-stones/
 # Problem Level:  Medium
+# Language:  Python3
  
 class Solution:
     def maximumScore(self, a: int, b: int, c: int) -> int:

@@ -2,6 +2,7 @@
 # Problem Name:  排序数组中只出现一次的数字, 排序数组中只出现一次的数字
 # Problem Url:  https://leetcode-cn.com/problems/skFtm2/
 # Problem Level:  Medium
+# Language:  Python3
  
 class Solution:
     def singleNonDuplicate(self, nums: List[int]) -> int:

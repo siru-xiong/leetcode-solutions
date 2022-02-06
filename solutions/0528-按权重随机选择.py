@@ -2,6 +2,7 @@
 # Problem Name:  Random Pick with Weight, 按权重随机选择
 # Problem Url:  https://leetcode-cn.com/problems/random-pick-with-weight/
 # Problem Level:  Medium
+# Language:  Python3
  
 class Solution:
 

@@ -2,6 +2,7 @@
 # Problem Name:  Simplify Path, 简化路径
 # Problem Url:  https://leetcode-cn.com/problems/simplify-path/
 # Problem Level:  Medium
+# Language:  Python3
  
 class Solution:
     def simplifyPath(self, path: str) -> str:

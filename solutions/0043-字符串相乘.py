@@ -2,6 +2,7 @@
 # Problem Name:  Multiply Strings, 字符串相乘
 # Problem Url:  https://leetcode-cn.com/problems/multiply-strings/
 # Problem Level:  Medium
+# Language:  Python3
  
 class Solution:
     def multiply(self, num1: str, num2: str) -> str:

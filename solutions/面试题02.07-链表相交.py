@@ -2,6 +2,7 @@
 # Problem Name:  Intersection of Two Linked Lists LCCI, 链表相交
 # Problem Url:  https://leetcode-cn.com/problems/intersection-of-two-linked-lists-lcci/
 # Problem Level:  Easy
+# Language:  Python3
  
 # Definition for singly-linked list.
 # class ListNode:

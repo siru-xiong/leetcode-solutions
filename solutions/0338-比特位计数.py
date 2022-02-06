@@ -2,6 +2,7 @@
 # Problem Name:  Counting Bits, 比特位计数
 # Problem Url:  https://leetcode-cn.com/problems/counting-bits/
 # Problem Level:  Easy
+# Language:  Python3
  
 class Solution:
     def countBits(self, num: int) -> List[int]:

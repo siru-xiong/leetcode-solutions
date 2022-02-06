@@ -2,6 +2,7 @@
 # Problem Name:  Design Parking System, 设计停车系统
 # Problem Url:  https://leetcode-cn.com/problems/design-parking-system/
 # Problem Level:  Easy
+# Language:  Python3
  
 class ParkingSystem:
 

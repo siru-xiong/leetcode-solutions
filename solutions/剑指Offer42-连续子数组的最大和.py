@@ -2,6 +2,7 @@
 # Problem Name:  连续子数组的最大和  LCOF, 连续子数组的最大和
 # Problem Url:  https://leetcode-cn.com/problems/lian-xu-zi-shu-zu-de-zui-da-he-lcof/
 # Problem Level:  Easy
+# Language:  Python3
  
 class Solution:
     def maxSubArray(self, nums: List[int]) -> int:

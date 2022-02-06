@@ -2,6 +2,7 @@
 # Problem Name:  Matrix Diagonal Sum, 矩阵对角线元素的和
 # Problem Url:  https://leetcode-cn.com/problems/matrix-diagonal-sum/
 # Problem Level:  Easy
+# Language:  Python3
  
 class Solution:
     def diagonalSum(self, mat: List[List[int]]) -> int:

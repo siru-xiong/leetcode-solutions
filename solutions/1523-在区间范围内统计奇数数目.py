@@ -2,6 +2,7 @@
 # Problem Name:  Count Odd Numbers in an Interval Range, 在区间范围内统计奇数数目
 # Problem Url:  https://leetcode-cn.com/problems/count-odd-numbers-in-an-interval-range/
 # Problem Level:  Easy
+# Language:  Python3
  
 class Solution:
     def countOdds(self, low: int, high: int) -> int:

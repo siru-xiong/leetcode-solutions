@@ -2,6 +2,7 @@
 # Problem Name:  Student Attendance Record I, 学生出勤记录 I
 # Problem Url:  https://leetcode-cn.com/problems/student-attendance-record-i/
 # Problem Level:  Easy
+# Language:  Python3
  
 class Solution:
     def checkRecord(self, s: str) -> bool:

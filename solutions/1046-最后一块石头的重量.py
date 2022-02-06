@@ -2,6 +2,7 @@
 # Problem Name:  Last Stone Weight, 最后一块石头的重量
 # Problem Url:  https://leetcode-cn.com/problems/last-stone-weight/
 # Problem Level:  Easy
+# Language:  Python3
  
 class Solution:
     def lastStoneWeight(self, stones: List[int]) -> int:

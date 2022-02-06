@@ -1,7 +1,8 @@
-# Problem Id:  1179
-# Problem Name:  Reformat Department Table, 重新格式化部门表
-# Problem Url:  https://leetcode-cn.com/problems/reformat-department-table/
-# Problem Level:  Easy
+-- Problem Id:  1179
+-- Problem Name:  Reformat Department Table, 重新格式化部门表
+-- Problem Url:  https://leetcode-cn.com/problems/reformat-department-table/
+-- Problem Level:  Easy
+-- Language:  MySQL
  
 # Write your MySQL query statement below
 select 

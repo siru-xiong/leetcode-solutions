@@ -2,6 +2,7 @@
 # Problem Name:  队列的最大值 LCOF, 队列的最大值
 # Problem Url:  https://leetcode-cn.com/problems/dui-lie-de-zui-da-zhi-lcof/
 # Problem Level:  Medium
+# Language:  Python3
  
 class MaxQueue:
 

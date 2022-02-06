@@ -1,7 +1,8 @@
-# Problem Id:  183
-# Problem Name:  Customers Who Never Order, 从不订购的客户
-# Problem Url:  https://leetcode-cn.com/problems/customers-who-never-order/
-# Problem Level:  Easy
+-- Problem Id:  183
+-- Problem Name:  Customers Who Never Order, 从不订购的客户
+-- Problem Url:  https://leetcode-cn.com/problems/customers-who-never-order/
+-- Problem Level:  Easy
+-- Language:  MySQL
  
 # Write your MySQL query statement below
 select c.Name as Customers from Customers as c

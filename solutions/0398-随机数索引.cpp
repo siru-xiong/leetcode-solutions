@@ -1,7 +1,8 @@
-# Problem Id:  398
-# Problem Name:  Random Pick Index, 随机数索引
-# Problem Url:  https://leetcode-cn.com/problems/random-pick-index/
-# Problem Level:  Medium
+// Problem Id:  398
+// Problem Name:  Random Pick Index, 随机数索引
+// Problem Url:  https://leetcode-cn.com/problems/random-pick-index/
+// Problem Level:  Medium
+// Language:  C++
  
 class Solution {
 public:

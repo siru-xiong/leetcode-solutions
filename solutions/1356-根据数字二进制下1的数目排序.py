@@ -2,6 +2,7 @@
 # Problem Name:  Sort Integers by The Number of 1 Bits, 根据数字二进制下 1 的数目排序
 # Problem Url:  https://leetcode-cn.com/problems/sort-integers-by-the-number-of-1-bits/
 # Problem Level:  Easy
+# Language:  Python3
  
 class Solution:
     def sortByBits(self, arr: List[int]) -> List[int]:

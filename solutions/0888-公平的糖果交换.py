@@ -2,6 +2,7 @@
 # Problem Name:  Fair Candy Swap, 公平的糖果交换
 # Problem Url:  https://leetcode-cn.com/problems/fair-candy-swap/
 # Problem Level:  Easy
+# Language:  Python3
  
 class Solution:
     def fairCandySwap(self, A: List[int], B: List[int]) -> List[int]:

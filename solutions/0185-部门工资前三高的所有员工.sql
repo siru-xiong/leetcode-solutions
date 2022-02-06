@@ -1,7 +1,8 @@
-# Problem Id:  185
-# Problem Name:  Department Top Three Salaries, 部门工资前三高的所有员工
-# Problem Url:  https://leetcode-cn.com/problems/department-top-three-salaries/
-# Problem Level:  Hard
+-- Problem Id:  185
+-- Problem Name:  Department Top Three Salaries, 部门工资前三高的所有员工
+-- Problem Url:  https://leetcode-cn.com/problems/department-top-three-salaries/
+-- Problem Level:  Hard
+-- Language:  MySQL
  
 # Write your MySQL query statement below
 select d.Name as Department, e.Name as Employee , e.Salary

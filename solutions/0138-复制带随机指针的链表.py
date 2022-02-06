@@ -2,6 +2,7 @@
 # Problem Name:  Copy List with Random Pointer, 复制带随机指针的链表
 # Problem Url:  https://leetcode-cn.com/problems/copy-list-with-random-pointer/
 # Problem Level:  Medium
+# Language:  Python3
  
 """
 # Definition for a Node.

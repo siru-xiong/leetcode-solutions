@@ -2,6 +2,7 @@
 # Problem Name:  Toeplitz Matrix, 托普利茨矩阵
 # Problem Url:  https://leetcode-cn.com/problems/toeplitz-matrix/
 # Problem Level:  Easy
+# Language:  Python3
  
 class Solution:
     def isToeplitzMatrix(self, matrix: List[List[int]]) -> bool:

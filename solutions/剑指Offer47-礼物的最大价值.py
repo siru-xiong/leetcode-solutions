@@ -2,6 +2,7 @@
 # Problem Name:  礼物的最大价值 LCOF, 礼物的最大价值
 # Problem Url:  https://leetcode-cn.com/problems/li-wu-de-zui-da-jie-zhi-lcof/
 # Problem Level:  Medium
+# Language:  Python3
  
 class Solution:
     def maxValue(self, grid: List[List[int]]) -> int:

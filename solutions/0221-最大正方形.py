@@ -2,6 +2,7 @@
 # Problem Name:  Maximal Square, 最大正方形
 # Problem Url:  https://leetcode-cn.com/problems/maximal-square/
 # Problem Level:  Medium
+# Language:  Python3
  
 class Solution:
     def maximalSquare(self, matrix: List[List[str]]) -> int:

@@ -2,6 +2,7 @@
 # Problem Name:  Best Time to Buy and Sell Stock, 买卖股票的最佳时机
 # Problem Url:  https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/
 # Problem Level:  Easy
+# Language:  Python3
  
 class Solution:
     def maxProfit(self, prices: List[int]) -> int:

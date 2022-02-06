@@ -2,6 +2,7 @@
 # Problem Name:  Best Time to Buy and Sell Stock with Cooldown, 最佳买卖股票时机含冷冻期
 # Problem Url:  https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/
 # Problem Level:  Medium
+# Language:  Python3
  
 class Solution:
     def maxProfit(self, prices: List[int]) -> int:

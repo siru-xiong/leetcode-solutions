@@ -2,6 +2,7 @@
 # Problem Name:  Capacity To Ship Packages Within D Days, 在 D 天内送达包裹的能力
 # Problem Url:  https://leetcode-cn.com/problems/capacity-to-ship-packages-within-d-days/
 # Problem Level:  Medium
+# Language:  Python3
  
 class Solution:
     def need(self, weights, cap):

@@ -2,6 +2,7 @@
 # Problem Name:  Number of Students Unable to Eat Lunch, 无法吃午餐的学生数量
 # Problem Url:  https://leetcode-cn.com/problems/number-of-students-unable-to-eat-lunch/
 # Problem Level:  Easy
+# Language:  Python3
  
 class Solution:
     def countStudents(self, students: List[int], sandwiches: List[int]) -> int:

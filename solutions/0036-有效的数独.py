@@ -2,6 +2,7 @@
 # Problem Name:  Valid Sudoku, 有效的数独
 # Problem Url:  https://leetcode-cn.com/problems/valid-sudoku/
 # Problem Level:  Medium
+# Language:  Python3
  
 class Solution:
     def isValidSudoku(self, board: List[List[str]]) -> bool:

@@ -2,6 +2,7 @@
 # Problem Name:  Ransom Note, 赎金信
 # Problem Url:  https://leetcode-cn.com/problems/ransom-note/
 # Problem Level:  Easy
+# Language:  Python3
  
 class Solution:
     def canConstruct(self, ransomNote: str, magazine: str) -> bool:

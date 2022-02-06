@@ -2,6 +2,7 @@
 # Problem Name:  Generate Parentheses, 括号生成
 # Problem Url:  https://leetcode-cn.com/problems/generate-parentheses/
 # Problem Level:  Medium
+# Language:  Python3
  
 class Solution:
     def generateParenthesis(self, n: int) -> List[str]:

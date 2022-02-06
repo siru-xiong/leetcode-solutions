@@ -2,6 +2,7 @@
 # Problem Name:  Intersection of Two Arrays II, 两个数组的交集 II
 # Problem Url:  https://leetcode-cn.com/problems/intersection-of-two-arrays-ii/
 # Problem Level:  Easy
+# Language:  Python3
  
 class Solution:
     def intersect(self, nums1: List[int], nums2: List[int]) -> List[int]:

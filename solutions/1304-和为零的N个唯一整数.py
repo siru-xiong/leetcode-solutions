@@ -2,6 +2,7 @@
 # Problem Name:  Find N Unique Integers Sum up to Zero, 和为零的N个唯一整数
 # Problem Url:  https://leetcode-cn.com/problems/find-n-unique-integers-sum-up-to-zero/
 # Problem Level:  Easy
+# Language:  Python3
  
 class Solution:
     def sumZero(self, n: int) -> List[int]:

@@ -2,6 +2,7 @@
 # Problem Name:  Maximum Depth of N-ary Tree, N 叉树的最大深度
 # Problem Url:  https://leetcode-cn.com/problems/maximum-depth-of-n-ary-tree/
 # Problem Level:  Easy
+# Language:  Python3
  
 """
 # Definition for a Node.

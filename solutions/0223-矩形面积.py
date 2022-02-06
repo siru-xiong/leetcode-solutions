@@ -2,6 +2,7 @@
 # Problem Name:  Rectangle Area, 矩形面积
 # Problem Url:  https://leetcode-cn.com/problems/rectangle-area/
 # Problem Level:  Medium
+# Language:  Python3
  
 class Solution:
     def computeArea(self, ax1: int, ay1: int, ax2: int, ay2: int, bx1: int, by1: int, bx2: int, by2: int) -> int:

@@ -2,6 +2,7 @@
 # Problem Name:  Find the Town Judge, 找到小镇的法官
 # Problem Url:  https://leetcode-cn.com/problems/find-the-town-judge/
 # Problem Level:  Easy
+# Language:  Python3
  
 class Solution:
     def findJudge(self, N: int, trust: List[List[int]]) -> int:

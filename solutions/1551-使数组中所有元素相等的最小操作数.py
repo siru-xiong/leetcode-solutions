@@ -2,6 +2,7 @@
 # Problem Name:  Minimum Operations to Make Array Equal, 使数组中所有元素相等的最小操作数
 # Problem Url:  https://leetcode-cn.com/problems/minimum-operations-to-make-array-equal/
 # Problem Level:  Medium
+# Language:  Python3
  
 class Solution:
     def minOperations(self, n: int) -> int:

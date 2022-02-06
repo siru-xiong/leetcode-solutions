@@ -2,6 +2,7 @@
 # Problem Name:  机器人的运动范围  LCOF, 机器人的运动范围
 # Problem Url:  https://leetcode-cn.com/problems/ji-qi-ren-de-yun-dong-fan-wei-lcof/
 # Problem Level:  Medium
+# Language:  Python3
  
 class Solution:
     def digit(self,m):

@@ -1,7 +1,8 @@
-# Problem Id:  601
-# Problem Name:  Human Traffic of Stadium, 体育馆的人流量
-# Problem Url:  https://leetcode-cn.com/problems/human-traffic-of-stadium/
-# Problem Level:  Hard
+-- Problem Id:  601
+-- Problem Name:  Human Traffic of Stadium, 体育馆的人流量
+-- Problem Url:  https://leetcode-cn.com/problems/human-traffic-of-stadium/
+-- Problem Level:  Hard
+-- Language:  MySQL
  
 # Write your MySQL query statement below
 select distinct a.*

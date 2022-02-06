@@ -2,6 +2,7 @@
 # Problem Name:  Maximum Nesting Depth of the Parentheses, 括号的最大嵌套深度
 # Problem Url:  https://leetcode-cn.com/problems/maximum-nesting-depth-of-the-parentheses/
 # Problem Level:  Easy
+# Language:  Python3
  
 class Solution:
     def maxDepth(self, s: str) -> int:

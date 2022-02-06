@@ -2,6 +2,7 @@
 # Problem Name:  圆圈中最后剩下的数字 LCOF, 圆圈中最后剩下的数字
 # Problem Url:  https://leetcode-cn.com/problems/yuan-quan-zhong-zui-hou-sheng-xia-de-shu-zi-lcof/
 # Problem Level:  Easy
+# Language:  Python3
  
 class Solution:
     def lastRemaining(self, n: int, m: int) -> int:

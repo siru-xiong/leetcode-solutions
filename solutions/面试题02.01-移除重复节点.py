@@ -2,6 +2,7 @@
 # Problem Name:  Remove Duplicate Node LCCI, 移除重复节点
 # Problem Url:  https://leetcode-cn.com/problems/remove-duplicate-node-lcci/
 # Problem Level:  Easy
+# Language:  Python3
  
 # Definition for singly-linked list.
 # class ListNode:

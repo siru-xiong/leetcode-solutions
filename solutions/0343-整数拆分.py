@@ -2,6 +2,7 @@
 # Problem Name:  Integer Break, 整数拆分
 # Problem Url:  https://leetcode-cn.com/problems/integer-break/
 # Problem Level:  Medium
+# Language:  Python3
  
 class Solution:
     def integerBreak(self, n: int) -> int:

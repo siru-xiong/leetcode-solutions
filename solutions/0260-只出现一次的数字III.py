@@ -2,6 +2,7 @@
 # Problem Name:  Single Number III, 只出现一次的数字 III
 # Problem Url:  https://leetcode-cn.com/problems/single-number-iii/
 # Problem Level:  Medium
+# Language:  Python3
  
 class Solution:
     def singleNumber(self, nums: List[int]) -> List[int]:

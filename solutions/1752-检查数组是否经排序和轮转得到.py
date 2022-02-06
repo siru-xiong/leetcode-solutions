@@ -2,6 +2,7 @@
 # Problem Name:  Check if Array Is Sorted and Rotated, 检查数组是否经排序和轮转得到
 # Problem Url:  https://leetcode-cn.com/problems/check-if-array-is-sorted-and-rotated/
 # Problem Level:  Easy
+# Language:  Python3
  
 class Solution:
     def check(self, nums: List[int]) -> bool:

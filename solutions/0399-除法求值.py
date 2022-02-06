@@ -2,6 +2,7 @@
 # Problem Name:  Evaluate Division, 除法求值
 # Problem Url:  https://leetcode-cn.com/problems/evaluate-division/
 # Problem Level:  Medium
+# Language:  Python3
  
 class Solution:
     def calcEquation(self, equations: List[List[str]], values: List[float], queries: List[List[str]]) -> List[float]:

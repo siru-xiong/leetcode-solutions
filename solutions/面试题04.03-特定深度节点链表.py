@@ -2,6 +2,7 @@
 # Problem Name:  List of Depth LCCI, 特定深度节点链表
 # Problem Url:  https://leetcode-cn.com/problems/list-of-depth-lcci/
 # Problem Level:  Medium
+# Language:  Python3
  
 # Definition for a binary tree node.
 # class TreeNode:

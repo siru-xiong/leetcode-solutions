@@ -2,6 +2,7 @@
 # Problem Name:  Insert into a Binary Search Tree, 二叉搜索树中的插入操作
 # Problem Url:  https://leetcode-cn.com/problems/insert-into-a-binary-search-tree/
 # Problem Level:  Medium
+# Language:  Python3
  
 # Definition for a binary tree node.
 # class TreeNode:

@@ -2,6 +2,7 @@
 # Problem Name:  Peak Index in a Mountain Array, 山脉数组的峰顶索引
 # Problem Url:  https://leetcode-cn.com/problems/peak-index-in-a-mountain-array/
 # Problem Level:  Easy
+# Language:  Python3
  
 class Solution:
     def peakIndexInMountainArray(self, arr: List[int]) -> int:

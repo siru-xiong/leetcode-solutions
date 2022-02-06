@@ -2,6 +2,7 @@
 # Problem Name:  Decompress Run-Length Encoded List, 解压缩编码列表
 # Problem Url:  https://leetcode-cn.com/problems/decompress-run-length-encoded-list/
 # Problem Level:  Easy
+# Language:  Python3
  
 class Solution:
     def decompressRLElist(self, nums: List[int]) -> List[int]:

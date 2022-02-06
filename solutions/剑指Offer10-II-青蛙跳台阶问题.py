@@ -2,6 +2,7 @@
 # Problem Name:  青蛙跳台阶问题  LCOF, 青蛙跳台阶问题
 # Problem Url:  https://leetcode-cn.com/problems/qing-wa-tiao-tai-jie-wen-ti-lcof/
 # Problem Level:  Easy
+# Language:  Python3
  
 class Solution:
     def numWays(self, n: int) -> int:

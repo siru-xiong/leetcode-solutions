@@ -2,6 +2,7 @@
 # Problem Name:  Reverse String II, 反转字符串 II
 # Problem Url:  https://leetcode-cn.com/problems/reverse-string-ii/
 # Problem Level:  Easy
+# Language:  Python3
  
 class Solution:
     def reverseStr(self, s: str, k: int) -> str:

@@ -2,6 +2,7 @@
 # Problem Name:  数字序列中某一位的数字  LCOF, 数字序列中某一位的数字
 # Problem Url:  https://leetcode-cn.com/problems/shu-zi-xu-lie-zhong-mou-yi-wei-de-shu-zi-lcof/
 # Problem Level:  Medium
+# Language:  Python3
  
 class Solution:
     def findNthDigit(self, n: int) -> int:

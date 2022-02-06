@@ -1,7 +1,8 @@
-# Problem Id:  602
-# Problem Name:  Friend Requests II: Who Has the Most Friends, 好友申请 II ：谁有最多的好友
-# Problem Url:  https://leetcode-cn.com/problems/friend-requests-ii-who-has-the-most-friends/
-# Problem Level:  Medium
+-- Problem Id:  602
+-- Problem Name:  Friend Requests II: Who Has the Most Friends, 好友申请 II ：谁有最多的好友
+-- Problem Url:  https://leetcode-cn.com/problems/friend-requests-ii-who-has-the-most-friends/
+-- Problem Level:  Medium
+-- Language:  MySQL
  
 # Write your MySQL query statement below
 select distinct id,

@@ -2,6 +2,7 @@
 # Problem Name:  Three Steps Problem LCCI, 三步问题
 # Problem Url:  https://leetcode-cn.com/problems/three-steps-problem-lcci/
 # Problem Level:  Easy
+# Language:  Python3
  
 class Solution:
     def waysToStep(self, n: int) -> int:

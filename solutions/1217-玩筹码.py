@@ -2,6 +2,7 @@
 # Problem Name:  Minimum Cost to Move Chips to The Same Position, 玩筹码
 # Problem Url:  https://leetcode-cn.com/problems/minimum-cost-to-move-chips-to-the-same-position/
 # Problem Level:  Easy
+# Language:  Python3
  
 class Solution:
     def minCostToMoveChips(self, position: List[int]) -> int:

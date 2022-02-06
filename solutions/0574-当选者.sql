@@ -1,7 +1,8 @@
-# Problem Id:  574
-# Problem Name:  Winning Candidate, 当选者
-# Problem Url:  https://leetcode-cn.com/problems/winning-candidate/
-# Problem Level:  Medium
+-- Problem Id:  574
+-- Problem Name:  Winning Candidate, 当选者
+-- Problem Url:  https://leetcode-cn.com/problems/winning-candidate/
+-- Problem Level:  Medium
+-- Language:  MySQL
  
 # Write your MySQL query statement below
 select name from Candidate

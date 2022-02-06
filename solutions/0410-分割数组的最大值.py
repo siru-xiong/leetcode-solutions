@@ -2,6 +2,7 @@
 # Problem Name:  Split Array Largest Sum, 分割数组的最大值
 # Problem Url:  https://leetcode-cn.com/problems/split-array-largest-sum/
 # Problem Level:  Hard
+# Language:  Python3
  
 class Solution:
     def splitArray(self, nums: List[int], m: int) -> int:

@@ -2,6 +2,7 @@
 # Problem Name:  Path In Zigzag Labelled Binary Tree, 二叉树寻路
 # Problem Url:  https://leetcode-cn.com/problems/path-in-zigzag-labelled-binary-tree/
 # Problem Level:  Medium
+# Language:  Python3
  
 class Solution:
     def pathInZigZagTree(self, label: int) -> List[int]:

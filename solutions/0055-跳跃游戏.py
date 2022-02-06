@@ -2,6 +2,7 @@
 # Problem Name:  Jump Game, 跳跃游戏
 # Problem Url:  https://leetcode-cn.com/problems/jump-game/
 # Problem Level:  Medium
+# Language:  Python3
  
 class Solution:
     def canJump(self, nums: List[int]) -> bool:

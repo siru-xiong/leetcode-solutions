@@ -2,6 +2,7 @@
 # Problem Name:  Partition Array Into Three Parts With Equal Sum, 将数组分成和相等的三个部分
 # Problem Url:  https://leetcode-cn.com/problems/partition-array-into-three-parts-with-equal-sum/
 # Problem Level:  Easy
+# Language:  Python3
  
 class Solution:
     def canThreePartsEqualSum(self, arr: List[int]) -> bool:

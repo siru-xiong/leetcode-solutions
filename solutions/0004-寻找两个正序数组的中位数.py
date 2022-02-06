@@ -2,6 +2,7 @@
 # Problem Name:  Median of Two Sorted Arrays, 寻找两个正序数组的中位数
 # Problem Url:  https://leetcode-cn.com/problems/median-of-two-sorted-arrays/
 # Problem Level:  Hard
+# Language:  Python3
  
 class Solution:
     def findMedianSortedArrays(self, nums1: List[int], nums2: List[int]) -> float:

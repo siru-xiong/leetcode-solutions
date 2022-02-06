@@ -2,6 +2,7 @@
 # Problem Name:  Merge Strings Alternately, 交替合并字符串
 # Problem Url:  https://leetcode-cn.com/problems/merge-strings-alternately/
 # Problem Level:  Easy
+# Language:  Python3
  
 class Solution:
     def mergeAlternately(self, word1: str, word2: str) -> str:

@@ -2,6 +2,7 @@
 # Problem Name:  路径的数目, 路径的数目
 # Problem Url:  https://leetcode-cn.com/problems/2AoeFn/
 # Problem Level:  Medium
+# Language:  Python3
  
 class Solution:
     def uniquePaths(self, m: int, n: int) -> int:

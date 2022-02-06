@@ -2,6 +2,7 @@
 # Problem Name:  Unique Number of Occurrences, 独一无二的出现次数
 # Problem Url:  https://leetcode-cn.com/problems/unique-number-of-occurrences/
 # Problem Level:  Easy
+# Language:  Python3
  
 class Solution:
     def uniqueOccurrences(self, arr: List[int]) -> bool:

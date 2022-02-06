@@ -2,6 +2,7 @@
 # Problem Name:  Group Anagrams, 字母异位词分组
 # Problem Url:  https://leetcode-cn.com/problems/group-anagrams/
 # Problem Level:  Medium
+# Language:  Python3
  
 class Solution:
     def groupAnagrams(self, strs: List[str]) -> List[List[str]]:

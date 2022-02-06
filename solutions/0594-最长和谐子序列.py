@@ -2,6 +2,7 @@
 # Problem Name:  Longest Harmonious Subsequence, 最长和谐子序列
 # Problem Url:  https://leetcode-cn.com/problems/longest-harmonious-subsequence/
 # Problem Level:  Easy
+# Language:  Python3
  
 class Solution:
     def findLHS(self, nums: List[int]) -> int:

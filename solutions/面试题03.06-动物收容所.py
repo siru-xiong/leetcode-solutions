@@ -2,6 +2,7 @@
 # Problem Name:  Animal Shelter LCCI, 动物收容所
 # Problem Url:  https://leetcode-cn.com/problems/animal-shelter-lcci/
 # Problem Level:  Easy
+# Language:  Python3
  
 class AnimalShelf:
 

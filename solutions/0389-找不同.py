@@ -2,6 +2,7 @@
 # Problem Name:  Find the Difference, 找不同
 # Problem Url:  https://leetcode-cn.com/problems/find-the-difference/
 # Problem Level:  Easy
+# Language:  Python3
  
 class Solution:
     def findTheDifference(self, s: str, t: str) -> str:

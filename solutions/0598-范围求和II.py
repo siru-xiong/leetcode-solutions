@@ -2,6 +2,7 @@
 # Problem Name:  Range Addition II, 范围求和 II
 # Problem Url:  https://leetcode-cn.com/problems/range-addition-ii/
 # Problem Level:  Easy
+# Language:  Python3
  
 class Solution:
     def maxCount(self, m: int, n: int, ops: List[List[int]]) -> int:

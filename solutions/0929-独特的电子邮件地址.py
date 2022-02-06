@@ -2,6 +2,7 @@
 # Problem Name:  Unique Email Addresses, 独特的电子邮件地址
 # Problem Url:  https://leetcode-cn.com/problems/unique-email-addresses/
 # Problem Level:  Easy
+# Language:  Python3
  
 class Solution:
     def numUniqueEmails(self, emails: List[str]) -> int:

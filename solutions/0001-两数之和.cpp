@@ -1,7 +1,8 @@
-# Problem Id:  1
-# Problem Name:  Two Sum, 两数之和
-# Problem Url:  https://leetcode-cn.com/problems/two-sum/
-# Problem Level:  Easy
+// Problem Id:  1
+// Problem Name:  Two Sum, 两数之和
+// Problem Url:  https://leetcode-cn.com/problems/two-sum/
+// Problem Level:  Easy
+// Language:  C++
  
 class Solution {
 public:

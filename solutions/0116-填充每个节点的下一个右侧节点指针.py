@@ -2,6 +2,7 @@
 # Problem Name:  Populating Next Right Pointers in Each Node, 填充每个节点的下一个右侧节点指针
 # Problem Url:  https://leetcode-cn.com/problems/populating-next-right-pointers-in-each-node/
 # Problem Level:  Medium
+# Language:  Python3
  
 """
 # Definition for a Node.

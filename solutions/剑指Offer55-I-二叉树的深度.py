@@ -2,6 +2,7 @@
 # Problem Name:  二叉树的深度 LCOF, 二叉树的深度
 # Problem Url:  https://leetcode-cn.com/problems/er-cha-shu-de-shen-du-lcof/
 # Problem Level:  Easy
+# Language:  Python3
  
 # Definition for a binary tree node.
 # class TreeNode:

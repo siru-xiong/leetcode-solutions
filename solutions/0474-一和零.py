@@ -2,6 +2,7 @@
 # Problem Name:  Ones and Zeroes, 一和零
 # Problem Url:  https://leetcode-cn.com/problems/ones-and-zeroes/
 # Problem Level:  Medium
+# Language:  Python3
  
 class Solution:
     def ct(self, st: str) -> List[int]:

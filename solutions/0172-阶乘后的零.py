@@ -2,6 +2,7 @@
 # Problem Name:  Factorial Trailing Zeroes, 阶乘后的零
 # Problem Url:  https://leetcode-cn.com/problems/factorial-trailing-zeroes/
 # Problem Level:  Medium
+# Language:  Python3
  
 class Solution:
     def trailingZeroes(self, n: int) -> int:

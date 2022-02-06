@@ -2,6 +2,7 @@
 # Problem Name:  矩阵中的路径  LCOF, 矩阵中的路径
 # Problem Url:  https://leetcode-cn.com/problems/ju-zhen-zhong-de-lu-jing-lcof/
 # Problem Level:  Medium
+# Language:  Python3
  
 class Solution:
     def exist(self, board: List[List[str]], word: str) -> bool:

@@ -1,7 +1,8 @@
-# Problem Id:  547
-# Problem Name:  Number of Provinces, 省份数量
-# Problem Url:  https://leetcode-cn.com/problems/number-of-provinces/
-# Problem Level:  Medium
+// Problem Id:  547
+// Problem Name:  Number of Provinces, 省份数量
+// Problem Url:  https://leetcode-cn.com/problems/number-of-provinces/
+// Problem Level:  Medium
+// Language:  C++
  
 class Solution {
 public:

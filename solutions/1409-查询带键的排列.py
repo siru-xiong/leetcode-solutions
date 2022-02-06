@@ -2,6 +2,7 @@
 # Problem Name:  Queries on a Permutation With Key, 查询带键的排列
 # Problem Url:  https://leetcode-cn.com/problems/queries-on-a-permutation-with-key/
 # Problem Level:  Medium
+# Language:  Python3
  
 class Solution:
     def processQueries(self, queries: List[int], m: int) -> List[int]:

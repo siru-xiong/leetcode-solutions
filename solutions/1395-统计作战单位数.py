@@ -2,6 +2,7 @@
 # Problem Name:  Count Number of Teams, 统计作战单位数
 # Problem Url:  https://leetcode-cn.com/problems/count-number-of-teams/
 # Problem Level:  Medium
+# Language:  Python3
  
 class Solution:
     def numTeams(self, rating: List[int]) -> int:

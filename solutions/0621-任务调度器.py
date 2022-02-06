@@ -2,6 +2,7 @@
 # Problem Name:  Task Scheduler, 任务调度器
 # Problem Url:  https://leetcode-cn.com/problems/task-scheduler/
 # Problem Level:  Medium
+# Language:  Python3
  
 class Solution:
     def leastInterval(self, tasks: List[str], n: int) -> int:

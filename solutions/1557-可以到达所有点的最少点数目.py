@@ -2,6 +2,7 @@
 # Problem Name:  Minimum Number of Vertices to Reach All Nodes, 可以到达所有点的最少点数目
 # Problem Url:  https://leetcode-cn.com/problems/minimum-number-of-vertices-to-reach-all-nodes/
 # Problem Level:  Medium
+# Language:  Python3
  
 class Solution:
     def findSmallestSetOfVertices(self, n: int, edges: List[List[int]]) -> List[int]:

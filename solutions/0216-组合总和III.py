@@ -2,6 +2,7 @@
 # Problem Name:  Combination Sum III, 组合总和 III
 # Problem Url:  https://leetcode-cn.com/problems/combination-sum-iii/
 # Problem Level:  Medium
+# Language:  Python3
  
 class Solution:
     def combinationSum3(self, k: int, n: int, vmin = 1) -> List[List[int]]:

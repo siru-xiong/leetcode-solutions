@@ -2,6 +2,7 @@
 # Problem Name:  Day of the Week, 一周中的第几天
 # Problem Url:  https://leetcode-cn.com/problems/day-of-the-week/
 # Problem Level:  Easy
+# Language:  Python3
  
 class Solution:
     def dayOfTheWeek(self, day: int, month: int, year: int) -> str:

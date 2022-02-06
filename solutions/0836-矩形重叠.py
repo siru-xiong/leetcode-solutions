@@ -2,6 +2,7 @@
 # Problem Name:  Rectangle Overlap, 矩形重叠
 # Problem Url:  https://leetcode-cn.com/problems/rectangle-overlap/
 # Problem Level:  Easy
+# Language:  Python3
  
 class Solution:
     def isRectangleOverlap(self, rec1: List[int], rec2: List[int]) -> bool:

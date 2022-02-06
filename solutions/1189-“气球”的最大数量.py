@@ -2,6 +2,7 @@
 # Problem Name:  Maximum Number of Balloons, “气球” 的最大数量
 # Problem Url:  https://leetcode-cn.com/problems/maximum-number-of-balloons/
 # Problem Level:  Easy
+# Language:  Python3
  
 class Solution:
     def maxNumberOfBalloons(self, text: str) -> int:

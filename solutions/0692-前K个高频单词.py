@@ -2,6 +2,7 @@
 # Problem Name:  Top K Frequent Words, 前K个高频单词
 # Problem Url:  https://leetcode-cn.com/problems/top-k-frequent-words/
 # Problem Level:  Medium
+# Language:  Python3
  
 class Solution:
     def topKFrequent(self, words: List[str], k: int) -> List[str]:

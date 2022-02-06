@@ -2,6 +2,7 @@
 # Problem Name:  Transpose Matrix, 转置矩阵
 # Problem Url:  https://leetcode-cn.com/problems/transpose-matrix/
 # Problem Level:  Easy
+# Language:  Python3
  
 class Solution:
     def transpose(self, A: List[List[int]]) -> List[List[int]]:

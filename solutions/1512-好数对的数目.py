@@ -2,6 +2,7 @@
 # Problem Name:  Number of Good Pairs, 好数对的数目
 # Problem Url:  https://leetcode-cn.com/problems/number-of-good-pairs/
 # Problem Level:  Easy
+# Language:  Python3
  
 class Solution:
     def numIdenticalPairs(self, nums: List[int]) -> int:

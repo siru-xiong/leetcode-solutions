@@ -2,6 +2,7 @@
 # Problem Name:  Shuffle an Array, 打乱数组
 # Problem Url:  https://leetcode-cn.com/problems/shuffle-an-array/
 # Problem Level:  Medium
+# Language:  Python3
  
 class Solution:
 

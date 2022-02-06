@@ -2,6 +2,7 @@
 # Problem Name:  Find First and Last Position of Element in Sorted Array, 在排序数组中查找元素的第一个和最后一个位置
 # Problem Url:  https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array/
 # Problem Level:  Medium
+# Language:  Python3
  
 class Solution:
     def searchRange(self, nums: List[int], target: int) -> List[int]:

@@ -2,6 +2,7 @@
 # Problem Name:  Thousand Separator, 千位分隔数
 # Problem Url:  https://leetcode-cn.com/problems/thousand-separator/
 # Problem Level:  Easy
+# Language:  Python3
  
 class Solution:
     def ts(self, n: str) -> str:

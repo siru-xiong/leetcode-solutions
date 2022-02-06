@@ -2,6 +2,7 @@
 # Problem Name:  Calculate Money in Leetcode Bank, 计算力扣银行的钱
 # Problem Url:  https://leetcode-cn.com/problems/calculate-money-in-leetcode-bank/
 # Problem Level:  Easy
+# Language:  Python3
  
 class Solution:
     def totalMoney(self, n: int) -> int:

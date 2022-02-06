@@ -1,7 +1,8 @@
-# Problem Id:  578
-# Problem Name:  Get Highest Answer Rate Question, 查询回答率最高的问题
-# Problem Url:  https://leetcode-cn.com/problems/get-highest-answer-rate-question/
-# Problem Level:  Medium
+-- Problem Id:  578
+-- Problem Name:  Get Highest Answer Rate Question, 查询回答率最高的问题
+-- Problem Url:  https://leetcode-cn.com/problems/get-highest-answer-rate-question/
+-- Problem Level:  Medium
+-- Language:  MySQL
  
 # Write your MySQL query statement below
 select t1.question_id as survey_log

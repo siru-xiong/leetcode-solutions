@@ -2,6 +2,7 @@
 # Problem Name:  Find the Middle Index in Array, 找到数组的中间位置
 # Problem Url:  https://leetcode-cn.com/problems/find-the-middle-index-in-array/
 # Problem Level:  Easy
+# Language:  Python3
  
 class Solution:
     def findMiddleIndex(self, nums: List[int]) -> int:

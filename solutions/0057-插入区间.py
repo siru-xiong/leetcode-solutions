@@ -2,6 +2,7 @@
 # Problem Name:  Insert Interval, 插入区间
 # Problem Url:  https://leetcode-cn.com/problems/insert-interval/
 # Problem Level:  Medium
+# Language:  Python3
  
 class Solution:
     def insert(self, intervals: List[List[int]], newInterval: List[int]) -> List[List[int]]:

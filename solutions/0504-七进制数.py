@@ -2,6 +2,7 @@
 # Problem Name:  Base 7, 七进制数
 # Problem Url:  https://leetcode-cn.com/problems/base-7/
 # Problem Level:  Easy
+# Language:  Python3
  
 class Solution:
     def convertToBase7(self, num: int) -> str:

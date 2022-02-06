@@ -2,6 +2,7 @@
 # Problem Name:  Next Permutation, 下一个排列
 # Problem Url:  https://leetcode-cn.com/problems/next-permutation/
 # Problem Level:  Medium
+# Language:  Python3
  
 class Solution:
     def nextPermutation(self, nums: List[int]) -> None:

@@ -2,6 +2,7 @@
 # Problem Name:  Divisor Game, 除数博弈
 # Problem Url:  https://leetcode-cn.com/problems/divisor-game/
 # Problem Level:  Easy
+# Language:  Python3
  
 class Solution:
     def divisorGame(self, N: int) -> bool:

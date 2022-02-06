@@ -2,6 +2,7 @@
 # Problem Name:  Get Maximum in Generated Array, 获取生成数组中的最大值
 # Problem Url:  https://leetcode-cn.com/problems/get-maximum-in-generated-array/
 # Problem Level:  Easy
+# Language:  Python3
  
 class Solution:
     def getMaximumGenerated(self, n: int) -> int:

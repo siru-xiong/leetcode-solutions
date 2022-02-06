@@ -2,6 +2,7 @@
 # Problem Name:  Super Pow, 超级次方
 # Problem Url:  https://leetcode-cn.com/problems/super-pow/
 # Problem Level:  Medium
+# Language:  Python3
  
 class Solution:
     def __init__(self):

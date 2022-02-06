@@ -2,6 +2,7 @@
 # Problem Name:  Flipping an Image, 翻转图像
 # Problem Url:  https://leetcode-cn.com/problems/flipping-an-image/
 # Problem Level:  Easy
+# Language:  Python3
  
 class Solution:
     def t(self, b):

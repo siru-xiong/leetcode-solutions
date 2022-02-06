@@ -1,7 +1,8 @@
-# Problem Id:  262
-# Problem Name:  Trips and Users, 行程和用户
-# Problem Url:  https://leetcode-cn.com/problems/trips-and-users/
-# Problem Level:  Hard
+-- Problem Id:  262
+-- Problem Name:  Trips and Users, 行程和用户
+-- Problem Url:  https://leetcode-cn.com/problems/trips-and-users/
+-- Problem Level:  Hard
+-- Language:  MySQL
  
 # Write your MySQL query statement below
 select DISTINCT(t2.Request_at) as Day,

@@ -1,7 +1,8 @@
-# Problem Id:  81
-# Problem Name:  Search in Rotated Sorted Array II, 搜索旋转排序数组 II
-# Problem Url:  https://leetcode-cn.com/problems/search-in-rotated-sorted-array-ii/
-# Problem Level:  Medium
+// Problem Id:  81
+// Problem Name:  Search in Rotated Sorted Array II, 搜索旋转排序数组 II
+// Problem Url:  https://leetcode-cn.com/problems/search-in-rotated-sorted-array-ii/
+// Problem Level:  Medium
+// Language:  C++
  
 class Solution {
 public:

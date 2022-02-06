@@ -2,6 +2,7 @@
 # Problem Name:  Kth Missing Positive Number, 第 k 个缺失的正整数
 # Problem Url:  https://leetcode-cn.com/problems/kth-missing-positive-number/
 # Problem Level:  Easy
+# Language:  Python3
  
 class Solution:
     def findKthPositive(self, arr: List[int], k: int) -> int:

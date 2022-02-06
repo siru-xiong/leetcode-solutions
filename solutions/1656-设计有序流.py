@@ -2,6 +2,7 @@
 # Problem Name:  Design an Ordered Stream, 设计有序流
 # Problem Url:  https://leetcode-cn.com/problems/design-an-ordered-stream/
 # Problem Level:  Easy
+# Language:  Python3
  
 class OrderedStream:
 

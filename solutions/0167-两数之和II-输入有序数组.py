@@ -2,6 +2,7 @@
 # Problem Name:  Two Sum II - Input Array Is Sorted, 两数之和 II - 输入有序数组
 # Problem Url:  https://leetcode-cn.com/problems/two-sum-ii-input-array-is-sorted/
 # Problem Level:  Medium
+# Language:  Python3
  
 class Solution:
     def twoSum(self, numbers: List[int], target: int) -> List[int]:

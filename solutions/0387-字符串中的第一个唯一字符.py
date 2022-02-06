@@ -2,6 +2,7 @@
 # Problem Name:  First Unique Character in a String, 字符串中的第一个唯一字符
 # Problem Url:  https://leetcode-cn.com/problems/first-unique-character-in-a-string/
 # Problem Level:  Easy
+# Language:  Python3
  
 class Solution:
     def firstUniqChar(self, s: str) -> int:

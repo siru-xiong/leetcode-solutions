@@ -2,6 +2,7 @@
 # Problem Name:  All Paths From Source to Target, 所有可能的路径
 # Problem Url:  https://leetcode-cn.com/problems/all-paths-from-source-to-target/
 # Problem Level:  Medium
+# Language:  Python3
  
 class Solution:
     def allPathsSourceTarget(self, graph: List[List[int]], start = 0) -> List[List[int]]:

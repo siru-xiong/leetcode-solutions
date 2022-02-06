@@ -2,6 +2,7 @@
 # Problem Name:  Combinations, 组合
 # Problem Url:  https://leetcode-cn.com/problems/combinations/
 # Problem Level:  Medium
+# Language:  Python3
  
 class Solution:
     def cb(self, nl, k):

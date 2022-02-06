@@ -2,6 +2,7 @@
 # Problem Name:  股票的最大利润  LCOF, 股票的最大利润
 # Problem Url:  https://leetcode-cn.com/problems/gu-piao-de-zui-da-li-run-lcof/
 # Problem Level:  Medium
+# Language:  Python3
  
 class Solution:
     def maxProfit(self, prices: List[int]) -> int:

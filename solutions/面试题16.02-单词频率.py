@@ -2,6 +2,7 @@
 # Problem Name:  Words Frequency LCCI, 单词频率
 # Problem Url:  https://leetcode-cn.com/problems/words-frequency-lcci/
 # Problem Level:  Medium
+# Language:  Python3
  
 class WordsFrequency:
 

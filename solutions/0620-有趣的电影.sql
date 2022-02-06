@@ -1,7 +1,8 @@
-# Problem Id:  620
-# Problem Name:  Not Boring Movies, 有趣的电影
-# Problem Url:  https://leetcode-cn.com/problems/not-boring-movies/
-# Problem Level:  Easy
+-- Problem Id:  620
+-- Problem Name:  Not Boring Movies, 有趣的电影
+-- Problem Url:  https://leetcode-cn.com/problems/not-boring-movies/
+-- Problem Level:  Easy
+-- Language:  MySQL
  
 # Write your MySQL query statement below
 select * from cinema

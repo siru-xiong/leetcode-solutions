@@ -2,6 +2,7 @@
 # Problem Name:  Repeated DNA Sequences, 重复的DNA序列
 # Problem Url:  https://leetcode-cn.com/problems/repeated-dna-sequences/
 # Problem Level:  Medium
+# Language:  Python3
  
 class Solution:
     def findRepeatedDnaSequences(self, s: str) -> List[str]:

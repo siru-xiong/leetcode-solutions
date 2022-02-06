@@ -2,6 +2,7 @@
 # Problem Name:  Power of Two, 2 的幂
 # Problem Url:  https://leetcode-cn.com/problems/power-of-two/
 # Problem Level:  Easy
+# Language:  Python3
  
 class Solution:
     def isPowerOfTwo(self, n: int) -> bool:

@@ -2,6 +2,7 @@
 # Problem Name:  链表中倒数第k个节点 LCOF, 链表中倒数第k个节点
 # Problem Url:  https://leetcode-cn.com/problems/lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof/
 # Problem Level:  Easy
+# Language:  Python3
  
 # Definition for singly-linked list.
 # class ListNode:

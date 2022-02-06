@@ -2,6 +2,7 @@
 # Problem Name:  Find Lucky Integer in an Array, 找出数组中的幸运数
 # Problem Url:  https://leetcode-cn.com/problems/find-lucky-integer-in-an-array/
 # Problem Level:  Easy
+# Language:  Python3
  
 class Solution:
     def findLucky(self, arr: List[int]) -> int:

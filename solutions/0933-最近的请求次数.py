@@ -2,6 +2,7 @@
 # Problem Name:  Number of Recent Calls, 最近的请求次数
 # Problem Url:  https://leetcode-cn.com/problems/number-of-recent-calls/
 # Problem Level:  Easy
+# Language:  Python3
  
 class RecentCounter:
 

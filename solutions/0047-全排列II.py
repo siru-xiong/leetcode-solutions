@@ -2,6 +2,7 @@
 # Problem Name:  Permutations II, 全排列 II
 # Problem Url:  https://leetcode-cn.com/problems/permutations-ii/
 # Problem Level:  Medium
+# Language:  Python3
  
 class Solution:
     def per(self, nums: List[int]):

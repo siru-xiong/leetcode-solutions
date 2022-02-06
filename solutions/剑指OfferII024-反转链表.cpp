@@ -1,7 +1,8 @@
-# Problem Id:  剑指 Offer II 024
-# Problem Name:  反转链表, 反转链表
-# Problem Url:  https://leetcode-cn.com/problems/UHnkqh/
-# Problem Level:  Easy
+// Problem Id:  剑指 Offer II 024
+// Problem Name:  反转链表, 反转链表
+// Problem Url:  https://leetcode-cn.com/problems/UHnkqh/
+// Problem Level:  Easy
+// Language:  C++
  
 /**
  * Definition for singly-linked list.

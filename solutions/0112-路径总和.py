@@ -2,6 +2,7 @@
 # Problem Name:  Path Sum, 路径总和
 # Problem Url:  https://leetcode-cn.com/problems/path-sum/
 # Problem Level:  Easy
+# Language:  Python3
  
 # Definition for a binary tree node.
 # class TreeNode:

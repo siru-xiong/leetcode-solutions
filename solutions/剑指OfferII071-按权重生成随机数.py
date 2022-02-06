@@ -2,6 +2,7 @@
 # Problem Name:  按权重生成随机数, 按权重生成随机数
 # Problem Url:  https://leetcode-cn.com/problems/cuyjEf/
 # Problem Level:  Medium
+# Language:  Python3
  
 class Solution:
 

@@ -2,6 +2,7 @@
 # Problem Name:  Sqrt(x), x 的平方根 
 # Problem Url:  https://leetcode-cn.com/problems/sqrtx/
 # Problem Level:  Easy
+# Language:  Python3
  
 class Solution:
     def mySqrt(self, x: int) -> int:

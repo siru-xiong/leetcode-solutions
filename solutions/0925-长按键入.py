@@ -2,6 +2,7 @@
 # Problem Name:  Long Pressed Name, 长按键入
 # Problem Url:  https://leetcode-cn.com/problems/long-pressed-name/
 # Problem Level:  Easy
+# Language:  Python3
  
 class Solution:
     def isLongPressedName(self, name: str, typed: str) -> bool:

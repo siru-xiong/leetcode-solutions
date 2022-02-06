@@ -2,6 +2,7 @@
 # Problem Name:  Minimum Absolute Difference, 最小绝对差
 # Problem Url:  https://leetcode-cn.com/problems/minimum-absolute-difference/
 # Problem Level:  Easy
+# Language:  Python3
  
 class Solution:
     def minimumAbsDifference(self, arr: List[int]) -> List[List[int]]:

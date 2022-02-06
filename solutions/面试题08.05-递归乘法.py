@@ -2,6 +2,7 @@
 # Problem Name:  Recursive Mulitply LCCI, 递归乘法
 # Problem Url:  https://leetcode-cn.com/problems/recursive-mulitply-lcci/
 # Problem Level:  Medium
+# Language:  Python3
  
 class Solution:
     def multiply(self, A: int, B: int) -> int:

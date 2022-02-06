@@ -2,6 +2,7 @@
 # Problem Name:  Longest Palindromic Substring, 最长回文子串
 # Problem Url:  https://leetcode-cn.com/problems/longest-palindromic-substring/
 # Problem Level:  Medium
+# Language:  Python3
  
 class Solution:
     def longestPalindrome(self, s: str) -> str:

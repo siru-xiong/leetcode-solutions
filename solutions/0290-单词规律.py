@@ -2,6 +2,7 @@
 # Problem Name:  Word Pattern, 单词规律
 # Problem Url:  https://leetcode-cn.com/problems/word-pattern/
 # Problem Level:  Easy
+# Language:  Python3
  
 class Solution:
     def wordPattern(self, pattern: str, s: str) -> bool:

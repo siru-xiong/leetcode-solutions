@@ -2,6 +2,7 @@
 # Problem Name:  Greatest Common Divisor of Strings, 字符串的最大公因子
 # Problem Url:  https://leetcode-cn.com/problems/greatest-common-divisor-of-strings/
 # Problem Level:  Easy
+# Language:  Python3
  
 class Solution:
     def gcdOfStrings(self, str1: str, str2: str) -> str:

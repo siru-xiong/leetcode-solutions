@@ -2,6 +2,7 @@
 # Problem Name:  Plus One, 加一
 # Problem Url:  https://leetcode-cn.com/problems/plus-one/
 # Problem Level:  Easy
+# Language:  Python3
  
 class Solution:
     def plusOne(self, digits: List[int]) -> List[int]:

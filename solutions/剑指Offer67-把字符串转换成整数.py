@@ -2,6 +2,7 @@
 # Problem Name:  把字符串转换成整数 LCOF, 把字符串转换成整数
 # Problem Url:  https://leetcode-cn.com/problems/ba-zi-fu-chuan-zhuan-huan-cheng-zheng-shu-lcof/
 # Problem Level:  Medium
+# Language:  Python3
  
 class Solution:
     def strToInt(self, s: str) -> int:

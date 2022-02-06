@@ -2,6 +2,7 @@
 # Problem Name:  The Masseuse LCCI, 按摩师
 # Problem Url:  https://leetcode-cn.com/problems/the-masseuse-lcci/
 # Problem Level:  Easy
+# Language:  Python3
  
 class Solution:
     def massage(self, nums: List[int]) -> int:

@@ -2,6 +2,7 @@
 # Problem Name:  3Sum Smaller, 较小的三数之和
 # Problem Url:  https://leetcode-cn.com/problems/3sum-smaller/
 # Problem Level:  Medium
+# Language:  Python3
  
 class Solution:
     def threeSumSmaller(self, nums: List[int], target: int) -> int:

@@ -2,6 +2,7 @@
 # Problem Name:  N-ary Tree Preorder Traversal, N 叉树的前序遍历
 # Problem Url:  https://leetcode-cn.com/problems/n-ary-tree-preorder-traversal/
 # Problem Level:  Easy
+# Language:  Python3
  
 """
 # Definition for a Node.

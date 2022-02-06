@@ -2,6 +2,7 @@
 # Problem Name:  Relative Ranks, 相对名次
 # Problem Url:  https://leetcode-cn.com/problems/relative-ranks/
 # Problem Level:  Easy
+# Language:  Python3
  
 class Solution:
     def findRelativeRanks(self, score: List[int]) -> List[str]:

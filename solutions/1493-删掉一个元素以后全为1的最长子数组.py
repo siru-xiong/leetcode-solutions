@@ -2,6 +2,7 @@
 # Problem Name:  Longest Subarray of 1's After Deleting One Element, 删掉一个元素以后全为 1 的最长子数组
 # Problem Url:  https://leetcode-cn.com/problems/longest-subarray-of-1s-after-deleting-one-element/
 # Problem Level:  Medium
+# Language:  Python3
  
 class Solution:
     def longestSubarray(self, nums: List[int]) -> int:

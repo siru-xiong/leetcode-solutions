@@ -2,6 +2,7 @@
 # Problem Name:  Two Sum, 两数之和
 # Problem Url:  https://leetcode-cn.com/problems/two-sum/
 # Problem Level:  Easy
+# Language:  Python3
  
 class Solution:
     def twoSum(self, nums: List[int], target: int) -> List[int]:

@@ -2,6 +2,7 @@
 # Problem Name:  Coin Change, 零钱兑换
 # Problem Url:  https://leetcode-cn.com/problems/coin-change/
 # Problem Level:  Medium
+# Language:  Python3
  
 class Solution:
     def coinChange(self, coins: List[int], amount: int) -> int:

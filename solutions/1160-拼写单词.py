@@ -2,6 +2,7 @@
 # Problem Name:  Find Words That Can Be Formed by Characters, 拼写单词
 # Problem Url:  https://leetcode-cn.com/problems/find-words-that-can-be-formed-by-characters/
 # Problem Level:  Easy
+# Language:  Python3
  
 class Solution:
     def countCharacters(self, words: List[str], chars: str) -> int:

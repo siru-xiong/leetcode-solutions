@@ -2,6 +2,7 @@
 # Problem Name:  Reverse String, 反转字符串
 # Problem Url:  https://leetcode-cn.com/problems/reverse-string/
 # Problem Level:  Easy
+# Language:  Python3
  
 class Solution:
     def reverseString(self, s: List[str]) -> None:

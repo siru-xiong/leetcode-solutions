@@ -2,6 +2,7 @@
 # Problem Name:  Linked List Cycle, 环形链表
 # Problem Url:  https://leetcode-cn.com/problems/linked-list-cycle/
 # Problem Level:  Easy
+# Language:  Python3
  
 # Definition for singly-linked list.
 # class ListNode:

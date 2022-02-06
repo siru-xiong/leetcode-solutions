@@ -2,6 +2,7 @@
 # Problem Name:  Sum of Digits in the Minimum Number, 最小元素各数位之和
 # Problem Url:  https://leetcode-cn.com/problems/sum-of-digits-in-the-minimum-number/
 # Problem Level:  Easy
+# Language:  Python3
  
 class Solution:
     def sumOfDigits(self, nums: List[int]) -> int:

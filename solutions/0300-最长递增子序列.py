@@ -2,6 +2,7 @@
 # Problem Name:  Longest Increasing Subsequence, 最长递增子序列
 # Problem Url:  https://leetcode-cn.com/problems/longest-increasing-subsequence/
 # Problem Level:  Medium
+# Language:  Python3
  
 class Solution:
     def lengthOfLIS(self, nums: List[int]) -> int:

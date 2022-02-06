@@ -2,6 +2,7 @@
 # Problem Name:  Read N Characters Given Read4, 用 Read4 读取 N 个字符
 # Problem Url:  https://leetcode-cn.com/problems/read-n-characters-given-read4/
 # Problem Level:  Easy
+# Language:  Python3
  
 """
 The read4 API is already defined for you.

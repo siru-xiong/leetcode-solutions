@@ -2,6 +2,7 @@
 # Problem Name:  Maximum Units on a Truck, 卡车上的最大单元数
 # Problem Url:  https://leetcode-cn.com/problems/maximum-units-on-a-truck/
 # Problem Level:  Easy
+# Language:  Python3
  
 class Solution:
     def maximumUnits(self, boxTypes: List[List[int]], truckSize: int) -> int:

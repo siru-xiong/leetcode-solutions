@@ -2,6 +2,7 @@
 # Problem Name:  Random Point in Non-overlapping Rectangles, 非重叠矩形中的随机点
 # Problem Url:  https://leetcode-cn.com/problems/random-point-in-non-overlapping-rectangles/
 # Problem Level:  Medium
+# Language:  Python3
  
 class Solution:
 

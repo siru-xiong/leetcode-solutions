@@ -2,6 +2,7 @@
 # Problem Name:  Can Place Flowers, 种花问题
 # Problem Url:  https://leetcode-cn.com/problems/can-place-flowers/
 # Problem Level:  Easy
+# Language:  Python3
  
 class Solution:
     def canPlaceFlowers(self, flowerbed: List[int], n: int) -> bool:

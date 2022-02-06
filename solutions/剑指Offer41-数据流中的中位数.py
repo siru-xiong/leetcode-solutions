@@ -2,6 +2,7 @@
 # Problem Name:  数据流中的中位数  LCOF, 数据流中的中位数
 # Problem Url:  https://leetcode-cn.com/problems/shu-ju-liu-zhong-de-zhong-wei-shu-lcof/
 # Problem Level:  Hard
+# Language:  Python3
  
 class MedianFinder:
 

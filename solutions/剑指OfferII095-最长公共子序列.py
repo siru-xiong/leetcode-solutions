@@ -2,6 +2,7 @@
 # Problem Name:  最长公共子序列, 最长公共子序列
 # Problem Url:  https://leetcode-cn.com/problems/qJnOS7/
 # Problem Level:  Medium
+# Language:  Python3
  
 class Solution:
     def longestCommonSubsequence(self, text1: str, text2: str) -> int:

@@ -2,6 +2,7 @@
 # Problem Name:  Course Schedule, 课程表
 # Problem Url:  https://leetcode-cn.com/problems/course-schedule/
 # Problem Level:  Medium
+# Language:  Python3
  
 class Solution:
     def canFinish(self, numCourses: int, prerequisites: List[List[int]]) -> bool:

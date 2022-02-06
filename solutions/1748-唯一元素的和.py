@@ -2,6 +2,7 @@
 # Problem Name:  Sum of Unique Elements, 唯一元素的和
 # Problem Url:  https://leetcode-cn.com/problems/sum-of-unique-elements/
 # Problem Level:  Easy
+# Language:  Python3
  
 class Solution:
     def sumOfUnique(self, nums: List[int]) -> int:

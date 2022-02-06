@@ -2,6 +2,7 @@
 # Problem Name:  Maximum Length of Repeated Subarray, 最长重复子数组
 # Problem Url:  https://leetcode-cn.com/problems/maximum-length-of-repeated-subarray/
 # Problem Level:  Medium
+# Language:  Python3
  
 class Solution:
     def findLength(self, nums1: List[int], nums2: List[int]) -> int:

@@ -2,6 +2,7 @@
 # Problem Name:  Valid Perfect Square, 有效的完全平方数
 # Problem Url:  https://leetcode-cn.com/problems/valid-perfect-square/
 # Problem Level:  Easy
+# Language:  Python3
  
 class Solution:
     def isPerfectSquare(self, num: int) -> bool:

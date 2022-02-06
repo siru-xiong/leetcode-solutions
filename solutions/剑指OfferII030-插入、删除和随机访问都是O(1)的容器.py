@@ -2,6 +2,7 @@
 # Problem Name:  插入、删除和随机访问都是 O(1) 的容器, 插入、删除和随机访问都是 O(1) 的容器
 # Problem Url:  https://leetcode-cn.com/problems/FortPu/
 # Problem Level:  Medium
+# Language:  Python3
  
 class RandomizedSet:
 

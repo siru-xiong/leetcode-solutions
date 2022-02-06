@@ -1,7 +1,8 @@
-# Problem Id:  577
-# Problem Name:  Employee Bonus, 员工奖金
-# Problem Url:  https://leetcode-cn.com/problems/employee-bonus/
-# Problem Level:  Easy
+-- Problem Id:  577
+-- Problem Name:  Employee Bonus, 员工奖金
+-- Problem Url:  https://leetcode-cn.com/problems/employee-bonus/
+-- Problem Level:  Easy
+-- Language:  MySQL
  
 # Write your MySQL query statement below
 select name, bonus

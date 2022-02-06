@@ -2,6 +2,7 @@
 # Problem Name:  Find Common Characters, 查找共用字符
 # Problem Url:  https://leetcode-cn.com/problems/find-common-characters/
 # Problem Level:  Easy
+# Language:  Python3
  
 class Solution:
     def commonChars(self, A: List[str]) -> List[str]:

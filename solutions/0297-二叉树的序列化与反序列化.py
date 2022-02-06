@@ -2,6 +2,7 @@
 # Problem Name:  Serialize and Deserialize Binary Tree, 二叉树的序列化与反序列化
 # Problem Url:  https://leetcode-cn.com/problems/serialize-and-deserialize-binary-tree/
 # Problem Level:  Hard
+# Language:  Python3
  
 # Definition for a binary tree node.
 # class TreeNode(object):

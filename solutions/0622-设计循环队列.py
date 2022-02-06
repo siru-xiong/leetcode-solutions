@@ -2,6 +2,7 @@
 # Problem Name:  Design Circular Queue, 设计循环队列
 # Problem Url:  https://leetcode-cn.com/problems/design-circular-queue/
 # Problem Level:  Medium
+# Language:  Python3
  
 class MyCircularQueue:
 

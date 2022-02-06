@@ -2,6 +2,7 @@
 # Problem Name:  Partition Equal Subset Sum, 分割等和子集
 # Problem Url:  https://leetcode-cn.com/problems/partition-equal-subset-sum/
 # Problem Level:  Medium
+# Language:  Python3
  
 class Solution:
     def canPartition(self, nums: List[int]) -> bool:

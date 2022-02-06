@@ -2,6 +2,7 @@
 # Problem Name:  删除链表的节点 LCOF, 删除链表的节点
 # Problem Url:  https://leetcode-cn.com/problems/shan-chu-lian-biao-de-jie-dian-lcof/
 # Problem Level:  Easy
+# Language:  Python3
  
 # Definition for singly-linked list.
 # class ListNode:

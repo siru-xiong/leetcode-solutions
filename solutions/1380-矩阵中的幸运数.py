@@ -2,6 +2,7 @@
 # Problem Name:  Lucky Numbers in a Matrix, 矩阵中的幸运数
 # Problem Url:  https://leetcode-cn.com/problems/lucky-numbers-in-a-matrix/
 # Problem Level:  Easy
+# Language:  Python3
  
 class Solution:
     def luckyNumbers (self, matrix: List[List[int]]) -> List[int]:

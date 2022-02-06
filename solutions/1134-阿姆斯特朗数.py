@@ -2,6 +2,7 @@
 # Problem Name:  Armstrong Number, 阿姆斯特朗数
 # Problem Url:  https://leetcode-cn.com/problems/armstrong-number/
 # Problem Level:  Easy
+# Language:  Python3
  
 class Solution:
     def isArmstrong(self, n: int) -> bool:

@@ -2,6 +2,7 @@
 # Problem Name:  Longest Continuous Increasing Subsequence, 最长连续递增序列
 # Problem Url:  https://leetcode-cn.com/problems/longest-continuous-increasing-subsequence/
 # Problem Level:  Easy
+# Language:  Python3
  
 class Solution:
     def findLengthOfLCIS(self, nums: List[int]) -> int:

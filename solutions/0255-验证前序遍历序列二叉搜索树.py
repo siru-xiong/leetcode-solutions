@@ -2,6 +2,7 @@
 # Problem Name:  Verify Preorder Sequence in Binary Search Tree, 验证前序遍历序列二叉搜索树
 # Problem Url:  https://leetcode-cn.com/problems/verify-preorder-sequence-in-binary-search-tree/
 # Problem Level:  Medium
+# Language:  Python3
  
 class Solution:
     def verifyPreorder(self, preorder: List[int]) -> bool:

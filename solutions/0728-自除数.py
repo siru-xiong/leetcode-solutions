@@ -2,6 +2,7 @@
 # Problem Name:  Self Dividing Numbers, 自除数
 # Problem Url:  https://leetcode-cn.com/problems/self-dividing-numbers/
 # Problem Level:  Easy
+# Language:  Python3
  
 class Solution:
     def selfDividingNumbers(self, left: int, right: int) -> List[int]:

@@ -2,6 +2,7 @@
 # Problem Name:  Fizz Buzz, Fizz Buzz
 # Problem Url:  https://leetcode-cn.com/problems/fizz-buzz/
 # Problem Level:  Easy
+# Language:  Python3
  
 class Solution:
     def fizzBuzz(self, n: int) -> List[str]:

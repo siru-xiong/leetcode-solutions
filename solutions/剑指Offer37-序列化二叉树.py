@@ -2,6 +2,7 @@
 # Problem Name:  序列化二叉树  LCOF, 序列化二叉树
 # Problem Url:  https://leetcode-cn.com/problems/xu-lie-hua-er-cha-shu-lcof/
 # Problem Level:  Hard
+# Language:  Python3
  
 # Definition for a binary tree node.
 # class TreeNode(object):

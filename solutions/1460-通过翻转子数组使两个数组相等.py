@@ -2,6 +2,7 @@
 # Problem Name:  Make Two Arrays Equal by Reversing Sub-arrays, 通过翻转子数组使两个数组相等
 # Problem Url:  https://leetcode-cn.com/problems/make-two-arrays-equal-by-reversing-sub-arrays/
 # Problem Level:  Easy
+# Language:  Python3
  
 class Solution:
     def canBeEqual(self, target: List[int], arr: List[int]) -> bool:

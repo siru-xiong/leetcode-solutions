@@ -2,6 +2,7 @@
 # Problem Name:  Sum of Even Numbers After Queries, 查询后的偶数和
 # Problem Url:  https://leetcode-cn.com/problems/sum-of-even-numbers-after-queries/
 # Problem Level:  Medium
+# Language:  Python3
  
 class Solution:
     def sumEvenAfterQueries(self, A: List[int], queries: List[List[int]]) -> List[int]:

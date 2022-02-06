@@ -2,6 +2,7 @@
 # Problem Name:  Pascal's Triangle II, 杨辉三角 II
 # Problem Url:  https://leetcode-cn.com/problems/pascals-triangle-ii/
 # Problem Level:  Easy
+# Language:  Python3
  
 class Solution:
     def getRow(self, rowIndex: int) -> List[int]:

@@ -2,6 +2,7 @@
 # Problem Name:  Partition List, 分隔链表
 # Problem Url:  https://leetcode-cn.com/problems/partition-list/
 # Problem Level:  Medium
+# Language:  Python3
  
 # Definition for singly-linked list.
 # class ListNode:

@@ -2,6 +2,7 @@
 # Problem Name:  Count Negative Numbers in a Sorted Matrix, 统计有序矩阵中的负数
 # Problem Url:  https://leetcode-cn.com/problems/count-negative-numbers-in-a-sorted-matrix/
 # Problem Level:  Easy
+# Language:  Python3
  
 class Solution:
     def countNegatives(self, grid: List[List[int]]) -> int:

@@ -2,6 +2,7 @@
 # Problem Name:  Valid Anagram, 有效的字母异位词
 # Problem Url:  https://leetcode-cn.com/problems/valid-anagram/
 # Problem Level:  Easy
+# Language:  Python3
  
 class Solution:
     def isAnagram(self, s: str, t: str) -> bool:

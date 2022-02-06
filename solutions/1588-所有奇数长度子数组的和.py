@@ -2,6 +2,7 @@
 # Problem Name:  Sum of All Odd Length Subarrays, 所有奇数长度子数组的和
 # Problem Url:  https://leetcode-cn.com/problems/sum-of-all-odd-length-subarrays/
 # Problem Level:  Easy
+# Language:  Python3
  
 class Solution:
     def sumOddLengthSubarrays(self, arr: List[int]) -> int:

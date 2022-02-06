@@ -2,6 +2,7 @@
 # Problem Name:  斐波那契数列  LCOF, 斐波那契数列
 # Problem Url:  https://leetcode-cn.com/problems/fei-bo-na-qi-shu-lie-lcof/
 # Problem Level:  Easy
+# Language:  Python3
  
 class Solution:
     def fib(self, n: int) -> int:

@@ -2,6 +2,7 @@
 # Problem Name:  Happy Number, 快乐数
 # Problem Url:  https://leetcode-cn.com/problems/happy-number/
 # Problem Level:  Easy
+# Language:  Python3
  
 class Solution:
     def get_next(self, n: int) -> int:

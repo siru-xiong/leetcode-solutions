@@ -2,6 +2,7 @@
 # Problem Name:  Sort Colors, 颜色分类
 # Problem Url:  https://leetcode-cn.com/problems/sort-colors/
 # Problem Level:  Medium
+# Language:  Python3
  
 class Solution:
     def sortColors(self, nums: List[int]) -> None:

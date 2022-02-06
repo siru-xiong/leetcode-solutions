@@ -2,6 +2,7 @@
 # Problem Name:  Generate Random Point in a Circle, 在圆内随机生成点
 # Problem Url:  https://leetcode-cn.com/problems/generate-random-point-in-a-circle/
 # Problem Level:  Medium
+# Language:  Python3
  
 class Solution:
 

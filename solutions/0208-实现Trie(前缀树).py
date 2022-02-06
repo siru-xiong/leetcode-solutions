@@ -2,6 +2,7 @@
 # Problem Name:  Implement Trie (Prefix Tree), 实现 Trie (前缀树)
 # Problem Url:  https://leetcode-cn.com/problems/implement-trie-prefix-tree/
 # Problem Level:  Medium
+# Language:  Python3
  
 class Node:
     def __init__(self, val=None, children=None):

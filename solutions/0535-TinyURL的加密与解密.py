@@ -2,6 +2,7 @@
 # Problem Name:  Encode and Decode TinyURL, TinyURL 的加密与解密
 # Problem Url:  https://leetcode-cn.com/problems/encode-and-decode-tinyurl/
 # Problem Level:  Medium
+# Language:  Python3
  
 class Codec:
 

@@ -2,6 +2,7 @@
 # Problem Name:  Missing Number, 丢失的数字
 # Problem Url:  https://leetcode-cn.com/problems/missing-number/
 # Problem Level:  Easy
+# Language:  Python3
  
 class Solution:
     def missingNumber(self, nums: List[int]) -> int:

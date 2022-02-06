@@ -2,6 +2,7 @@
 # Problem Name:  Matrix Block Sum, 矩阵区域和
 # Problem Url:  https://leetcode-cn.com/problems/matrix-block-sum/
 # Problem Level:  Medium
+# Language:  Python3
  
 class Solution:
     def matrixBlockSum(self, mat: List[List[int]], K: int) -> List[List[int]]:

@@ -2,6 +2,7 @@
 # Problem Name:  包含min函数的栈 LCOF, 包含min函数的栈
 # Problem Url:  https://leetcode-cn.com/problems/bao-han-minhan-shu-de-zhan-lcof/
 # Problem Level:  Easy
+# Language:  Python3
  
 class MinStack:
 

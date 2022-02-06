@@ -2,6 +2,7 @@
 # Problem Name:  Triangle, 三角形最小路径和
 # Problem Url:  https://leetcode-cn.com/problems/triangle/
 # Problem Level:  Medium
+# Language:  Python3
  
 class Solution:
     def minimumTotal(self, triangle: List[List[int]]) -> int:

@@ -2,6 +2,7 @@
 # Problem Name:  Special Array With X Elements Greater Than or Equal X, 特殊数组的特征值
 # Problem Url:  https://leetcode-cn.com/problems/special-array-with-x-elements-greater-than-or-equal-x/
 # Problem Level:  Easy
+# Language:  Python3
  
 class Solution:
     def specialArray(self, nums: List[int]) -> int:

@@ -2,6 +2,7 @@
 # Problem Name:  Decode XORed Array, 解码异或后的数组
 # Problem Url:  https://leetcode-cn.com/problems/decode-xored-array/
 # Problem Level:  Easy
+# Language:  Python3
  
 class Solution:
     def decode(self, encoded: List[int], first: int) -> List[int]:

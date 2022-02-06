@@ -2,6 +2,7 @@
 # Problem Name:  Count Items Matching a Rule, 统计匹配检索规则的物品数量
 # Problem Url:  https://leetcode-cn.com/problems/count-items-matching-a-rule/
 # Problem Level:  Easy
+# Language:  Python3
  
 class Solution:
     def countMatches(self, items: List[List[str]], ruleKey: str, ruleValue: str) -> int:

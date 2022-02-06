@@ -1,7 +1,8 @@
-# Problem Id:  608
-# Problem Name:  Tree Node, 树节点
-# Problem Url:  https://leetcode-cn.com/problems/tree-node/
-# Problem Level:  Medium
+-- Problem Id:  608
+-- Problem Name:  Tree Node, 树节点
+-- Problem Url:  https://leetcode-cn.com/problems/tree-node/
+-- Problem Level:  Medium
+-- Language:  MySQL
  
 # Write your MySQL query statement below】
 select t.id, t.type from

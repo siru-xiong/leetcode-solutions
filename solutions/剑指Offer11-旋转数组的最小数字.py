@@ -2,6 +2,7 @@
 # Problem Name:  旋转数组的最小数字  LCOF, 旋转数组的最小数字
 # Problem Url:  https://leetcode-cn.com/problems/xuan-zhuan-shu-zu-de-zui-xiao-shu-zi-lcof/
 # Problem Level:  Easy
+# Language:  Python3
  
 class Solution:
     def minArray(self, numbers: List[int]) -> int:

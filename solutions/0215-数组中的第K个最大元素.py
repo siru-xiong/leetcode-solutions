@@ -2,6 +2,7 @@
 # Problem Name:  Kth Largest Element in an Array, 数组中的第K个最大元素
 # Problem Url:  https://leetcode-cn.com/problems/kth-largest-element-in-an-array/
 # Problem Level:  Medium
+# Language:  Python3
  
 class Solution:
     def findKthLargest(self, nums: List[int], k: int) -> int:

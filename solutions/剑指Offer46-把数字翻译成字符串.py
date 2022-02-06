@@ -2,6 +2,7 @@
 # Problem Name:  把数字翻译成字符串 LCOF, 把数字翻译成字符串
 # Problem Url:  https://leetcode-cn.com/problems/ba-shu-zi-fan-yi-cheng-zi-fu-chuan-lcof/
 # Problem Level:  Medium
+# Language:  Python3
  
 class Solution:
     def translateNum(self, num: int) -> int:

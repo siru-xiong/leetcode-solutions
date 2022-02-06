@@ -2,6 +2,7 @@
 # Problem Name:  Power Set LCCI, 幂集
 # Problem Url:  https://leetcode-cn.com/problems/power-set-lcci/
 # Problem Level:  Medium
+# Language:  Python3
  
 class Solution:
     def subsets(self, nums: List[int]) -> List[List[int]]:

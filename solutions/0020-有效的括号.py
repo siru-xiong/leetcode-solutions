@@ -2,6 +2,7 @@
 # Problem Name:  Valid Parentheses, 有效的括号
 # Problem Url:  https://leetcode-cn.com/problems/valid-parentheses/
 # Problem Level:  Easy
+# Language:  Python3
  
 class Solution:
     def isValid(self, s: str) -> bool:

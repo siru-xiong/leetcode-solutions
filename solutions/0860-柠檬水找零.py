@@ -2,6 +2,7 @@
 # Problem Name:  Lemonade Change, 柠檬水找零
 # Problem Url:  https://leetcode-cn.com/problems/lemonade-change/
 # Problem Level:  Easy
+# Language:  Python3
  
 class Solution:
     def lemonadeChange(self, bills: List[int]) -> bool:

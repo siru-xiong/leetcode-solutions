@@ -2,6 +2,7 @@
 # Problem Name:  Find Peak Element, 寻找峰值
 # Problem Url:  https://leetcode-cn.com/problems/find-peak-element/
 # Problem Level:  Medium
+# Language:  Python3
  
 class Solution:
     def findPeakElement(self, nums: List[int]) -> int:

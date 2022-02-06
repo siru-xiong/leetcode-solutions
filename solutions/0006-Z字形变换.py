@@ -2,6 +2,7 @@
 # Problem Name:  ZigZag Conversion, Z 字形变换
 # Problem Url:  https://leetcode-cn.com/problems/zigzag-conversion/
 # Problem Level:  Medium
+# Language:  Python3
  
 class Solution:
     def convert(self, s: str, numRows: int) -> str:

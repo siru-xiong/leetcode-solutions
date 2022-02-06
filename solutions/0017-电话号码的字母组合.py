@@ -2,6 +2,7 @@
 # Problem Name:  Letter Combinations of a Phone Number, 电话号码的字母组合
 # Problem Url:  https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number/
 # Problem Level:  Medium
+# Language:  Python3
  
 class Solution:
     def letterCombinations(self, digits: str) -> List[str]:

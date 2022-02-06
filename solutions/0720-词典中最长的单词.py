@@ -2,6 +2,7 @@
 # Problem Name:  Longest Word in Dictionary, 词典中最长的单词
 # Problem Url:  https://leetcode-cn.com/problems/longest-word-in-dictionary/
 # Problem Level:  Easy
+# Language:  Python3
  
 class Solution:
     def longestWord(self, words: List[str]) -> str:

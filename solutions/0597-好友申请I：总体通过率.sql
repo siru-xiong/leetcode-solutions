@@ -1,7 +1,8 @@
-# Problem Id:  597
-# Problem Name:  Friend Requests I: Overall Acceptance Rate, 好友申请 I：总体通过率
-# Problem Url:  https://leetcode-cn.com/problems/friend-requests-i-overall-acceptance-rate/
-# Problem Level:  Easy
+-- Problem Id:  597
+-- Problem Name:  Friend Requests I: Overall Acceptance Rate, 好友申请 I：总体通过率
+-- Problem Url:  https://leetcode-cn.com/problems/friend-requests-i-overall-acceptance-rate/
+-- Problem Level:  Easy
+-- Language:  MySQL
  
 # Write your MySQL query statement below
 select

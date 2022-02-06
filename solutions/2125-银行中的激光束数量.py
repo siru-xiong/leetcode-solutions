@@ -2,6 +2,7 @@
 # Problem Name:  Number of Laser Beams in a Bank, 银行中的激光束数量
 # Problem Url:  https://leetcode-cn.com/problems/number-of-laser-beams-in-a-bank/
 # Problem Level:  Medium
+# Language:  Python3
  
 class Solution:
     def numberOfBeams(self, bank: List[str]) -> int:

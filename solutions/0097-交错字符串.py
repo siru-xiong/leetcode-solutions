@@ -2,6 +2,7 @@
 # Problem Name:  Interleaving String, 交错字符串
 # Problem Url:  https://leetcode-cn.com/problems/interleaving-string/
 # Problem Level:  Medium
+# Language:  Python3
  
 class Solution:
     def isInterleave(self, s1: str, s2: str, s3: str) -> bool:

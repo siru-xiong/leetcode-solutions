@@ -2,6 +2,7 @@
 # Problem Name:  Reverse Integer, 整数反转
 # Problem Url:  https://leetcode-cn.com/problems/reverse-integer/
 # Problem Level:  Medium
+# Language:  Python3
  
 class Solution:
     def reverse(self, x: int) -> int:

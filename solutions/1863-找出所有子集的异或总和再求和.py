@@ -2,6 +2,7 @@
 # Problem Name:  Sum of All Subset XOR Totals, 找出所有子集的异或总和再求和
 # Problem Url:  https://leetcode-cn.com/problems/sum-of-all-subset-xor-totals/
 # Problem Level:  Easy
+# Language:  Python3
  
 class Solution:
     def subsetXORSum(self, nums: List[int]) -> int:

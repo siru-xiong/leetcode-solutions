@@ -2,6 +2,7 @@
 # Problem Name:  Search Insert Position, 搜索插入位置
 # Problem Url:  https://leetcode-cn.com/problems/search-insert-position/
 # Problem Level:  Easy
+# Language:  Python3
  
 class Solution:
     def searchInsert(self, nums: List[int], target: int) -> int:

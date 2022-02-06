@@ -2,6 +2,7 @@
 # Problem Name:  二叉搜索树的后序遍历序列 LCOF, 二叉搜索树的后序遍历序列
 # Problem Url:  https://leetcode-cn.com/problems/er-cha-sou-suo-shu-de-hou-xu-bian-li-xu-lie-lcof/
 # Problem Level:  Medium
+# Language:  Python3
  
 class Solution:
     def verifyPostorder(self, postorder: List[int]) -> bool:

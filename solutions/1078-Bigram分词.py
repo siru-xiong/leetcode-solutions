@@ -2,6 +2,7 @@
 # Problem Name:  Occurrences After Bigram, Bigram 分词
 # Problem Url:  https://leetcode-cn.com/problems/occurrences-after-bigram/
 # Problem Level:  Easy
+# Language:  Python3
  
 class Solution:
     def findOcurrences(self, text: str, first: str, second: str) -> List[str]:

@@ -2,6 +2,7 @@
 # Problem Name:  Add to Array-Form of Integer, 数组形式的整数加法
 # Problem Url:  https://leetcode-cn.com/problems/add-to-array-form-of-integer/
 # Problem Level:  Easy
+# Language:  Python3
  
 class Solution:
     def addToArrayForm(self, A: List[int], K: int) -> List[int]:

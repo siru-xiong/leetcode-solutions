@@ -2,6 +2,7 @@
 # Problem Name:  Implement Rand10() Using Rand7(), 用 Rand7() 实现 Rand10()
 # Problem Url:  https://leetcode-cn.com/problems/implement-rand10-using-rand7/
 # Problem Level:  Medium
+# Language:  Python3
  
 # The rand7() API is already defined for you.
 # def rand7():

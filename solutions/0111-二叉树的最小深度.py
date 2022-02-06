@@ -2,6 +2,7 @@
 # Problem Name:  Minimum Depth of Binary Tree, 二叉树的最小深度
 # Problem Url:  https://leetcode-cn.com/problems/minimum-depth-of-binary-tree/
 # Problem Level:  Easy
+# Language:  Python3
  
 # Definition for a binary tree node.
 # class TreeNode:

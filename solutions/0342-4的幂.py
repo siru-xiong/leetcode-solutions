@@ -2,6 +2,7 @@
 # Problem Name:  Power of Four, 4的幂
 # Problem Url:  https://leetcode-cn.com/problems/power-of-four/
 # Problem Level:  Easy
+# Language:  Python3
  
 class Solution:
     def isPowerOfFour(self, n: int) -> bool:

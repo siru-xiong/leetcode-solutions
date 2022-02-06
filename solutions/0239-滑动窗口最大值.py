@@ -2,6 +2,7 @@
 # Problem Name:  Sliding Window Maximum, 滑动窗口最大值
 # Problem Url:  https://leetcode-cn.com/problems/sliding-window-maximum/
 # Problem Level:  Hard
+# Language:  Python3
  
 class Solution:
     def maxSlidingWindow(self, nums: List[int], k: int) -> List[int]:

@@ -2,6 +2,7 @@
 # Problem Name:  Delete Middle Node LCCI, 删除中间节点
 # Problem Url:  https://leetcode-cn.com/problems/delete-middle-node-lcci/
 # Problem Level:  Easy
+# Language:  Python3
  
 # Definition for singly-linked list.
 # class ListNode:

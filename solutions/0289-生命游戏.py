@@ -2,6 +2,7 @@
 # Problem Name:  Game of Life, 生命游戏
 # Problem Url:  https://leetcode-cn.com/problems/game-of-life/
 # Problem Level:  Medium
+# Language:  Python3
  
 class Solution:
     def gameOfLife(self, board: List[List[int]]) -> None:

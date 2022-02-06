@@ -2,6 +2,7 @@
 # Problem Name:  构建乘积数组 LCOF, 构建乘积数组
 # Problem Url:  https://leetcode-cn.com/problems/gou-jian-cheng-ji-shu-zu-lcof/
 # Problem Level:  Medium
+# Language:  Python3
  
 class Solution:
     def constructArr(self, a: List[int]) -> List[int]:

@@ -2,6 +2,7 @@
 # Problem Name:  传递信息, 传递信息
 # Problem Url:  https://leetcode-cn.com/problems/chuan-di-xin-xi/
 # Problem Level:  Easy
+# Language:  Python3
  
 class Solution:
     def numWays(self, n: int, relation: List[List[int]], k: int,start = 0) -> int:

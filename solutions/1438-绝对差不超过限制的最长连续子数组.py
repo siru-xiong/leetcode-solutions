@@ -2,6 +2,7 @@
 # Problem Name:  Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit, 绝对差不超过限制的最长连续子数组
 # Problem Url:  https://leetcode-cn.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/
 # Problem Level:  Medium
+# Language:  Python3
  
 class Solution:
     def longestSubarray(self, nums: List[int], limit: int) -> int:

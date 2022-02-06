@@ -2,6 +2,7 @@
 # Problem Name:  Check If It Is a Straight Line, 缀点成线
 # Problem Url:  https://leetcode-cn.com/problems/check-if-it-is-a-straight-line/
 # Problem Level:  Easy
+# Language:  Python3
  
 class Solution:
     def checkStraightLine(self, coordinates: List[List[int]]) -> bool:

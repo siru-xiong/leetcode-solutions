@@ -2,6 +2,7 @@
 # Problem Name:  Largest Perimeter Triangle, 三角形的最大周长
 # Problem Url:  https://leetcode-cn.com/problems/largest-perimeter-triangle/
 # Problem Level:  Easy
+# Language:  Python3
  
 class Solution:
     def largestPerimeter(self, A: List[int]) -> int:

@@ -2,6 +2,7 @@
 # Problem Name:  最长不含重复字符的子字符串 LCOF, 最长不含重复字符的子字符串
 # Problem Url:  https://leetcode-cn.com/problems/zui-chang-bu-han-zhong-fu-zi-fu-de-zi-zi-fu-chuan-lcof/
 # Problem Level:  Medium
+# Language:  Python3
  
 class Solution:
     def lengthOfLongestSubstring(self, s: str) -> int:

@@ -2,6 +2,7 @@
 # Problem Name:  Three in One LCCI, 三合一
 # Problem Url:  https://leetcode-cn.com/problems/three-in-one-lcci/
 # Problem Level:  Easy
+# Language:  Python3
  
 class TripleInOne:
 

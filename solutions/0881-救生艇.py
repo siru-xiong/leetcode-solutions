@@ -2,6 +2,7 @@
 # Problem Name:  Boats to Save People, 救生艇
 # Problem Url:  https://leetcode-cn.com/problems/boats-to-save-people/
 # Problem Level:  Medium
+# Language:  Python3
  
 class Solution:
     def numRescueBoats(self, people: List[int], limit: int) -> int:

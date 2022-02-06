@@ -2,6 +2,7 @@
 # Problem Name:  Maximum Value after Insertion, 插入后的最大值
 # Problem Url:  https://leetcode-cn.com/problems/maximum-value-after-insertion/
 # Problem Level:  Medium
+# Language:  Python3
  
 class Solution:
     def maxValue(self, n: str, x: int) -> str:

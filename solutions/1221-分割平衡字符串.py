@@ -2,6 +2,7 @@
 # Problem Name:  Split a String in Balanced Strings, 分割平衡字符串
 # Problem Url:  https://leetcode-cn.com/problems/split-a-string-in-balanced-strings/
 # Problem Level:  Easy
+# Language:  Python3
  
 class Solution:
     def balancedStringSplit(self, s: str) -> int:

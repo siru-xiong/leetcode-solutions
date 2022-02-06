@@ -2,6 +2,7 @@
 # Problem Name:  Climbing Stairs, 爬楼梯
 # Problem Url:  https://leetcode-cn.com/problems/climbing-stairs/
 # Problem Level:  Easy
+# Language:  Python3
  
 class Solution:
     def climbStairs(self, n: int) -> int:

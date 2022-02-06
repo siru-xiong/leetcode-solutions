@@ -2,6 +2,7 @@
 # Problem Name:  Subarray Sum Equals K, 和为 K 的子数组
 # Problem Url:  https://leetcode-cn.com/problems/subarray-sum-equals-k/
 # Problem Level:  Medium
+# Language:  Python3
  
 class Solution:
     def subarraySum(self, nums: List[int], k: int) -> int:

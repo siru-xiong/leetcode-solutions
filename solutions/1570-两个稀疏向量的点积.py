@@ -2,6 +2,7 @@
 # Problem Name:  Dot Product of Two Sparse Vectors, 两个稀疏向量的点积
 # Problem Url:  https://leetcode-cn.com/problems/dot-product-of-two-sparse-vectors/
 # Problem Level:  Medium
+# Language:  Python3
  
 class SparseVector:
     def __init__(self, nums: List[int]):

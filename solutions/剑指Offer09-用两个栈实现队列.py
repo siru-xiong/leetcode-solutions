@@ -2,6 +2,7 @@
 # Problem Name:  用两个栈实现队列 LCOF, 用两个栈实现队列
 # Problem Url:  https://leetcode-cn.com/problems/yong-liang-ge-zhan-shi-xian-dui-lie-lcof/
 # Problem Level:  Easy
+# Language:  Python3
  
 class CQueue:
 

@@ -2,6 +2,7 @@
 # Problem Name:  Unique Paths II, 不同路径 II
 # Problem Url:  https://leetcode-cn.com/problems/unique-paths-ii/
 # Problem Level:  Medium
+# Language:  Python3
  
 class Solution:
     def uniquePathsWithObstacles(self, obstacleGrid: List[List[int]]) -> int:

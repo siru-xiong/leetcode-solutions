@@ -2,6 +2,7 @@
 # Problem Name:  Minimum Value to Get Positive Step by Step Sum, 逐步求和得到正数的最小值
 # Problem Url:  https://leetcode-cn.com/problems/minimum-value-to-get-positive-step-by-step-sum/
 # Problem Level:  Easy
+# Language:  Python3
  
 class Solution:
     def minStartValue(self, nums: List[int]) -> int:
