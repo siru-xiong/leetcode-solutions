@@ -21,7 +21,7 @@
 - `outputDir`为输出目录，爬取的提交记录将存储在该目录
 - `time`为时间，程序将只爬取最近`time`天的提交记录
 
-3. 为Python安装Requests模块
+3. 为Python安装Requests模块。
 
 4. 运行`python main.py`，静静等待即可。
 
