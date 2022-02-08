@@ -6,9 +6,9 @@
 
 ## 使用
 
-下载[本仓库](https://github.com/siru-xiong/leetcode-solutions)下的[main](https://github.com/siru-xiong/leetcode-solutions/blob/main/main)和[config.json](https://github.com/siru-xiong/leetcode-solutions/blob/main/config.json)到本地，并放置在同一目录下。
+1. 下载[本仓库](https://github.com/siru-xiong/leetcode-solutions)下的[main.py](https://github.com/siru-xiong/leetcode-solutions/blob/main/main.py)和[config.json](https://github.com/siru-xiong/leetcode-solutions/blob/main/config.json)到本地，并放置在同一目录下。
 
-修改`config.json`文件为以下格式
+2. 修改`config.json`文件为以下格式
 ```
 {
     "username": "your_username",
@@ -21,7 +21,9 @@
 - `outputDir`为输出目录，爬取的提交记录将存储在该目录
 - `time`为时间，程序将只爬取最近`time`天的提交记录
 
-然后，运行`./main`，静静等待即可。
+3. 为Python安装Requests模块
+
+4. 运行`python main.py`，静静等待即可。
 
 为了防止频繁请求造成连接断开，程序会不定时休眠20秒，保证稳定性。因网络原因导致的失败将会自动重试一次。
 
